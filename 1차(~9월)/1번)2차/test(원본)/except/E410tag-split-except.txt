@@ -1,0 +1,9 @@
+이전	NNG
+말	NNG
+지방	NNG
+점	NNG
+이해	NNG
+사회	NNG
+전반	NNG
+보상	NNG
+자신	NNG

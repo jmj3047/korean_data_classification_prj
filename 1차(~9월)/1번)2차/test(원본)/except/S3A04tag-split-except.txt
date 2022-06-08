@@ -1,0 +1,12 @@
+쓰	VV
+신부	NNG
+인사	NNG
+찍	VV
+그리	VV
+치	VV
+화장	NNG
+띠	NNG
+대	NNG
+묻	VV
+밤	NNG
+일	NNG

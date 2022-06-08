@@ -1,0 +1,16 @@
+발레	NNG
+심청	NNP
+한국	NNP
+뜨	VV
+빠지	VV
+의상	NNP
+추천하	VV
+당첨되	VV
+심청전	NNP
+표현하	VV
+이상	NNG
+생각하	VV
+표현되	VV
+뱃사람	NNG
+군무	NNG
+점	NNG

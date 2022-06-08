@@ -1,0 +1,7 @@
+다가	EC
+습니까	EC
+라고	EC
+다고	EC
+는데요	EC
+라는	ETM
+다는	ETM

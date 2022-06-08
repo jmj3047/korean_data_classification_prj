@@ -1,0 +1,9 @@
+다양하	VA
+비슷	NNG
+다리	NNG
+돌고래	NNG
+수달	NNG
+나팔	NNG
+지르	VV
+심	NNG
+하나	NNG

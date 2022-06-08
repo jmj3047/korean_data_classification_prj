@@ -1,0 +1,9 @@
+피로감	NNG
+이상	NNG
+심	NNG
+적당	NNG
+맞	VV
+공기	NNG
+신선	NNG
+허브	NNG
+차	NNG

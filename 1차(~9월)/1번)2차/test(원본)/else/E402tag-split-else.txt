@@ -1,0 +1,14 @@
+한국	NNP
+미니홈피	NNG
+활발	NNG
+다운로드하	VV
+점	NNG
+하나	NNG
+지원	NNG
+한국어	NNP
+대	NNG
+말	NNG
+복잡	NNG
+포기	NNG
+다양하	VA
+고려	NNG

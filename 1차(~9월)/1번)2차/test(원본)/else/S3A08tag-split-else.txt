@@ -1,0 +1,13 @@
+표	NNG
+안내기	NNG
+이상	NNG
+매수	NNG
+꼭	MAG
+미나	NNP
+지훈	NNP
+치	VV
+보민	NNG
+서강	NNP
+감사	NNG
+다양하	VA
+죄송	NNG

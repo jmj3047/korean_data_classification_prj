@@ -1,0 +1,11 @@
+말	NNG
+사회	NNG
+대	NNG
+따르	VV
+찍	VV
+위	NNG
+쓰	VV
+일	NNG
+대접	NNG
+자리	NNG
+이해	NNG

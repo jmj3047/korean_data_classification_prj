@@ -1,0 +1,13 @@
+공부히	NNG
+서강대학교	NNP
+미국	NNP
+제이슨	NNP
+한국	NNP
+점	NNG
+이상	NNG
+대	NNG
+궁금	NNG
+한국어	NNP
+말	NNG
+맞	VV
+익숙	NNG

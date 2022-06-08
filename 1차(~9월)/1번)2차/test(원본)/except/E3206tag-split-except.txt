@@ -1,0 +1,7 @@
+말	NNG
+상	NNG
+일	NNG
+이상	NNG
+화	NNG
+자신	NNG
+사회	NNG

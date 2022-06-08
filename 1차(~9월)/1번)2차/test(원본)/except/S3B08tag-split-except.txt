@@ -1,0 +1,5 @@
+일	NNG
+대	NNG
+해	NNG
+열리	VV
+관리	NNG

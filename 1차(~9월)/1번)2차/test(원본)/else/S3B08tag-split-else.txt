@@ -1,0 +1,13 @@
+전공과목	NNG
+한국	NNP
+일	NNG
+익숙	NNG
+대	NNG
+소중	NNG
+해	NNG
+한국어	NNP
+경주	NNP
+열리	VV
+하프	NNG
+나카	NNG
+관리	NNG

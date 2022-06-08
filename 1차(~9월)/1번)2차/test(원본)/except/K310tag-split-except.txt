@@ -1,0 +1,9 @@
+자신	NNG
+대	NNG
+검사	NNG
+따르	VV
+이해	NNG
+일	NNG
+보수	NNG
+보상	NNG
+발전	NNG

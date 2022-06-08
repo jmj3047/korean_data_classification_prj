@@ -1,0 +1,10 @@
+안녕	NNG
+승우	NNP
+가사	NNG
+오래되	VV
+이성	NNG
+이야깃거리	NNG
+면	NNG
+심심	NNG
+이상	NNG
+피노키오	NNP

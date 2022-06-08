@@ -1,0 +1,17 @@
+공부하	VV
+복사하	VV
+과	NNG
+말	NNG
+말하	VV
+키	NNG
+치	VV
+맞	VV
+이야기하	VV
+일하	VV
+ㄹ	NNG
+전화하	VV
+일	NNG
+불평하	VV
+이상	NNG
+통화하	VV
+욕하	VV

@@ -1,0 +1,13 @@
+부족	NNG
+칼슘	NNG
+휘어지	VV
+미국	NNP
+터프츠	NNG
+캐서린	NNP
+터커	NNP
+충분	NNG
+심장병	NNG
+한국건강관리협회	NNP
+말	NNG
+연어	NNG
+비타민제	NNG

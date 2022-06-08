@@ -1,0 +1,11 @@
+외대	NNP
+저렴	NNG
+스테이크	NNG
+한국	NNP
+궁금	NNG
+걷	VV
+샐러드	NNG
+배	NNG
+살살	MAG
+달콤	NNG
+맞	VV

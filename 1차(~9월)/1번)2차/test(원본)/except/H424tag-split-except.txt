@@ -1,0 +1,9 @@
+대	NNG
+주	NNG
+지적	NNG
+사회	NNG
+소재	NNG
+과	NNG
+밤	NNG
+시청	NNG
+대체	NNG

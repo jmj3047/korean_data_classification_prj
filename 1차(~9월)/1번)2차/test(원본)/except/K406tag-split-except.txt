@@ -1,0 +1,13 @@
+기술	NNG
+발전	NNG
+배	NNG
+대	NNG
+사고	NNG
+구조	NNG
+따르	VV
+말	NNG
+켜	VV
+찍	VV
+프로	NNG
+열리	VV
+깨	VV

@@ -1,0 +1,5 @@
+일	NNG
+경비	NNG
+이상	NNG
+묻	VV
+말	NNG

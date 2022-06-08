@@ -1,0 +1,17 @@
+자신	NNG
+대	NNG
+우	NNP
+다양하	VA
+검사	NNG
+업	NNG
+명확	NNG
+따르	VV
+이해	NNG
+성취감	NNG
+일	NNG
+보수	NNG
+보상	NNG
+안정성	NNG
+사회봉사	NNG
+발전	NNG
+창의	NNG

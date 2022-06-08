@@ -1,0 +1,9 @@
+배	NNG
+공기	NNG
+남	NNG
+말	NNG
+사과	NNG
+일	NNG
+사고	NNG
+다리	NNG
+맞	VV

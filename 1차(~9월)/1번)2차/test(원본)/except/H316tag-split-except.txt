@@ -1,0 +1,6 @@
+구	NNG
+말	NNG
+철	NNG
+금	NNG
+포기	NNG
+일	NNG

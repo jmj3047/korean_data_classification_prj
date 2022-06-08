@@ -1,0 +1,9 @@
+사회	NNG
+세	VV
+대	NNG
+자신	NNG
+맞	VV
+일	NNG
+보상	NNG
+사기	NNG
+위	NNG

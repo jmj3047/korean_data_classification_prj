@@ -1,0 +1,7 @@
+대상	NNG
+조사	NNG
+예	NNG
+안	NNG
+따르	VV
+차	NNG
+말	NNG

@@ -1,0 +1,6 @@
+점	NNG
+지원	NNG
+대	NNG
+말	NNG
+포기	NNG
+고려	NNG

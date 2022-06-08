@@ -1,0 +1,13 @@
+다양하	VA
+말	NNG
+상	NNG
+일	NNG
+이상	NNG
+이러	NNG
+화	NNG
+말대답	NNG
+자신	NNG
+억울	NNG
+사회	NNG
+서로	NNG
+소중	NNG

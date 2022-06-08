@@ -1,0 +1,9 @@
+민호	NNP
+서울	NNP
+일	NNG
+수진	NNP
+유학	NNG
+익숙	NNG
+궁금	NNG
+타	VV
+이소라	NNP

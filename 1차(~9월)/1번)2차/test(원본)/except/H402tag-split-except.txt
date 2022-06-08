@@ -1,0 +1,6 @@
+안	NNG
+말	NNG
+인사	NNG
+일	NNG
+쓰	VV
+차	NNG

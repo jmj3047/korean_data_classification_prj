@@ -1,0 +1,10 @@
+중국	NNP
+렌핑	NNG
+한국	NNP
+일	NNG
+두리번	NNG
+경비	NNG
+이상	NNG
+한국어	NNP
+묻	VV
+말	NNG

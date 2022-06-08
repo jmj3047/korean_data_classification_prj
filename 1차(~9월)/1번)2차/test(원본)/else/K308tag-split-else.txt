@@ -1,0 +1,14 @@
+심	NNG
+거식증	NNG
+폭식증	NNG
+설사약	NNG
+유전적	NNG
+이상	NNG
+대	NNG
+말	NNG
+포만감	NNG
+호르몬	NNG
+정상	NNG
+자신	NNG
+사회	NNG
+날씬	NNG

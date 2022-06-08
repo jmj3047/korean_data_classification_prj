@@ -1,0 +1,4 @@
+이상	NNG
+맞	VV
+공기	NNG
+차	NNG

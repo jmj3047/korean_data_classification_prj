@@ -1,0 +1,4 @@
+뜨	VV
+빠지	VV
+이상	NNG
+점	NNG
