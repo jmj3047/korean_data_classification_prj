@@ -1,0 +1,17 @@
+한국	NNP
+한국	NNP
+미니홈피	NNG
+활발	NNG
+다운로드하	VV
+한국	NNP
+하나	NNG
+한국	NNP
+한국어	NNP
+한국어	NNP
+한국	NNP
+한국	NNP
+한국	NNP
+복잡	NNG
+한국	NNP
+다양하	VA
+한국	NNP

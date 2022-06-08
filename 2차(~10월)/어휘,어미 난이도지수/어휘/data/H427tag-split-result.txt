@@ -1,0 +1,208 @@
+7
+7
+7
+2
+3
+5
+1
+2
+4
+1
+1
+1
+1
+1
+2
+2
+3
+3
+4
+5
+1
+3
+4
+5
+1
+1
+1
+2
+3
+1
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+관하/VV	5	관하다	VV
+남/VV	2	남다	VV
+느끼/VV	2	느끼다	VV
+달라지/VV	3	달라지다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+두려워하/VV	4	두려워하다	VV
+드러내/VV	4	드러내다	VV
+들어오/VV	1	들어오다	VV
+뚫/VV	3	뚫다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+모르/VV	1	모르다	VV
+배우/VV	1	배우다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+여기/VV	3	여기다	VV
+의하/VV	5	의하다	VV
+이어지/VV	4	이어지다	VV
+인정받/VV	4	인정받다	VV
+잘하/VV	1	잘하다	VV
+잘하/VV	1	잘하다	VV
+지내/VV	1	지내다	VV
+커지/VV	3	커지다	VV
+키우/VV	2	키우다	VV
+피하/VV	3	피하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+뛰어나/VA	3	뛰어나다	VA
+사소하/VA	4	사소하다	VA
+쉽/VA	1	쉽다	VA
+싸늘하/VA	6	싸늘하다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+원만하/VA	4	원만하다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좁/VA	2	좁다	VA
+지나치/VA	3	지나치다	VA
+크/VA	1	크다	VA
+특별하/VA	1	특별하다	VA
+힘들/VA	1	힘들다	VA
+갈등/NNG	4	갈등	NNG
+결과/NNG	2	결과	NNG
+결근/NNG	4	결근	NNG
+계발/NNG	5	계발	NNG
+공부/NNG	1	공부	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+기본/NNG	4	기본	NNG
+기본/NNG	4	기본	NNG
+기본/NNG	4	기본	NNG
+기분/NNG	1	기분	NNG
+내용/NNG	2	내용	NNG
+눈초리/NNG	6	눈초리	NNG
+능력/NNG	2	능력	NNG
+단체/NNG	3	단체	NNG
+대인/NNG	5	대인	NNG
+대인/NNG	5	대인	NNG
+대인/NNG	5	대인	NNG
+대인/NNG	5	대인	NNG
+대인/NNG	5	대인	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+문/NNG	1	문	NNG
+부분/NNG	2	부분	NNG
+분야/NNG	4	분야	NNG
+비율/NNG	4	비율	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사원/NNG	5	사원	NNG
+사원/NNG	5	사원	NNG
+사원/NNG	5	사원	NNG
+사원/NNG	5	사원	NNG
+사원/NNG	5	사원	NNG
+사원/NNG	5	사원	NNG
+상대방/NNG	3	상대방	NNG
+상사/NNG	4	상사	NNG
+상사/NNG	4	상사	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+설문/NNG	3	설문	NNG
+성격/NNG	2	성격	NNG
+성공적/NNG	4	성공적	NNG
+시간/NNG	1	시간	NNG
+신경/NNG	3	신경	NNG
+신입/NNG	3	신입	NNG
+신입/NNG	3	신입	NNG
+신입/NNG	3	신입	NNG
+신입/NNG	3	신입	NNG
+신입/NNG	3	신입	NNG
+실력/NNG	3	실력	NNG
+아이/NNG	1	아이	NNG
+업무/NNG	3	업무	NNG
+연장/NNG	3	연장	NNG
+온라인/NNG	4	온라인	NNG
+이유/NNG	1	이유	NNG
+이직/NNG	5	이직	NNG
+점심/NNG	1	점심	NNG
+점심시간/NNG	2	점심시간	NNG
+조퇴/NNG	5	조퇴	NNG
+중요성/NNG	4	중요성	NNG
+직원/NNG	1	직원	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장/NNG	2	직장	NNG
+직장인/NNG	3	직장인	NNG
+취업/NNG	4	취업	NNG
+친근감/NNG	5	친근감	NNG
+필요/NNG	1	필요	NNG
+활동/NNG	3	활동	NNG
+회사/NNG	1	회사	NNG
+회식/NNG	3	회식	NNG
+회식/NNG	3	회식	NNG
+회식/NNG	3	회식	NNG
+가장/MAG	1	가장	MA
+같이/MAG	1	같이	MA
+계속/MAG	1	계속	MA
+더욱/MAG	2	더욱	MA
+마음대로/MAG	3	마음대로	MA
+아무리/MAG	2	아무리	MA
+아주/MAG	1	아주	MA
+안/MAG	1	안	MA
+우선/MAG	2	우선	MA
+잘/MAG	1	잘	MA
+적어도/MAG	3	적어도	MA
+점점/MAG	2	점점	MA
+제일/MAG	1	제일	MA
+즉/MAG	3	즉	MA
+특히/MAG	1	특히	MA
+틈틈이/MAG	3	틈틈이	MA

@@ -1,0 +1,10 @@
+과	NNG
+말	NNG
+키	NNG
+치	VV
+치	VV
+맞	VV
+치	VV
+일	NNG
+이상	NNG
+이상	NNG

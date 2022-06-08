@@ -1,0 +1,209 @@
+7
+7
+1
+7
+7
+3
+3
+3
+3
+3
+3
+3
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+1
+7
+7
+1
+2
+4
+4
+1
+4
+4
+4
+4
+1
+4
+4
+1
+4
+2
+1
+2
+3
+1
+가/VV	1	가다	VV
+가지/VV	1	가지다	VV
+꺾/VV	4	꺾다	VV
+끝나/VV	1	끝나다	VV
+나가/VV	1	나가다	VV
+놀/VV	1	놀다	VV
+놀/VV	1	놀다	VV
+놓/VV	2	놓다	VV
+다니/VV	1	다니다	VV
+다니/VV	1	다니다	VV
+던지/VV	2	던지다	VV
+던지/VV	2	던지다	VV
+던지/VV	2	던지다	VV
+던지/VV	2	던지다	VV
+도망가/VV	3	도망가다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+뒤집히/VV	5	뒤집히다	VV
+듣/VV	1	듣다	VV
+따/VV	3	따다	VV
+떨어지/VV	2	떨어지다	VV
+떨어지/VV	2	떨어지다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+모르/VV	1	모르다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+오/VV	1	오다	VV
+움직이/VV	2	움직이다	VV
+이기/VV	2	이기다	VV
+잡/VV	2	잡다	VV
+잡/VV	2	잡다	VV
+잡/VV	2	잡다	VV
+잡/VV	2	잡다	VV
+잡히/VV	3	잡히다	VV
+접/VV	2	접다	VV
+정하/VV	2	정하다	VV
+좋아하/VV	1	좋아하다	VV
+집/VV	3	집다	VV
+집/VV	3	집다	VV
+집/VV	3	집다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+두껍/VA	2	두껍다	VA
+어리/VA	2	어리다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+춥/VA	1	춥다	VA
+튼튼하/VA	2	튼튼하다	VA
+그중/NNG	3	그중	NNG
+날/NNG	1	날	NNG
+날씨/NNG	1	날씨	NNG
+남자/NNG	1	남자	NNG
+남자/NNG	1	남자	NNG
+놀이/NNG	2	놀이	NNG
+놀이/NNG	2	놀이	NNG
+놀이/NNG	2	놀이	NNG
+놀이/NNG	2	놀이	NNG
+다음/NNG	1	다음	NNG
+다음/NNG	1	다음	NNG
+달력/NNG	2	달력	NNG
+동안/NNG	1	동안	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+바닥/NNG	2	바닥	NNG
+바닥/NNG	2	바닥	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+벨/NNG	3	벨	NNG
+보통/NNG	1	보통	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+상대방/NNG	3	상대방	NNG
+소리/NNG	2	소리	NNG
+손등/NNG	3	손등	NNG
+손바닥/NNG	2	손바닥	NNG
+손바닥/NNG	2	손바닥	NNG
+수업/NNG	1	수업	NNG
+순간/NNG	3	순간	NNG
+순서/NNG	2	순서	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+알/NNG	3	알	NNG
+알/NNG	3	알	NNG
+알/NNG	3	알	NNG
+얼음/NNG	2	얼음	NNG
+오빠/NNG	1	오빠	NNG
+운동장/NNG	1	운동장	NNG
+이때/NNG	2	이때	NNG
+점수/NNG	2	점수	NNG
+점심/NNG	1	점심	NNG
+종이/NNG	2	종이	NNG
+종이/NNG	2	종이	NNG
+집/NNG	1	집	NNG
+초등학교/NNG	2	초등학교	NNG
+초등학교/NNG	2	초등학교	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+같이/MAG	1	같이	MA
+그래서/MAJ	1	그래서	MA
+그러면/MAJ	1	그러면	MA
+그런데/MAJ	1	그런데	MA
+다시/MAG	1	다시	MA
+많이/MAG	1	많이	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+모두/MAG	1	모두	MA
+못/MAG	1	못	MA
+무척/MAG	2	무척	MA
+얼른/MAG	3	얼른	MA
+자주/MAG	1	자주	MA
+자주/MAG	1	자주	MA
+재빨리/MAG	4	재빨리	MA
+함께/MAG	1	함께	MA

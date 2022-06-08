@@ -1,0 +1,182 @@
+5
+3
+3
+2
+5
+5
+3
+7
+7
+7
+4
+1
+7
+2
+1
+7
+4
+4
+7
+7
+7
+6
+7
+5
+3
+7
+7
+7
+7
+7
+7
+7
+4
+4
+5
+5
+7
+6
+7
+4
+4
+4
+4
+7
+3
+1
+7
+4
+끼치/VV	4	끼치다	VV
+끼치/VV	4	끼치다	VV
+내리/VV	1	내리다	VV
+높이/VV	3	높이다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+떨어뜨리/VV	3	떨어뜨리다	VV
+위하/VV	3	위하다	VV
+일/VV	5	일다	VV
+주/VV	1	주다	VV
+줄이/VV	2	줄이다	VV
+줄이/VV	2	줄이다	VV
+지키/VV	2	지키다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+힘쓰/VV	4	힘쓰다	VV
+굵/VA	2	굵다	VA
+나쁘/VA	1	나쁘다	VA
+높/VA	1	높다	VA
+높/VA	1	높다	VA
+높/VA	1	높다	VA
+시하/VA	5	시하다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+작/VA	1	작다	VA
+크/VA	1	크다	VA
+가격/NNG	1	가격	NNG
+가스/NNG	3	가스	NNG
+가스/NNG	3	가스	NNG
+가시/NNG	5	가시	NNG
+강/NNG	2	강	NNG
+개개인/NNG	5	개개인	NNG
+거리/NNG	2	거리	NNG
+경우/NNG	3	경우	NNG
+공장/NNG	2	공장	NNG
+공장/NNG	2	공장	NNG
+국민/NNG	3	국민	NNG
+기상/NNG	5	기상	NNG
+기업/NNG	3	기업	NNG
+기준/NNG	3	기준	NNG
+까닭/NNG	4	까닭	NNG
+노력/NNG	2	노력	NNG
+농도/NNG	5	농도	NNG
+농도/NNG	5	농도	NNG
+대중교통/NNG	3	대중교통	NNG
+동식물/NNG	5	동식물	NNG
+땅/NNG	2	땅	NNG
+때/NNG	4	때	NNG
+머리카락/NNG	2	머리카락	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+먼지/NNG	3	먼지	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문화유산/NNG	5	문화유산	NNG
+물질/NNG	4	물질	NNG
+밀도/NNG	6	밀도	NNG
+발전소/NNG	5	발전소	NNG
+방법/NNG	2	방법	NNG
+배기가스/NNG	5	배기가스	NNG
+보건/NNG	6	보건	NNG
+보/NNG	4	보	NNG
+불량품/NNG	5	불량품	NNG
+비행기/NNG	1	비행기	NNG
+산성/NNG	6	산성	NNG
+산성비/NNG	5	산성비	NNG
+산업/NNG	3	산업	NNG
+산업화/NNG	5	산업화	NNG
+상대적/NNG	4	상대적	NNG
+생산/NNG	4	생산	NNG
+선진국/NNG	4	선진국	NNG
+세계/NNG	2	세계	NNG
+수준/NNG	4	수준	NNG
+시대/NNG	3	시대	NNG
+신문/NNG	1	신문	NNG
+악영향/NNG	5	악영향	NNG
+악영향/NNG	5	악영향	NNG
+악영향/NNG	5	악영향	NNG
+에너지/NNG	4	에너지	NNG
+에너지/NNG	4	에너지	NNG
+여건/NNG	4	여건	NNG
+연료/NNG	6	연료	NNG
+예보/NNG	3	예보	NNG
+요즘/NNG	1	요즘	NNG
+우려/NNG	4	우려	NNG
+운항/NNG	6	운항	NNG
+운행/NNG	4	운행	NNG
+위치/NNG	2	위치	NNG
+위험성/NNG	4	위험성	NNG
+유통/NNG	4	유통	NNG
+인간/NNG	4	인간	NNG
+인구/NNG	3	인구	NNG
+인류/NNG	4	인류	NNG
+인체/NNG	4	인체	NNG
+인터넷/NNG	1	인터넷	NNG
+자동차/NNG	1	자동차	NNG
+자동차/NNG	1	자동차	NNG
+자동차/NNG	1	자동차	NNG
+전체/NNG	2	전체	NNG
+정부/NNG	4	정부	NNG
+정책/NNG	4	정책	NNG
+제품/NNG	3	제품	NNG
+제품/NNG	3	제품	NNG
+주요/NNG	3	주요	NNG
+주체/NNG	6	주체	NNG
+지구/NNG	4	지구	NNG
+지리적/NNG	6	지리적	NNG
+질환/NNG	5	질환	NNG
+호흡기/NNG	5	호흡기	NNG
+환경/NNG	4	환경	NNG
+환경/NNG	4	환경	NNG
+활동/NNG	3	활동	NNG
+게다가/MAG	4	게다가	MA
+따라서/MAJ	3	따라서	MA
+또한/MAG	3	또한	MA
+또한/MAG	3	또한	MA
+우선/MAG	2	우선	MA
+주로/MAG	1	주로	MA
+특히/MAG	1	특히	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA

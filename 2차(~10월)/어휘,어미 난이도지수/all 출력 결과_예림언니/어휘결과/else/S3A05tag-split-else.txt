@@ -1,0 +1,11 @@
+미나	NNP
+미나	NNP
+이상하	VA
+소개하	VV
+미나	NNP
+가은	NNP
+이야기하	VV
+진호	NNP
+패러글라이딩	NNG
+진호	NNP
+다양하	VA

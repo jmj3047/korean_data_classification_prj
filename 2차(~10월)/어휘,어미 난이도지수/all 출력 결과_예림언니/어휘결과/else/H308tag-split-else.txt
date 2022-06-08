@@ -1,0 +1,13 @@
+안녕	NNG
+권지영	NNP
+엠티	NNG
+엠티	NNG
+꼭	MAG
+친	NNG
+엠티	NNG
+다양하	VA
+엠티	NNG
+춘천	NNP
+다양하	VA
+펜션	NNG
+궁금	NNG

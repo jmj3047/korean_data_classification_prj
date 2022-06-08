@@ -1,0 +1,111 @@
+새것	2
+반송	7
+허	4
+레인지	3
+이상	2
+과정	3
+싸	2
+묻	3
+통화	2
+쓰	1
+포장	2
+쓰	1
+전자	3
+일	1
+돌아가/VV	1	돌아가다	VV
+되/VV	1	되다	VV
+뜯/VV	4	뜯다	VV
+바라/VV	2	바라다	VV
+받/VV	1	받다	VV
+보내/VV	1	보내다	VV
+보내/VV	1	보내다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+사/VV	1	사다	VV
+올리/VV	2	올리다	VV
+주/VV	1	주다	VV
+찢어지/VV	3	찢어지다	VV
+찢어지/VV	3	찢어지다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+많/VA	1	많다	VA
+빠르/VA	1	빠르다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+고객/NNG	3	고객	NNG
+교환/NNG	2	교환	NNG
+구입/NNG	3	구입	NNG
+구입/NNG	3	구입	NNG
+구입/NNG	3	구입	NNG
+그동안/NNG	2	그동안	NNG
+글/NNG	1	글	NNG
+다음/NNG	1	다음	NNG
+답변/NNG	4	답변	NNG
+먼지/NNG	3	먼지	NNG
+문의/NNG	3	문의	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+물건/NNG	1	물건	NNG
+배달/NNG	2	배달	NNG
+배달/NNG	2	배달	NNG
+부탁/NNG	1	부탁	NNG
+부탁/NNG	1	부탁	NNG
+사람/NNG	1	사람	NNG
+사실/NNG	2	사실	NNG
+사용/NNG	1	사용	NNG
+상자/NNG	2	상자	NNG
+상자/NNG	2	상자	NNG
+상태/NNG	3	상태	NNG
+상태/NNG	3	상태	NNG
+상품/NNG	2	상품	NNG
+생각/NNG	1	생각	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+실망/NNG	3	실망	NNG
+여기저기/NNG	2	여기저기	NNG
+운반/NNG	4	운반	NNG
+이번/NNG	1	이번	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+일주일/NNG	1	일주일	NNG
+전/NNG	1	전	NNG
+전자레인지/NNG	3	전자레인지	NNG
+전자레인지/NNG	3	전자레인지	NNG
+전자레인지/NNG	3	전자레인지	NNG
+전자레인지/NNG	3	전자레인지	NNG
+전자레인지/NNG	3	전자레인지	NNG
+전화/NNG	1	전화	NNG
+제값/NNG	5	제값	NNG
+제품/NNG	3	제품	NNG
+제품/NNG	3	제품	NNG
+제품/NNG	3	제품	NNG
+제품/NNG	3	제품	NNG
+제품/NNG	3	제품	NNG
+제품/NNG	3	제품	NNG
+주문/NNG	2	주문	NNG
+집/NNG	1	집	NNG
+처음/NNG	1	처음	NNG
+포장지/NNG	4	포장지	NNG
+해명/NNG	5	해명	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+흠/NNG	5	흠	NNG
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+다시/MAG	1	다시	MA
+많이/MAG	1	많이	MA
+분명히/MAG	3	분명히	MA
+이미/MAG	2	이미	MA
+일단/MAG	4	일단	MA
+잘/MAG	1	잘	MA
+정말/MAG	1	정말	MA
+조금/MAG	1	조금	MA
+좀/MAG	1	좀	MA
+혹시/MAG	2	혹시	MA

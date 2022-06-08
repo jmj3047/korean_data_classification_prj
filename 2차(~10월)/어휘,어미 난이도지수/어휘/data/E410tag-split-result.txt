@@ -1,0 +1,235 @@
+서울	1
+뒷마당	4
+님비	7
+님비	7
+핵폐기물	7
+처리장	4
+하수	7
+처리장	4
+매립장	6
+공공사업	3
+핌피	7
+수익성	6
+핌피	7
+님비	7
+핌피	7
+인접	7
+대린	4
+이러	2
+시	5
+공공사업	3
+이러	2
+이러	2
+이러	2
+공정하	6
+과도	5
+정부화	4
+신뢰	7	
+이전	4
+말	1
+지방	2
+점	3
+이해	2
+사회	3
+전반	5
+보상	4
+자신	2
+이해	2
+갖/VV	2	갖다	VV
+갖/VV	2	갖다	VV
+나서/VV	4	나서다	VV
+누리/VV	5	누리다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+두/VV	2	두다	VV
+들어서/VV	3	들어서다	VV
+들어오/VV	1	들어오다	VV
+모르/VV	1	모르다	VV
+벌이/VV	4	벌이다	VV
+벌이/VV	4	벌이다	VV
+벗/VV	2	벗다	VV
+보이/VV	2	보이다	VV
+부딪히/VV	4	부딪히다	VV
+얻/VV	2	얻다	VV
+위하/VV	3	위하다	VV
+차/VV	2	차다	VV
+찾/VV	1	찾다	VV
+찾아보/VV	1	찾아보다	VV
+통하/VV	3	통하다	VV
+통하/VV	3	통하다	VV
+풀/VV	2	풀다	VV
+풀/VV	2	풀다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+그렇/VA	1	그렇다	VA
+똑같/VA	2	똑같다	VA
+시끄럽/VA	2	시끄럽다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+개발/NNG	4	개발	NNG
+거부/NNG	5	거부	NNG
+경쟁/NNG	4	경쟁	NNG
+경쟁/NNG	4	경쟁	NNG
+고속/NNG	3	고속	NNG
+공장/NNG	2	공장	NNG
+공항/NNG	1	공항	NNG
+구청/NNG	5	구청	NNG
+극복/NNG	4	극복	NNG
+극복/NNG	4	극복	NNG
+극복/NNG	4	극복	NNG
+기본적/NNG	4	기본적	NNG
+노력/NNG	2	노력	NNG
+노선/NNG	3	노선	NNG
+대규모/NNG	4	대규모	NNG
+대기업/NNG	4	대기업	NNG
+대표적/NNG	3	대표적	NNG
+대화/NNG	1	대화	NNG
+도움/NNG	2	도움	NNG
+도움/NNG	2	도움	NNG
+동시/NNG	2	동시	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+뜻/NNG	2	뜻	NNG
+만약/NNG	2	만약	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+바탕/NNG	3	바탕	NNG
+반대/NNG	2	반대	NNG
+반대/NNG	2	반대	NNG
+반면/NNG	3	반면	NNG
+반발/NNG	4	반발	NNG
+발/NNG	1	발	NNG
+발전소/NNG	5	발전소	NNG
+방법/NNG	2	방법	NNG
+법원/NNG	4	법원	NNG
+보편화/NNG	5	보편화	NNG
+복지/NNG	5	복지	NNG
+사람/NNG	1	사람	NNG
+사업/NNG	2	사업	NNG
+상응/NNG	6	상응	NNG
+상황/NNG	3	상황	NNG
+생산/NNG	4	생산	NNG
+선정/NNG	4	선정	NNG
+선정/NNG	4	선정	NNG
+설치/NNG	4	설치	NNG
+성숙/NNG	4	성숙	NNG
+수입/NNG	3	수입	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+시위/NNG	5	시위	NNG
+시행/NNG	4	시행	NNG
+쓰레기/NNG	2	쓰레기	NNG
+원자력/NNG	5	원자력	NNG
+유치/NNG	6	유치	NNG
+유치/NNG	6	유치	NNG
+유치/NNG	6	유치	NNG
+유치/NNG	6	유치	NNG
+유치/NNG	6	유치	NNG
+유치/NNG	6	유치	NNG
+의식/NNG	4	의식	NNG
+이기주의/NNG	5	이기주의	NNG
+이기주의/NNG	5	이기주의	NNG
+이기주의/NNG	5	이기주의	NNG
+이기주의/NNG	5	이기주의	NNG
+이기주의/NNG	5	이기주의	NNG
+이기주의/NNG	5	이기주의	NNG
+이기주의/NNG	5	이기주의	NNG
+이웃/NNG	2	이웃	NNG
+이유/NNG	1	이유	NNG
+이익/NNG	4	이익	NNG
+이익/NNG	4	이익	NNG
+이익/NNG	4	이익	NNG
+입장/NNG	4	입장	NNG
+입장/NNG	4	입장	NNG
+재정적/NNG	5	재정적	NNG
+정도/NNG	2	정도	NNG
+정부/NNG	4	정부	NNG
+제기/NNG	5	제기	NNG
+주민/NNG	3	주민	NNG
+주민/NNG	3	주민	NNG
+주민/NNG	3	주민	NNG
+주민/NNG	3	주민	NNG
+주민/NNG	3	주민	NNG
+주변/NNG	2	주변	NNG
+중요/NNG	2	중요	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+지역/NNG	3	지역	NNG
+철도/NNG	3	철도	NNG
+최근/NNG	2	최근	NNG
+추구/NNG	5	추구	NNG
+태도/NNG	2	태도	NNG
+합리적/NNG	4	합리적	NNG
+행동/NNG	2	행동	NNG
+행복/NNG	2	행복	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+혐오/NNG	6	혐오	NNG
+혐오/NNG	6	혐오	NNG
+혐오/NNG	6	혐오	NNG
+혐오/NNG	6	혐오	NNG
+혜택/NNG	4	혜택	NNG
+가득/MAG	2	가득	MA
+가장/MAG	1	가장	MA
+그러나/MAJ	2	그러나	MA
+그리고/MAJ	1	그리고	MA
+따라서/MAJ	3	따라서	MA
+먼저/MAG	1	먼저	MA
+무조건/MAG	3	무조건	MA
+물론/MAG	2	물론	MA
+물론/MAG	2	물론	MA
+반드시/MAG	2	반드시	MA
+서로/MAG	2	서로	MA
+서로/MAG	2	서로	MA
+서로/MAG	2	서로	MA
+서로/MAG	2	서로	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+이제/MAG	2	이제	MA
+절대로/MAG	3	절대로	MA
+제대로/MAG	3	제대로	MA

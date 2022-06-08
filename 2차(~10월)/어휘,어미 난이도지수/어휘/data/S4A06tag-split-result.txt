@@ -1,0 +1,234 @@
+7
+7
+4
+7
+4
+7
+7
+7
+7
+7
+7
+2
+7
+7
+2
+7
+7
+7
+7
+7
+7
+7
+1
+7
+7
+7
+1
+7
+7
+1
+7
+7
+1
+7
+2
+7
+7
+1
+3
+7
+7
+7
+7
+7
+7
+4
+7
+7
+1
+4
+7
+7
+2
+1
+1
+7
+7
+4
+7
+7
+2
+3
+1
+1
+1
+1
+2
+1
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+걸리/VV	1	걸리다	VV
+걸리/VV	1	걸리다	VV
+그러/VV	3	그러다	VV
+기다리/VV	1	기다리다	VV
+기다리/VV	1	기다리다	VV
+기뻐하/VV	2	기뻐하다	VV
+나타나/VV	2	나타나다	VV
+날/VV	2	날다	VV
+낳/VV	3	낳다	VV
+낳/VV	3	낳다	VV
+내려오/VV	2	내려오다	VV
+내려오/VV	2	내려오다	VV
+내려오/VV	2	내려오다	VV
+놀라/VV	2	놀라다	VV
+데리/VV	3	데리다	VV
+데리/VV	3	데리다	VV
+돌아가/VV	1	돌아가다	VV
+돌아오/VV	1	돌아오다	VV
+되/VV	1	되다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+들/VV	1	들다	VV
+만나/VV	1	만나다	VV
+만나/VV	1	만나다	VV
+먹/VV	1	먹다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+생각나/VV	2	생각나다	VV
+속이/VV	4	속이다	VV
+슬퍼하/VV	2	슬퍼하다	VV
+슬퍼하/VV	2	슬퍼하다	VV
+안/VV	2	안다	VV
+안/VV	2	안다	VV
+오/VV	1	오다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+올라가/VV	1	올라가다	VV
+울/VV	1	울다	VV
+울/VV	1	울다	VV
+울/VV	1	울다	VV
+울/VV	1	울다	VV
+입/VV	1	입다	VV
+죽/VV	2	죽다	VV
+죽/VV	2	죽다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+찾/VV	1	찾다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+불쌍하/VA	2	불쌍하다	VA
+슬프/VA	1	슬프다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+착하/VA	2	착하다	VA
+크/VA	1	크다	VA
+꿈/NNG	2	꿈	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+날/NNG	1	날	NNG
+다음/NNG	1	다음	NNG
+다음/NNG	1	다음	NNG
+달/NNG	1	달	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+며칠/NNG	1	며칠	NNG
+밥/NNG	1	밥	NNG
+방법/NNG	2	방법	NNG
+병/NNG	1	병	NNG
+병/NNG	1	병	NNG
+보름달/NNG	3	보름달	NNG
+사람/NNG	1	사람	NNG
+사슴/NNG	5	사슴	NNG
+산꼭대기/NNG	3	산꼭대기	NNG
+산꼭대기/NNG	3	산꼭대기	NNG
+생각/NNG	1	생각	NNG
+아기/NNG	1	아기	NNG
+아버지/NNG	1	아버지	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+앞/NNG	1	앞	NNG
+얘기/NNG	2	얘기	NNG
+얼마/NNG	1	얼마	NNG
+연못/NNG	4	연못	NNG
+울음소리/NNG	4	울음소리	NNG
+울음소리/NNG	4	울음소리	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+행동/NNG	2	행동	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+거의/MAG	2	거의	MA
+계속/MAG	1	계속	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그러나/MAJ	2	그러나	MA
+그러나/MAJ	2	그러나	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+다시/MAG	1	다시	MA
+다시/MAG	1	다시	MA
+다시/MAG	1	다시	MA
+매일/MAG	1	매일	MA
+매일/MAG	1	매일	MA
+매일/MAG	1	매일	MA
+아무리/MAG	2	아무리	MA
+없이/MAG	3	없이	MA
+엉엉/MAG	5	엉엉	MA
+열심히/MAG	1	열심히	MA
+오래오래/MAG	3	오래오래	MA
+잠깐/MAG	1	잠깐	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA
+훨훨/MAG	5	훨훨	MA

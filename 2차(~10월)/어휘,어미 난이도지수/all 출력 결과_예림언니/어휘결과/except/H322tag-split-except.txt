@@ -1,0 +1,6 @@
+일	NNG
+금	NNG
+유학	NNG
+전문	NNG
+성인	NNG
+맞	VV

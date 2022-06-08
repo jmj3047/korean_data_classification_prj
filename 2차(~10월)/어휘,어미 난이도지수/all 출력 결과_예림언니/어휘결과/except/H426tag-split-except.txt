@@ -1,0 +1,16 @@
+사회	NNG
+따르	VV
+맞	VV
+관리	NNG
+가정	NNG
+따르	VV
+예	NNG
+일	NNG
+검사	NNG
+검사	NNG
+사회	NNG
+맞	VV
+사회	NNG
+따르	VV
+자신	NNG
+맞	VV

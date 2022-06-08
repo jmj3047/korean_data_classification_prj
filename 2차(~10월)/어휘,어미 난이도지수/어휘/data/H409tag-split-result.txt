@@ -1,0 +1,265 @@
+1
+3
+1
+1
+1
+1
+1
+3
+1
+1
+7
+7
+1
+1
+1
+1
+1
+2
+1
+5
+1
+7
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+5
+1
+1
+3
+1
+3
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+겪/VV	4	겪다	VV
+그러/VV	3	그러다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+누르/VV	2	누르다	VV
+느끼/VV	2	느끼다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+들/VV	1	들다	VV
+마시/VV	1	마시다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+모르/VV	1	모르다	VV
+바라/VV	2	바라다	VV
+바라보/VV	2	바라보다	VV
+보/VV	1	보다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+비치/VV	4	비치다	VV
+알/VV	1	알다	VV
+오/VV	1	오다	VV
+응하/VV	5	응하다	VV
+읽/VV	1	읽다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+헷갈리/VV	5	헷갈리다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+고맙/VA	1	고맙다	VA
+그렇/VA	1	그렇다	VA
+그렇/VA	1	그렇다	VA
+그렇/VA	1	그렇다	VA
+다르/VA	1	다르다	VA
+다르/VA	1	다르다	VA
+다르/VA	1	다르다	VA
+뜨겁/VA	2	뜨겁다	VA
+뜨겁/VA	2	뜨겁다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+바쁘/VA	1	바쁘다	VA
+복잡하/VA	2	복잡하다	VA
+시원하/VA	1	시원하다	VA
+시원하/VA	1	시원하다	VA
+시원하/VA	1	시원하다	VA
+시원하/VA	1	시원하다	VA
+어렵/VA	1	어렵다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+재미있/VA	1	재미있다	VA
+재미있/VA	1	재미있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+감정/NNG	3	감정	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인적/NNG	3	개인적	NNG
+경우/NNG	3	경우	NNG
+경향/NNG	4	경향	NNG
+과장/NNG	3	과장	NNG
+관계/NNG	2	관계	NNG
+구체적/NNG	3	구체적	NNG
+기분/NNG	1	기분	NNG
+기분/NNG	1	기분	NNG
+기자/NNG	2	기자	NNG
+기준/NNG	3	기준	NNG
+끝/NNG	2	끝	NNG
+나이/NNG	2	나이	NNG
+나중/NNG	1	나중	NNG
+나중/NNG	1	나중	NNG
+남자/NNG	1	남자	NNG
+남자/NNG	1	남자	NNG
+노래/NNG	1	노래	NNG
+노래/NNG	1	노래	NNG
+노래/NNG	1	노래	NNG
+노래방/NNG	1	노래방	NNG
+노래방/NNG	1	노래방	NNG
+노래방/NNG	1	노래방	NNG
+누나/NNG	1	누나	NNG
+눈/NNG	1	눈	NNG
+다음/NNG	1	다음	NNG
+달/NNG	1	달	NNG
+대학/NNG	1	대학	NNG
+동기/NNG	4	동기	NNG
+동아리/NNG	3	동아리	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+마지막/NNG	2	마지막	NNG
+말씀/NNG	1	말씀	NNG
+모습/NNG	2	모습	NNG
+모임/NNG	2	모임	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+번호/NNG	1	번호	NNG
+보통/NNG	1	보통	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사장/NNG	2	사장	NNG
+삼계탕/NNG	1	삼계탕	NNG
+삼계탕/NNG	1	삼계탕	NNG
+삼계탕/NNG	1	삼계탕	NNG
+속/NNG	2	속	NNG
+술자리/NNG	4	술자리	NNG
+신문/NNG	1	신문	NNG
+신문/NNG	1	신문	NNG
+언니/NNG	1	언니	NNG
+얼마/NNG	1	얼마	NNG
+여름/NNG	1	여름	NNG
+여자/NNG	1	여자	NNG
+오늘/NNG	1	오늘	NNG
+오늘/NNG	1	오늘	NNG
+오빠/NNG	1	오빠	NNG
+오빠/NNG	1	오빠	NNG
+오빠/NNG	1	오빠	NNG
+오빠/NNG	1	오빠	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+우리나라/NNG	2	우리나라	NNG
+음식/NNG	1	음식	NNG
+음치/NNG	5	음치	NNG
+이름/NNG	1	이름	NNG
+이번/NNG	1	이번	NNG
+이야기/NNG	1	이야기	NNG
+이야기/NNG	1	이야기	NNG
+이열치열/NNG	5	이열치열	NNG
+인터뷰/NNG	3	인터뷰	NNG
+인터뷰/NNG	3	인터뷰	NNG
+인터뷰/NNG	3	인터뷰	NNG
+인터뷰/NNG	3	인터뷰	NNG
+자유/NNG	2	자유	NNG
+재학/NNG	3	재학	NNG
+전/NNG	1	전	NNG
+전체/NNG	2	전체	NNG
+주제/NNG	3	주제	NNG
+진짜/NNG	2	진짜	NNG
+차이/NNG	3	차이	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친오빠/NNG	4	친오빠	NNG
+친척/NNG	2	친척	NNG
+표현/NNG	3	표현	NNG
+학년/NNG	2	학년	NNG
+형/NNG	1	형	NNG
+호칭/NNG	5	호칭	NNG
+호칭/NNG	5	호칭	NNG
+회사/NNG	1	회사	NNG
+계속/MAG	1	계속	MA
+그냥/MAG	2	그냥	MA
+그러니까/MAJ	1	그러니까	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그럼/MAJ	1	그럼	MA
+그리고/MAJ	1	그리고	MA
+기꺼이/MAG	6	기꺼이	MA
+당연히/MAG	3	당연히	MA
+많이/MAG	1	많이	MA
+모두/MAG	1	모두	MA
+못/MAG	1	못	MA
+미처/MAG	4	미처	MA
+빨리/MAG	1	빨리	MA
+심지어/MAG	4	심지어	MA
+아무래도/MAG	4	아무래도	MA
+아직/MAG	1	아직	MA
+아직/MAG	1	아직	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+왜/MAG	1	왜	MA
+우선/MAG	2	우선	MA
+잘/MAG	1	잘	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+참/MAG	1	참	MA
+특히/MAG	1	특히	MA

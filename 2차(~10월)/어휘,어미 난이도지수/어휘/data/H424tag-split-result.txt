@@ -1,0 +1,202 @@
+1
+7
+4
+3
+2
+6
+4
+7
+5
+5
+1
+6
+3
+7
+3
+7
+1
+4
+1
+3
+7
+7
+7
+3
+1
+4
+3
+4
+5
+1
+4
+4
+4
+4
+가지/VV	1	가지다	VV
+긁/VV	4	긁다	VV
+더하/VV	3	더하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+묻히/VV	4	묻히다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+삼/VV	4	삼다	VV
+쏟아지/VV	3	쏟아지다	VV
+안기/VV	4	안기다	VV
+알/VV	1	알다	VV
+얻/VV	2	얻다	VV
+얻/VV	2	얻다	VV
+옮기/VV	3	옮기다	VV
+위하/VV	3	위하다	VV
+인하/VV	4	인하다	VV
+주/VV	1	주다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+가렵/VA	3	가렵다	VA
+관계없/VA	3	관계없다	VA
+낫/VA	2	낫다	VA
+높/VA	1	높다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+바르/VA	4	바르다	VA
+아름답/VA	1	아름답다	VA
+어렵/VA	1	어렵다	VA
+어렵/VA	1	어렵다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+가족/NNG	1	가족	NNG
+각국/NNG	4	각국	NNG
+개그/NNG	6	개그	NNG
+경쟁/NNG	4	경쟁	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+공감/NNG	4	공감	NNG
+기사/NNG	3	기사	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+노출/NNG	5	노출	NNG
+대표적/NNG	3	대표적	NNG
+동안/NNG	1	동안	NNG
+드라마/NNG	1	드라마	NNG
+드라마/NNG	1	드라마	NNG
+등장/NNG	4	등장	NNG
+띄어쓰기/NNG	6	띄어쓰기	NNG
+마지막/NNG	2	마지막	NNG
+매체/NNG	4	매체	NNG
+모습/NNG	2	모습	NNG
+목소리/NNG	2	목소리	NNG
+목요일/NNG	1	목요일	NNG
+문제/NNG	2	문제	NNG
+반영/NNG	4	반영	NNG
+반영/NNG	4	반영	NNG
+발생/NNG	4	발생	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+변화/NNG	3	변화	NNG
+보도/NNG	4	보도	NNG
+보도/NNG	4	보도	NNG
+비판/NNG	4	비판	NNG
+사건/NNG	3	사건	NNG
+사건/NNG	3	사건	NNG
+사건/NNG	3	사건	NNG
+사극/NNG	5	사극	NNG
+사람/NNG	1	사람	NNG
+사랑/NNG	1	사랑	NNG
+사용/NNG	1	사용	NNG
+사용/NNG	1	사용	NNG
+사용/NNG	1	사용	NNG
+사용/NNG	1	사용	NNG
+살인/NNG	3	살인	NNG
+생각/NNG	1	생각	NNG
+소개/NNG	1	소개	NNG
+소개/NNG	1	소개	NNG
+속/NNG	2	속	NNG
+속/NNG	2	속	NNG
+시간대/NNG	6	시간대	NNG
+시작/NNG	1	시작	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+아이디어/NNG	3	아이디어	NNG
+약속/NNG	1	약속	NNG
+언론/NNG	4	언론	NNG
+언어/NNG	2	언어	NNG
+역사/NNG	2	역사	NNG
+역사/NNG	2	역사	NNG
+예능/NNG	5	예능	NNG
+오류/NNG	5	오류	NNG
+요소/NNG	4	요소	NNG
+의견/NNG	3	의견	NNG
+의견/NNG	3	의견	NNG
+의견/NNG	3	의견	NNG
+의견/NNG	3	의견	NNG
+의견/NNG	3	의견	NNG
+의견/NNG	3	의견	NNG
+의견/NNG	3	의견	NNG
+인기/NNG	2	인기	NNG
+인물/NNG	4	인물	NNG
+자극적/NNG	5	자극적	NNG
+자극적/NNG	5	자극적	NNG
+자막/NNG	4	자막	NNG
+자막/NNG	4	자막	NNG
+자막/NNG	4	자막	NNG
+자세/NNG	4	자세	NNG
+재미/NNG	2	재미	NNG
+재미/NNG	2	재미	NNG
+정치적/NNG	4	정치적	NNG
+제안/NNG	3	제안	NNG
+지구촌/NNG	5	지구촌	NNG
+집중/NNG	3	집중	NNG
+책임감/NNG	4	책임감	NNG
+충격/NNG	4	충격	NNG
+코너/NNG	3	코너	NNG
+코미디/NNG	3	코미디	NNG
+평/NNG	4	평	NNG
+평/NNG	4	평	NNG
+평가/NNG	3	평가	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+필요/NNG	1	필요	NNG
+한국말/NNG	3	한국말	NNG
+현대/NNG	3	현대	NNG
+호평/NNG	6	호평	NNG
+그런데/MAJ	1	그런데	MA
+더/MAG	1	더	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+보다/MAG	1	보다	MA
+보다/MAG	1	보다	MA
+없이/MAG	3	없이	MA
+잘/MAG	1	잘	MA
+특히/MAG	1	특히	MA
+하지만/MAJ	1	하지만	MA
+함께/MAG	1	함께	MA

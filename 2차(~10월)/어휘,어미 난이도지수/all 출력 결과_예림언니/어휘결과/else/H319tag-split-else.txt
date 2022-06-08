@@ -1,0 +1,16 @@
+불안하	VA
+한국	NNP
+한국	NNP
+섭	NNG
+이용하	VV
+사용하	VV
+생각하	VV
+이상하	VA
+이해하	VV
+결합되	VV
+생각하	VV
+비교하	VV
+평가하	VV
+상대주의	NNG
+이해하	VV
+필요하	VA

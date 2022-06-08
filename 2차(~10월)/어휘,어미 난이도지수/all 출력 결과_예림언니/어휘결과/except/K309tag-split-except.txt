@@ -1,0 +1,15 @@
+시기	NNG
+자신	NNG
+일	NNG
+신부	NNG
+조사	NNG
+따르	VV
+가구	NNG
+신부	NNG
+일	NNG
+신부	NNG
+신부	NNG
+신부	NNG
+행사	NNG
+신부	NNG
+표시	NNG

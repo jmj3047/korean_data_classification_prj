@@ -1,0 +1,11 @@
+수원시	NNP
+가정집	NNG
+취	NNG
+귀중품	NNG
+이브	NNG
+홈치	VV
+빈집	NNG
+집주인	NNG
+미국	NNP
+중국	NNP
+황당	NNG

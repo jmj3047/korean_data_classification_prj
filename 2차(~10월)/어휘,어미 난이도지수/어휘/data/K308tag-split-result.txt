@@ -1,0 +1,201 @@
+2
+7
+7
+7
+2
+3
+7
+7
+7
+2
+7
+7
+7
+7
+7
+7
+7
+7
+2
+2
+1
+4
+2
+3
+4
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+고치/VV	2	고치다	VV
+느끼/VV	2	느끼다	VV
+되/VV	1	되다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹이/VV	4	먹이다	VV
+바꾸/VV	1	바꾸다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+삼키/VV	4	삼키다	VV
+생기/VV	2	생기다	VV
+생기/VV	2	생기다	VV
+생기/VV	2	생기다	VV
+생기/VV	2	생기다	VV
+씹/VV	2	씹다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+이어지/VV	4	이어지다	VV
+인하/VV	4	인하다	VV
+잘못되/VV	2	잘못되다	VV
+줄이/VV	2	줄이다	VV
+줄이/VV	2	줄이다	VV
+줄이/VV	2	줄이다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+젊/VA	2	젊다	VA
+지나치/VA	3	지나치다	VA
+지나치/VA	3	지나치다	VA
+감소/NNG	4	감소	NNG
+감소/NNG	4	감소	NNG
+강조/NNG	4	강조	NNG
+거부/NNG	5	거부	NNG
+걱정/NNG	2	걱정	NNG
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+공간/NNG	3	공간	NNG
+공감/NNG	4	공감	NNG
+관심/NNG	2	관심	NNG
+관심/NNG	2	관심	NNG
+극단적/NNG	5	극단적	NNG
+노력/NNG	2	노력	NNG
+뇌/NNG	4	뇌	NNG
+다이어트/NNG	2	다이어트	NNG
+대부분/NNG	2	대부분	NNG
+도움/NNG	2	도움	NNG
+두려움/NNG	4	두려움	NNG
+두려움/NNG	4	두려움	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+모습/NNG	2	모습	NNG
+몸/NNG	1	몸	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+반면/NNG	3	반면	NNG
+반복/NNG	3	반복	NNG
+발생/NNG	4	발생	NNG
+발생/NNG	4	발생	NNG
+복용/NNG	3	복용	NNG
+부분/NNG	2	부분	NNG
+비만/NNG	4	비만	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사망/NNG	4	사망	NNG
+상태/NNG	3	상태	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+습관/NNG	2	습관	NNG
+식/NNG	5	식	NNG
+식생활/NNG	5	식생활	NNG
+식욕/NNG	4	식욕	NNG
+식욕/NNG	4	식욕	NNG
+약/NNG	1	약	NNG
+약/NNG	1	약	NNG
+약/NNG	1	약	NNG
+약/NNG	1	약	NNG
+영향/NNG	3	영향	NNG
+외모/NNG	3	외모	NNG
+욕구/NNG	5	욕구	NNG
+우울증/NNG	5	우울증	NNG
+우울증/NNG	5	우울증	NNG
+운동/NNG	1	운동	NNG
+운동/NNG	1	운동	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+이용/NNG	2	이용	NNG
+일부/NNG	2	일부	NNG
+입원/NNG	2	입원	NNG
+정신/NNG	3	정신	NNG
+정신적/NNG	4	정신적	NNG
+조절/NNG	4	조절	NNG
+조절/NNG	4	조절	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+증가/NNG	3	증가	NNG
+증가/NNG	3	증가	NNG
+증가/NNG	3	증가	NNG
+증가/NNG	3	증가	NNG
+집착/NNG	5	집착	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+체중/NNG	4	체중	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+치료/NNG	2	치료	NNG
+토/NNG	3	토	NNG
+행동/NNG	2	행동	NNG
+현대/NNG	3	현대	NNG
+현대인/NNG	4	현대인	NNG
+혼자/NNG	1	혼자	NNG
+환자/NNG	2	환자	NNG
+환자/NNG	2	환자	NNG
+환자/NNG	2	환자	NNG
+환자/NNG	2	환자	NNG
+후/NNG	1	후	NNG
+후회/NNG	3	후회	NNG
+가장/MAG	1	가장	MA
+가장/MAG	1	가장	MA
+갑자기/MAG	2	갑자기	MA
+그리고/MAJ	1	그리고	MA
+끊임없이/MAG	4	끊임없이	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+많이/MAG	1	많이	MA
+바로/MAG	1	바로	MA
+반드시/MAG	2	반드시	MA
+빨리/MAG	1	빨리	MA
+아직/MAG	1	아직	MA
+억지로/MAG	4	억지로	MA
+제대로/MAG	3	제대로	MA
+한꺼번에/MAG	4	한꺼번에	MA
+함께/MAG	1	함께	MA

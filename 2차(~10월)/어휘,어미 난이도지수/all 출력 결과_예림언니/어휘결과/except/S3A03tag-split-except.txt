@@ -1,0 +1,10 @@
+유학	NNG
+유학	NNG
+안	NNG
+싸	VA
+전기	NNG
+수	NNG
+점	NNG
+점	NNG
+전기	NNG
+맞	VV

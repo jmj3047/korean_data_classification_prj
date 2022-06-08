@@ -1,0 +1,365 @@
+1
+2
+1
+1
+2
+5
+1
+6
+2
+3
+2
+2
+1
+1
+1
+1
+1
+1
+3
+1
+1
+2
+1
+1
+7
+4
+7
+7
+7
+1
+2
+7
+1
+3
+1
+1
+2
+1
+3
+3
+7
+4
+3
+1
+1
+7
+1
+3
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+3
+1
+1
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+걸/VV	1	걸다	VV
+나가/VV	1	나가다	VV
+나가/VV	1	나가다	VV
+나가/VV	1	나가다	VV
+나가/VV	1	나가다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+넣/VV	1	넣다	VV
+놀라/VV	2	놀라다	VV
+놀라/VV	2	놀라다	VV
+눕/VV	2	눕다	VV
+늘/VV	2	늘다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+두리번거리/VV	4	두리번거리다	VV
+둘러보/VV	4	둘러보다	VV
+둘러보/VV	4	둘러보다	VV
+듣/VV	1	듣다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+들어가/VV	1	들어가다	VV
+들어오/VV	1	들어오다	VV
+들어오/VV	1	들어오다	VV
+들어오/VV	1	들어오다	VV
+들어오/VV	1	들어오다	VV
+들어오/VV	1	들어오다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+못하/VV	1	못하다	VV
+물어보/VV	2	물어보다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+생기/VV	2	생기다	VV
+설레/VV	4	설레다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+열/VV	1	열다	VV
+열/VV	1	열다	VV
+열/VV	1	열다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+일어나/VV	1	일어나다	VV
+잡/VV	2	잡다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+지내/VV	1	지내다	VV
+지내/VV	1	지내다	VV
+찾/VV	1	찾다	VV
+찾/VV	1	찾다	VV
+찾아가/VV	2	찾아가다	VV
+챙기/VV	3	챙기다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+괜찮/VA	1	괜찮다	VA
+깨끗하/VA	1	깨끗하다	VA
+따뜻하/VA	1	따뜻하다	VA
+따뜻하/VA	1	따뜻하다	VA
+따뜻하/VA	1	따뜻하다	VA
+많/VA	1	많다	VA
+무뚝뚝하/VA	5	무뚝뚝하다	VA
+무섭/VA	2	무섭다	VA
+무섭/VA	2	무섭다	VA
+부끄럽/VA	2	부끄럽다	VA
+신기하/VA	3	신기하다	VA
+아프/VA	1	아프다	VA
+어떻/VA	1	어떻다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+외롭/VA	2	외롭다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+작/VA	1	작다	VA
+좋/VA	1	좋다	VA
+편하/VA	2	편하다	VA
+편하/VA	2	편하다	VA
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가족/NNG	1	가족	NNG
+경험/NNG	2	경험	NNG
+고향/NNG	1	고향	NNG
+곳/NNG	1	곳	NNG
+공중/NNG	5	공중	NNG
+과일/NNG	1	과일	NNG
+그날/NNG	2	그날	NNG
+그때/NNG	2	그때	NNG
+그때/NNG	2	그때	NNG
+그때/NNG	2	그때	NNG
+그때/NNG	2	그때	NNG
+그때/NNG	2	그때	NNG
+그때/NNG	2	그때	NNG
+기념/NNG	3	기념	NNG
+기분/NNG	1	기분	NNG
+기억/NNG	2	기억	NNG
+난/NNG	5	난	NNG
+날/NNG	1	날	NNG
+날/NNG	1	날	NNG
+남녀/NNG	2	남녀	NNG
+남녀/NNG	2	남녀	NNG
+남녀/NNG	2	남녀	NNG
+노크/NNG	6	노크	NNG
+다/NNG	1	다	NNG
+덕분/NNG	2	덕분	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+문/NNG	1	문	NNG
+문/NNG	1	문	NNG
+물건/NNG	1	물건	NNG
+밖/NNG	1	밖	NNG
+밖/NNG	1	밖	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+배우/NNG	1	배우	NNG
+버릇/NNG	2	버릇	NNG
+볼일/NNG	3	볼일	NNG
+볼일/NNG	3	볼일	NNG
+볼일/NNG	3	볼일	NNG
+봉지/NNG	3	봉지	NNG
+분위기/NNG	2	분위기	NNG
+사은품/NNG	5	사은품	NNG
+사은품/NNG	5	사은품	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+선물/NNG	1	선물	NNG
+설명/NNG	1	설명	NNG
+순간/NNG	3	순간	NNG
+신경/NNG	3	신경	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+아주머니/NNG	1	아주머니	NNG
+앞/NNG	1	앞	NNG
+여기저기/NNG	2	여기저기	NNG
+여름/NNG	1	여름	NNG
+여자/NNG	1	여자	NNG
+여자/NNG	1	여자	NNG
+여행/NNG	1	여행	NNG
+여행/NNG	1	여행	NNG
+여행/NNG	1	여행	NNG
+옷장/NNG	2	옷장	NNG
+우리나라/NNG	2	우리나라	NNG
+웃음/NNG	2	웃음	NNG
+이것저것/NNG	5	이것저것	NNG
+이후/NNG	2	이후	NNG
+인정/NNG	4	인정	NNG
+전/NNG	1	전	NNG
+점원/NNG	3	점원	NNG
+점원/NNG	3	점원	NNG
+점원/NNG	3	점원	NNG
+점원/NNG	3	점원	NNG
+정신/NNG	3	정신	NNG
+지금/NNG	1	지금	NNG
+집/NNG	1	집	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+친구/NNG	1	친구	NNG
+침대/NNG	1	침대	NNG
+팔/NNG	1	팔	NNG
+표정/NNG	3	표정	NNG
+하숙집/NNG	1	하숙집	NNG
+한번/NNG	2	한번	NNG
+행동/NNG	2	행동	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+후/NNG	1	후	NNG
+갑자기/MAG	2	갑자기	MA
+갑자기/MAG	2	갑자기	MA
+갑자기/MAG	2	갑자기	MA
+그냥/MAG	2	그냥	MA
+그냥/MAG	2	그냥	MA
+그냥/MAG	2	그냥	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+깜짝/MAG	2	깜짝	MA
+깜짝/MAG	2	깜짝	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+늘/MAG	2	늘	MA
+다시/MAG	1	다시	MA
+따로따로/MAG	3	따로따로	MA
+먼저/MAG	1	먼저	MA
+무척/MAG	2	무척	MA
+아까/MAG	2	아까	MA
+없이/MAG	3	없이	MA
+없이/MAG	3	없이	MA
+없이/MAG	3	없이	MA
+없이/MAG	3	없이	MA
+없이/MAG	3	없이	MA
+여전히/MAG	4	여전히	MA
+왜냐하면/MAG	2	왜냐하면	MA
+자주/MAG	1	자주	MA
+잘/MAG	1	잘	MA
+잘못/MAG	1	잘못	MA
+잠깐/MAG	1	잠깐	MA
+정말/MAG	1	정말	MA
+조금/MAG	1	조금	MA
+조금/MAG	1	조금	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+편히/MAG	4	편히	MA
+항상/MAG	2	항상	MA
+항상/MAG	2	항상	MA
+혹시/MAG	2	혹시	MA

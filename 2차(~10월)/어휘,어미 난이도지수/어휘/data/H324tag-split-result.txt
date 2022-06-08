@@ -1,0 +1,142 @@
+7
+4
+7
+7
+2
+3
+3
+2
+2
+3
+2
+3
+2
+2
+1
+3
+깨닫/VV	4	깨닫다	VV
+나타나/VV	2	나타나다	VV
+나타나/VV	2	나타나다	VV
+넘기/VV	4	넘기다	VV
+되/VV	1	되다	VV
+듣/VV	1	듣다	VV
+맞추/VV	2	맞추다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+알아듣/VV	3	알아듣다	VV
+위하/VV	3	위하다	VV
+저지르/VV	4	저지르다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+건방지/VA	6	건방지다	VA
+분명하/VA	2	분명하다	VA
+쉽/VA	1	쉽다	VA
+안타깝/VA	4	안타깝다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+작/VA	1	작다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+지나치/VA	3	지나치다	VA
+지나치/VA	3	지나치다	VA
+크/VA	1	크다	VA
+결론/NNG	4	결론	NNG
+기억/NNG	2	기억	NNG
+눈/NNG	1	눈	NNG
+느낌/NNG	2	느낌	NNG
+느낌/NNG	2	느낌	NNG
+능력/NNG	2	능력	NNG
+단정/NNG	5	단정	NNG
+단정/NNG	5	단정	NNG
+답/NNG	2	답	NNG
+답/NNG	2	답	NNG
+동문서답/NNG	6	동문서답	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+면접/NNG	3	면접	NNG
+반면/NNG	3	반면	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+사람/NNG	1	사람	NNG
+사이/NNG	1	사이	NNG
+사이트/NNG	3	사이트	NNG
+생각/NNG	1	생각	NNG
+시간/NNG	1	시간	NNG
+실수/NNG	2	실수	NNG
+실수/NNG	2	실수	NNG
+실수/NNG	2	실수	NNG
+실수/NNG	2	실수	NNG
+실수/NNG	2	실수	NNG
+옷차림/NNG	3	옷차림	NNG
+옷차림/NNG	3	옷차림	NNG
+웃음/NNG	2	웃음	NNG
+원인/NNG	3	원인	NNG
+이야기/NNG	1	이야기	NNG
+인정/NNG	4	인정	NNG
+자기/NNG	3	자기	NNG
+자랑/NNG	2	자랑	NNG
+자랑/NNG	2	자랑	NNG
+자신감/NNG	4	자신감	NNG
+자신감/NNG	4	자신감	NNG
+자신감/NNG	4	자신감	NNG
+정적/NNG	6	정적	NNG
+조심/NNG	2	조심	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+질문/NNG	1	질문	NNG
+질문/NNG	1	질문	NNG
+질문/NNG	1	질문	NNG
+첫인상/NNG	3	첫인상	NNG
+최악/NNG	6	최악	NNG
+취업/NNG	4	취업	NNG
+취직/NNG	2	취직	NNG
+태도/NNG	2	태도	NNG
+태도/NNG	2	태도	NNG
+표정/NNG	3	표정	NNG
+필요/NNG	1	필요	NNG
+후/NNG	1	후	NNG
+가장/MAG	1	가장	MA
+가장/MAG	1	가장	MA
+그냥/MAG	2	그냥	MA
+그리고/MAJ	1	그리고	MA
+다시/MAG	1	다시	MA
+많이/MAG	1	많이	MA
+바로/MAG	1	바로	MA
+아주/MAG	1	아주	MA
+열심히/MAG	1	열심히	MA
+잘/MAG	1	잘	MA
+잘/MAG	1	잘	MA
+제대로/MAG	3	제대로	MA
+종종/MAG	4	종종	MA
+특별히/MAG	2	특별히	MA

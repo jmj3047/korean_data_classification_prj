@@ -1,0 +1,214 @@
+한국	1
+당연	3
+서울	1
+궁금	2
+서울	1	
+화려	2
+기죽	5
+대견	5
+깔끔	3
+투박	6
+뚝배기	7
+깍두기	7
+화려	2
+소박	5
+진	2
+구수	3
+따뜻	1
+아삭아삭	7
+새콤	5
+깍두기	7
+든든	4
+단골손님	4
+소중	2
+진	2
+뒤로하	7	
+자리	1
+따르	3
+안	1
+안	1
+안	1
+안	1
+채우	3
+견디/VV	4	견디다	VV
+끓/VV	2	끓다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+넘/VV	2	넘다	VV
+넘/VV	2	넘다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+담기/VV	3	담기다	VV
+돋우/VV	5	돋우다	VV
+되/VV	1	되다	VV
+둘러보/VV	4	둘러보다	VV
+둘러싸이/VV	4	둘러싸이다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+들어가/VV	1	들어가다	VV
+들어가/VV	1	들어가다	VV
+떠나/VV	2	떠나다	VV
+막/VV	3	막다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+생기/VV	2	생기다	VV
+앉/VV	1	앉다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+지키/VV	2	지키다	VV
+지키/VV	2	지키다	VV
+짓/VV	2	짓다	VV
+찾/VV	1	찾다	VV
+찾아가/VV	2	찾아가다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+길/VA	1	길다	VA
+낡/VA	3	낡다	VA
+새롭/VA	2	새롭다	VA
+없/VA	1	없다	VA
+예쁘/VA	1	예쁘다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+정답/VA	5	정답다	VA
+좁/VA	2	좁다	VA
+좋/VA	1	좋다	VA
+춥/VA	1	춥다	VA
+특별하/VA	1	특별하다	VA
+가치/NNG	4	가치	NNG
+강/NNG	2	강	NNG
+강산/NNG	5	강산	NNG
+건물/NNG	1	건물	NNG
+고층/NNG	4	고층	NNG
+골목/NNG	3	골목	NNG
+국물/NNG	3	국물	NNG
+국물/NNG	3	국물	NNG
+그릇/NNG	1	그릇	NNG
+그릇/NNG	1	그릇	NNG
+그릇/NNG	1	그릇	NNG
+기대/NNG	3	기대	NNG
+기분/NNG	1	기분	NNG
+기와집/NNG	5	기와집	NNG
+날씨/NNG	1	날씨	NNG
+내부/NNG	4	내부	NNG
+내부/NNG	4	내부	NNG
+도심/NNG	3	도심	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+마음/NNG	1	마음	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+맛/NNG	1	맛	NNG
+모습/NNG	2	모습	NNG
+모습/NNG	2	모습	NNG
+모습/NNG	2	모습	NNG
+바닥/NNG	2	바닥	NNG
+반/NNG	1	반	NNG
+반/NNG	1	반	NNG
+반/NNG	1	반	NNG
+발견/NNG	4	발견	NNG
+벽/NNG	2	벽	NNG
+변/NNG	6	변	NNG
+변/NNG	6	변	NNG
+변/NNG	6	변	NNG
+변/NNG	6	변	NNG
+변/NNG	6	변	NNG
+변/NNG	6	변	NNG
+비결/NNG	4	비결	NNG
+빌딩/NNG	2	빌딩	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사랑/NNG	1	사랑	NNG
+산/NNG	1	산	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+설렁탕/NNG	2	설렁탕	NNG
+설렁탕/NNG	2	설렁탕	NNG
+설렁탕/NNG	2	설렁탕	NNG
+설렁탕/NNG	2	설렁탕	NNG
+설렁탕/NNG	2	설렁탕	NNG
+설렁탕/NNG	2	설렁탕	NNG
+세월/NNG	3	세월	NNG
+세월/NNG	3	세월	NNG
+세월/NNG	3	세월	NNG
+소품/NNG	5	소품	NNG
+속/NNG	2	속	NNG
+속/NNG	2	속	NNG
+속/NNG	2	속	NNG
+손님/NNG	1	손님	NNG
+시간/NNG	1	시간	NNG
+시내/NNG	2	시내	NNG
+식당/NNG	1	식당	NNG
+식당/NNG	1	식당	NNG
+식당/NNG	1	식당	NNG
+식당/NNG	1	식당	NNG
+식당/NNG	1	식당	NNG
+식당/NNG	1	식당	NNG
+식당/NNG	1	식당	NNG
+식탁/NNG	2	식탁	NNG
+앞/NNG	1	앞	NNG
+여행/NNG	1	여행	NNG
+역사/NNG	2	역사	NNG
+옛날/NNG	2	옛날	NNG
+옛말/NNG	5	옛말	NNG
+위치/NNG	2	위치	NNG
+음식점/NNG	2	음식점	NNG
+이곳저곳/NNG	3	이곳저곳	NNG
+입맛/NNG	3	입맛	NNG
+입맛/NNG	3	입맛	NNG
+자연/NNG	2	자연	NNG
+장식/NNG	3	장식	NNG
+전/NNG	1	전	NNG
+전/NNG	1	전	NNG
+정리/NNG	2	정리	NNG
+주문/NNG	2	주문	NNG
+지금/NNG	1	지금	NNG
+지금/NNG	1	지금	NNG
+집/NNG	1	집	NNG
+처음/NNG	1	처음	NNG
+칭찬/NNG	2	칭찬	NNG
+한가운데/NNG	4	한가운데	NNG
+호기심/NNG	4	호기심	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+힘/NNG	2	힘	NNG
+그대로/MAG	2	그대로	MA
+그대로/MAG	2	그대로	MA
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+나날이/MAG	5	나날이	MA
+다/MAG	1	다	MA
+마치/MAG	4	마치	MA
+바로/MAG	1	바로	MA
+변함없이/MAG	5	변함없이	MA
+보글보글/MAG	5	보글보글	MA
+오늘/MAG	1	오늘	MA
+오히려/MAG	4	오히려	MA
+잠시/MAG	1	잠시	MA
+즉/MAG	3	즉	MA
+함께/MAG	1	함께	MA

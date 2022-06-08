@@ -1,0 +1,16 @@
+용납	NNG
+최대한	NNG
+무의식적	NNG
+적당	NNG
+미국	NNP
+인류학	NNG
+에드워드	NNP
+홀	NNP
+전깃줄	NNG
+일정하	VA
+일정하	VA
+이러	NNG
+친	NNG
+아시아	NNP
+한국	NNP
+친	NNG

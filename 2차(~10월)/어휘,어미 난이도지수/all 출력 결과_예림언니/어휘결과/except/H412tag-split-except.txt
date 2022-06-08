@@ -1,0 +1,9 @@
+일	NNG
+행사	NNG
+행사	NNG
+조사	NNG
+따르	VV
+면	NNG
+따르	VV
+묻	VV
+사회	NNG

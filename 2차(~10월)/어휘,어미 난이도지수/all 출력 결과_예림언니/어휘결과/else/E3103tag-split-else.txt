@@ -1,0 +1,17 @@
+탈피하	VV
+맛보	VV
+스쿠버	NNG
+스쿠버	NNG
+하늘거리	VV
+해초	NNG
+산호	NNG
+스쿠버	NNG
+스쿠버	NNG
+위험하	VA
+안전하	VA
+스쿠버	NNG
+필요하	VA
+필요하	VA
+사용하	VV
+이용료	NNG
+포함되	VV

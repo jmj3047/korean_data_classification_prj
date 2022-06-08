@@ -1,0 +1,16 @@
+최소한	NNG
+독과점	NNG
+공공재	NNG
+누진세	NNG
+최소한	NNG
+생계비	NNG
+배분	NNG
+독과점	NNG
+비합리적	NNG
+배분	NNG
+공공재	NNG
+조달	NNG
+안정화	NNG
+도상	NNG
+항만	NNG
+한국	NNP

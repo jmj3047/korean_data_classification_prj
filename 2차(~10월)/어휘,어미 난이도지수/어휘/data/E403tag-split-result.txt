@@ -1,0 +1,180 @@
+다양하	2
+방송되	2
+방송되	2
+지적하	4
+비슷비슷하	2
+시작하	1
+유사하	4
+제작하	4	
+출연자	4
+홍보하	5
+이용되	2
+고려하	4
+이용하	2
+출연하	4
+이야기하	1
+출연자	4
+과장되	3
+과장되	3
+강조하	4
+불필요하	4
+꼭	1
+필요하	1
+이러하	2
+외면하	7
+차별화되	5
+제작하	4	
+점	3
+면	3
+예	5
+점	3
+이상	2
+점	3
+말	1
+말	1
+말	1
+채우	3
+바람	4
+끌/VV	3	끌다	VV
+끌/VV	3	끌다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+날리/VV	4	날리다	VV
+내보내/VV	3	내보내다	VV
+넣/VV	1	넣다	VV
+느끼/VV	2	느끼다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+들/VV	1	들다	VV
+만들/VV	1	만들다	VV
+벗어나/VV	4	벗어나다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+사라지/VV	3	사라지다	VV
+식상하/VV	5	식상하다	VV
+식상하/VV	5	식상하다	VV
+쏟아지/VV	3	쏟아지다	VV
+얻/VV	2	얻다	VV
+올리/VV	2	올리다	VV
+원하/VV	2	원하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+즐기/VV	2	즐기다	VV
+지치/VV	4	지치다	VV
+찌푸리/VV	4	찌푸리다	VV
+틀/VV	2	틀다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+바람직하/VA	4	바람직하다	VA
+쉽/VA	1	쉽다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+참신하/VA	5	참신하다	VA
+크/VA	1	크다	VA
+개성/NNG	4	개성	NNG
+경우/NNG	3	경우	NNG
+경쟁적/NNG	5	경쟁적	NNG
+구성/NNG	4	구성	NNG
+구성/NNG	4	구성	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+노래/NNG	1	노래	NNG
+눈/NNG	1	눈	NNG
+눈살/NNG	5	눈살	NNG
+드라마/NNG	1	드라마	NNG
+마지막/NNG	2	마지막	NNG
+문제점/NNG	4	문제점	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송국/NNG	2	방송국	NNG
+방송국/NNG	2	방송국	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사이/NNG	1	사이	NNG
+생각/NNG	1	생각	NNG
+생활/NNG	1	생활	NNG
+수단/NNG	3	수단	NNG
+스타/NNG	2	스타	NNG
+스트레스/NNG	2	스트레스	NNG
+시청률/NNG	4	시청률	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+영화/NNG	1	영화	NNG
+예능/NNG	5	예능	NNG
+예능/NNG	5	예능	NNG
+예능/NNG	5	예능	NNG
+예능/NNG	5	예능	NNG
+예능/NNG	5	예능	NNG
+예능/NNG	5	예능	NNG
+올/NNG	3	올	NNG
+요즘/NNG	1	요즘	NNG
+요즘/NNG	1	요즘	NNG
+요즘/NNG	1	요즘	NNG
+웃음/NNG	2	웃음	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+일상/NNG	4	일상	NNG
+일상/NNG	4	일상	NNG
+자막/NNG	4	자막	NNG
+자막/NNG	4	자막	NNG
+자막/NNG	4	자막	NNG
+즐거움/NNG	3	즐거움	NNG
+차별/NNG	4	차별	NNG
+차이/NNG	3	차이	NNG
+채널/NNG	4	채널	NNG
+최근/NNG	2	최근	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+행동/NNG	2	행동	NNG
+행동/NNG	2	행동	NNG
+행동/NNG	2	행동	NNG
+홍보/NNG	4	홍보	NNG
+홍보/NNG	4	홍보	NNG
+화면/NNG	3	화면	NNG
+활력소/NNG	6	활력소	NNG
+가득/MAG	2	가득	MA
+계속/MAG	1	계속	MA
+그러나/MAJ	2	그러나	MA
+그러나/MAJ	2	그러나	MA
+그리고/MAJ	1	그리고	MA
+그저/MAG	3	그저	MA
+너무/MAG	1	너무	MA
+단지/MAG	4	단지	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+상관없이/MAG	4	상관없이	MA
+아무리/MAG	2	아무리	MA
+오히려/MAG	4	오히려	MA
+이제/MAG	2	이제	MA
+전혀/MAG	2	전혀	MA
+좀/MAG	1	좀	MA

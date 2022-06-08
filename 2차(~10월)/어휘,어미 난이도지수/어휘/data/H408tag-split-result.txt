@@ -1,0 +1,243 @@
+7
+4
+7
+2
+1
+4
+3
+3
+3
+2
+1
+3
+1
+1
+2
+2
+2
+3
+1
+3
+4
+4
+3
+3
+4
+2
+가지/VV	1	가지다	VV
+걸/VV	1	걸다	VV
+기다리/VV	1	기다리다	VV
+나누/VV	2	나누다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+달라지/VV	3	달라지다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+두/VV	2	두다	VV
+두/VV	2	두다	VV
+두/VV	2	두다	VV
+들/VV	1	들다	VV
+만나/VV	1	만나다	VV
+맺/VV	4	맺다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+비하/VV	3	비하다	VV
+비하/VV	3	비하다	VV
+생기/VV	2	생기다	VV
+서/VV	2	서다	VV
+서/VV	2	서다	VV
+싸우/VV	2	싸우다	VV
+앉/VV	1	앉다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알아내/VV	3	알아내다	VV
+위하/VV	3	위하다	VV
+지키/VV	2	지키다	VV
+하/VV	1	하다	VV
+가깝/VA	1	가깝다	VA
+가깝/VA	1	가깝다	VA
+가깝/VA	1	가깝다	VA
+괜찮/VA	1	괜찮다	VA
+그렇/VA	1	그렇다	VA
+나쁘/VA	1	나쁘다	VA
+낯설/VA	3	낯설다	VA
+멀/VA	1	멀다	VA
+멀/VA	1	멀다	VA
+쉽/VA	1	쉽다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+차갑/VA	2	차갑다	VA
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+간격/NNG	4	간격	NNG
+간격/NNG	4	간격	NNG
+개인적/NNG	3	개인적	NNG
+개인적/NNG	3	개인적	NNG
+개인적/NNG	3	개인적	NNG
+개인적/NNG	3	개인적	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+공간/NNG	3	공간	NNG
+공간/NNG	3	공간	NNG
+공간/NNG	3	공간	NNG
+공간/NNG	3	공간	NNG
+공간/NNG	3	공간	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+기분/NNG	1	기분	NNG
+기억/NNG	2	기억	NNG
+긴장/NNG	2	긴장	NNG
+나라/NNG	1	나라	NNG
+나라/NNG	1	나라	NNG
+노력/NNG	2	노력	NNG
+당/NNG	6	당	NNG
+대부분/NNG	2	대부분	NNG
+대화/NNG	1	대화	NNG
+동물/NNG	2	동물	NNG
+동물/NNG	2	동물	NNG
+동물/NNG	2	동물	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+만약/NNG	2	만약	NNG
+목숨/NNG	4	목숨	NNG
+무례/NNG	6	무례	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화적/NNG	4	문화적	NNG
+미국인/NNG	3	미국인	NNG
+미국인/NNG	3	미국인	NNG
+미국인/NNG	3	미국인	NNG
+반면/NNG	3	반면	NNG
+배우자/NNG	4	배우자	NNG
+불안/NNG	2	불안	NNG
+불편/NNG	2	불편	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사실/NNG	2	사실	NNG
+사실/NNG	2	사실	NNG
+사이/NNG	1	사이	NNG
+사이/NNG	1	사이	NNG
+사회생활/NNG	4	사회생활	NNG
+사회적/NNG	3	사회적	NNG
+사회적/NNG	3	사회적	NNG
+생각/NNG	1	생각	NNG
+서양인/NNG	4	서양인	NNG
+앞/NNG	1	앞	NNG
+연인/NNG	3	연인	NNG
+영역/NNG	4	영역	NNG
+예의/NNG	3	예의	NNG
+오해/NNG	3	오해	NNG
+유지/NNG	4	유지	NNG
+유지/NNG	4	유지	NNG
+유지/NNG	4	유지	NNG
+은행/NNG	1	은행	NNG
+이내/NNG	4	이내	NNG
+이야기/NNG	1	이야기	NNG
+이하/NNG	3	이하	NNG
+인간/NNG	4	인간	NNG
+인간/NNG	4	인간	NNG
+일반적/NNG	4	일반적	NNG
+일본인/NNG	3	일본인	NNG
+일본인/NNG	3	일본인	NNG
+정도/NNG	2	정도	NNG
+줄/NNG	2	줄	NNG
+중국인/NNG	3	중국인	NNG
+중국인/NNG	3	중국인	NNG
+차이/NNG	3	차이	NNG
+차이/NNG	3	차이	NNG
+차이/NNG	3	차이	NNG
+참새/NNG	5	참새	NNG
+처음/NNG	1	처음	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친밀/NNG	5	친밀	NNG
+친밀/NNG	5	친밀	NNG
+친밀/NNG	5	친밀	NNG
+친밀/NNG	5	친밀	NNG
+침범/NNG	6	침범	NNG
+침범/NNG	6	침범	NNG
+침범/NNG	6	침범	NNG
+편안/NNG	2	편안	NNG
+편안/NNG	2	편안	NNG
+한국인/NNG	3	한국인	NNG
+행동/NNG	2	행동	NNG
+허락/NNG	3	허락	NNG
+화장실/NNG	1	화장실	NNG
+확보/NNG	4	확보	NNG
+가까이/MAG	2	가까이	MA
+가까이/MAG	2	가까이	MA
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+그럼/MAJ	1	그럼	MA
+그리고/MAJ	1	그리고	MA
+너무/MAG	1	너무	MA
+늘/MAG	2	늘	MA
+또/MAG	1	또	MA
+서로/MAG	2	서로	MA
+아주/MAG	1	아주	MA
+없이/MAG	3	없이	MA
+잘/MAG	1	잘	MA
+잘/MAG	1	잘	MA
+전혀/MAG	2	전혀	MA
+전혀/MAG	2	전혀	MA
+즉/MAJ	3	즉	MA
+훨씬/MAG	2	훨씬	MA

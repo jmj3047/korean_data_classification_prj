@@ -1,0 +1,8 @@
+밤	NNG
+등	NNG
+안	NNG
+유학	NNG
+따르	VV
+주	NNG
+말	NNG
+상	NNG

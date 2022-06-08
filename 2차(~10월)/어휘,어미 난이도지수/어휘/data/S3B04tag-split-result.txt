@@ -1,0 +1,177 @@
+1
+2
+1
+7
+7
+1
+1
+1
+4
+4
+1
+1
+1
+1
+1
+1
+4
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+나오/VV	1	나오다	VV
+다녀오/VV	1	다녀오다	VV
+도와주/VV	1	도와주다	VV
+도와주/VV	1	도와주다	VV
+도와주/VV	1	도와주다	VV
+만나/VV	1	만나다	VV
+만들/VV	1	만들다	VV
+모으/VV	2	모으다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+부르/VV	1	부르다	VV
+빌리/VV	1	빌리다	VV
+빌리/VV	1	빌리다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+사/VV	1	사다	VV
+생기/VV	2	생기다	VV
+생기/VV	2	생기다	VV
+열/VV	1	열다	VV
+움직이/VV	2	움직이다	VV
+움직이/VV	2	움직이다	VV
+위하/VV	3	위하다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+팔/VV	1	팔다	VV
+팔/VV	1	팔다	VV
+팔/VV	1	팔다	VV
+팔/VV	1	팔다	VV
+팔/VV	1	팔다	VV
+팔/VV	1	팔다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+멀/VA	1	멀다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+어떻/VA	1	어떻다	VA
+어렵/VA	1	어렵다	VA
+어렵/VA	1	어렵다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+즐겁/VA	2	즐겁다	VA
+크/VA	1	크다	VA
+특별하/VA	1	특별하다	VA
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가게/NNG	1	가게	NNG
+가족/NNG	1	가족	NNG
+값/NNG	1	값	NNG
+거리/NNG	2	거리	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+기증/NNG	5	기증	NNG
+기증/NNG	5	기증	NNG
+기증/NNG	5	기증	NNG
+기증/NNG	5	기증	NNG
+기증/NNG	5	기증	NNG
+기증/NNG	5	기증	NNG
+돈/NNG	1	돈	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+방문/NNG	2	방문	NNG
+봉사/NNG	3	봉사	NNG
+봉사자/NNG	5	봉사자	NNG
+봉사자/NNG	5	봉사자	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+신발/NNG	1	신발	NNG
+신청/NNG	2	신청	NNG
+싼값/NNG	4	싼값	NNG
+아파트/NNG	1	아파트	NNG
+옷/NNG	1	옷	NNG
+요즘/NNG	1	요즘	NNG
+원/NNG	4	원	NNG
+이번/NNG	1	이번	NNG
+이용/NNG	2	이용	NNG
+장소/NNG	1	장소	NNG
+정리/NNG	2	정리	NNG
+주변/NNG	2	주변	NNG
+직원/NNG	1	직원	NNG
+책/NNG	1	책	NNG
+천사/NNG	3	천사	NNG
+천사/NNG	3	천사	NNG
+천사/NNG	3	천사	NNG
+천사/NNG	3	천사	NNG
+천사/NNG	3	천사	NNG
+천사/NNG	3	천사	NNG
+천사/NNG	3	천사	NNG
+친구/NNG	1	친구	NNG
+토요일/NNG	1	토요일	NNG
+트럭/NNG	2	트럭	NNG
+필요/NNG	1	필요	NNG
+학교/NNG	1	학교	NNG
+활동/NNG	3	활동	NNG
+활동/NNG	3	활동	NNG
+회사/NNG	1	회사	NNG
+후원/NNG	5	후원	NNG
+후원/NNG	5	후원	NNG
+그래서/MAJ	1	그래서	MA
+그리고/MAJ	1	그리고	MA
+또한/MAG	3	또한	MA
+매주/MAG	2	매주	MA
+못/MAG	1	못	MA
+좀/MAG	1	좀	MA
+직접/MAG	2	직접	MA
+함께/MAG	1	함께	MA

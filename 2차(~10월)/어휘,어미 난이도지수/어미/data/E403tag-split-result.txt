@@ -1,0 +1,98 @@
+ETM 4
+ETM 4
+ETM 4
+EC 2
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+게/EC	2	게	EC
+게/EC	2	게	EC
+게/EC	2	게	EC
+게/EC	2	게	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다면/EC	4	ㄴ다면	EC
+ㄴ지/EC	4	ㄴ지	EC
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는데/EC	2	는데	EC
+다면/EC	4	다면	EC
+더라도/EC	4	더라도	EC
+ㄹ/ETM	2	ㄹ	ET
+려고/EC	1	려고	EC
+려고/EC	1	려고	EC
+ㅁ/ETN	2	ㅁ	ET
+면/EC	2	면	EC
+면/EC	2	면	EC
+면/EC	2	면	EC
+면서/EC	2	면서	EC
+면서/EC	2	면서	EC
+면서/EC	2	면서	EC
+아/EC	1	아	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어서/EC	1	어서	EC
+었/EP	1	었	EP
+으면/EC	2	으면	EC
+은/ETM	2	은	ET
+은/ETM	2	은	ET
+은/ETM	2	은	ET
+을/ETM	2	을	ET
+지/EC	5	지	EC
+지/EC	5	지	EC
+지/EC	5	지	EC

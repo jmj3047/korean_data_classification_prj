@@ -1,0 +1,14 @@
+일	NNG
+쉬	VV
+말	NNG
+말	NNG
+화	NNG
+쓰	VV
+쉬	VV
+쓰	VV
+말	NNG
+안	NNG
+일	NNG
+매장	NNG
+일	NNG
+말	NNG

@@ -1,0 +1,221 @@
+7
+6
+1
+3
+4
+1
+1
+1
+3
+7
+2
+1
+3
+3
+7
+7
+2
+3
+1
+4
+1
+1
+4
+7
+5
+1
+7
+7
+7
+2
+3
+7
+1
+1
+3
+7
+7
+3
+7
+3
+3
+3
+7
+7
+7
+가/VV	1	가다	VV
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+갖추/VV	4	갖추다	VV
+나가/VV	1	나가다	VV
+나타나/VV	2	나타나다	VV
+놀/VV	1	놀다	VV
+느끼/VV	2	느끼다	VV
+늘/VV	2	늘다	VV
+늘어나/VV	3	늘어나다	VV
+담기/VV	3	담기다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+듣/VV	1	듣다	VV
+들/VV	1	들다	VV
+떠오르/VV	3	떠오르다	VV
+만들/VV	1	만들다	VV
+맞추/VV	2	맞추다	VV
+모으/VV	2	모으다	VV
+보/VV	1	보다	VV
+비하/VV	3	비하다	VV
+생기/VV	2	생기다	VV
+아끼/VV	3	아끼다	VV
+커지/VV	3	커지다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+트/VV	6	트다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+당연하/VA	3	당연하다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+빠르/VA	1	빠르다	VA
+새롭/VA	2	새롭다	VA
+아기자기하/VA	5	아기자기하다	VA
+어떻/VA	1	어떻다	VA
+어리/VA	2	어리다	VA
+어리/VA	2	어리다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+특별하/VA	1	특별하다	VA
+가족/NNG	1	가족	NNG
+감성/NNG	5	감성	NNG
+결과/NNG	2	결과	NNG
+경제적/NNG	3	경제적	NNG
+경향/NNG	4	경향	NNG
+관람객/NNG	3	관람객	NNG
+관람객/NNG	3	관람객	NNG
+관련/NNG	3	관련	NNG
+구매/NNG	4	구매	NNG
+규모/NNG	4	규모	NNG
+규모/NNG	4	규모	NNG
+근무/NNG	3	근무	NNG
+기자/NNG	2	기자	NNG
+남성/NNG	2	남성	NNG
+눈높이/NNG	5	눈높이	NNG
+능력/NNG	2	능력	NNG
+대부분/NNG	2	대부분	NNG
+뜻/NNG	2	뜻	NNG
+매출/NNG	5	매출	NNG
+매출/NNG	5	매출	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+소비/NNG	4	소비	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시절/NNG	4	시절	NNG
+시절/NNG	4	시절	NNG
+시절/NNG	4	시절	NNG
+심리/NNG	3	심리	NNG
+아빠/NNG	2	아빠	NNG
+아빠/NNG	2	아빠	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+야외/NNG	3	야외	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+어른/NNG	2	어른	NNG
+여가/NNG	3	여가	NNG
+여성/NNG	2	여성	NNG
+여유/NNG	3	여유	NNG
+예전/NNG	5	예전	NNG
+올해/NNG	1	올해	NNG
+요즘/NNG	1	요즘	NNG
+유행/NNG	2	유행	NNG
+이야기/NNG	1	이야기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인형/NNG	2	인형	NNG
+일시적/NNG	4	일시적	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+장난감/NNG	2	장난감	NNG
+장난감/NNG	2	장난감	NNG
+장난감/NNG	2	장난감	NNG
+재미/NNG	2	재미	NNG
+전문가/NNG	3	전문가	NNG
+전문가/NNG	3	전문가	NNG
+주인공/NNG	3	주인공	NNG
+지금/NNG	1	지금	NNG
+지금/NNG	1	지금	NNG
+지난해/NNG	1	지난해	NNG
+직장인/NNG	3	직장인	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+추세/NNG	5	추세	NNG
+추억/NNG	3	추억	NNG
+추억/NNG	3	추억	NNG
+추억/NNG	3	추억	NNG
+취미/NNG	1	취미	NNG
+취향/NNG	3	취향	NNG
+친구/NNG	1	친구	NNG
+피/NNG	2	피	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+현장/NNG	4	현장	NNG
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+다/MAG	1	다	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+덜/MAG	3	덜	MA
+또한/MAG	3	또한	MA
+또한/MAG	3	또한	MA
+및/MAG	3	및	MA
+이미/MAG	2	이미	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA

@@ -1,0 +1,16 @@
+전공과목	NNG
+한국	NNP
+한국	NNP
+한국	NNP
+한국	NNP
+익숙	NNG
+소중	NNG
+한국	NNP
+한국	NNP
+한국어	NNP
+한국어	NNP
+한국	NNP
+경주	NNP
+하프	NNG
+나카	NNG
+한국어	NNP

@@ -1,0 +1,234 @@
+1
+7
+3
+1
+3
+1
+2
+2
+1
+1
+2
+1
+2
+2
+1
+2
+2
+2
+1
+2
+3
+7
+2
+2
+2
+1
+7
+2
+7
+2
+2
+7
+1
+7
+1
+3
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+2
+3
+2
+1
+7
+1
+2
+1
+1
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+꾸미/VV	4	꾸미다	VV
+나누/VV	2	나누다	VV
+남기/VV	2	남기다	VV
+되/VV	1	되다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+만들/VV	1	만들다	VV
+맞추/VV	2	맞추다	VV
+바라보/VV	2	바라보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+빌리/VV	1	빌리다	VV
+사/VV	1	사다	VV
+앉/VV	1	앉다	VV
+자라/VV	2	자라다	VV
+좋아하/VV	1	좋아하다	VV
+즐기/VV	2	즐기다	VV
+즐기/VV	2	즐기다	VV
+즐기/VV	2	즐기다	VV
+찾/VV	1	찾다	VV
+찾/VV	1	찾다	VV
+찾/VV	1	찾다	VV
+춤추/VV	1	춤추다	VV
+트이/VV	5	트이다	VV
+팔/VV	1	팔다	VV
+풀/VV	2	풀다	VV
+하/VV	1	하다	VV
+흐르/VV	2	흐르다	VV
+흐르/VV	2	흐르다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+다르/VA	1	다르다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+시원하/VA	1	시원하다	VA
+시원하/VA	1	시원하다	VA
+시원하/VA	1	시원하다	VA
+신기하/VA	3	신기하다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+즐겁/VA	2	즐겁다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+가을/NNG	1	가을	NNG
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+건물/NNG	1	건물	NNG
+겨울/NNG	1	겨울	NNG
+계단/NNG	2	계단	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+공간/NNG	3	공간	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+공원/NNG	1	공원	NNG
+광장/NNG	5	광장	NNG
+교통/NNG	1	교통	NNG
+귀/NNG	1	귀	NNG
+꽃/NNG	1	꽃	NNG
+날/NNG	1	날	NNG
+날씨/NNG	1	날씨	NNG
+남녀노소/NNG	5	남녀노소	NNG
+낮/NNG	1	낮	NNG
+놀이터/NNG	3	놀이터	NNG
+눈/NNG	1	눈	NNG
+도시락/NNG	3	도시락	NNG
+드라마/NNG	1	드라마	NNG
+때/NNG	4	때	NNG
+레스토랑/NNG	2	레스토랑	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+모습/NNG	2	모습	NNG
+모습/NNG	2	모습	NNG
+모습/NNG	2	모습	NNG
+물/NNG	1	물	NNG
+물건/NNG	1	물건	NNG
+물소리/NNG	3	물소리	NNG
+배경/NNG	4	배경	NNG
+봄/NNG	1	봄	NNG
+분수/NNG	4	분수	NNG
+분수/NNG	4	분수	NNG
+분수/NNG	4	분수	NNG
+불꽃/NNG	4	불꽃	NNG
+사계절/NNG	2	사계절	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사진/NNG	1	사진	NNG
+생태/NNG	6	생태	NNG
+세계/NNG	2	세계	NNG
+쇼/NNG	3	쇼	NNG
+쇼/NNG	3	쇼	NNG
+쇼/NNG	3	쇼	NNG
+수영장/NNG	1	수영장	NNG
+수영장/NNG	1	수영장	NNG
+스키/NNG	1	스키	NNG
+시간/NNG	1	시간	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+식물/NNG	4	식물	NNG
+야경/NNG	3	야경	NNG
+야외/NNG	3	야외	NNG
+여유/NNG	3	여유	NNG
+영화/NNG	1	영화	NNG
+예전/NNG	5	예전	NNG
+유람선/NNG	3	유람선	NNG
+음악/NNG	1	음악	NNG
+이번/NNG	1	이번	NNG
+이용/NNG	2	이용	NNG
+인기/NNG	2	인기	NNG
+일상/NNG	4	일상	NNG
+자전거/NNG	1	자전거	NNG
+장소/NNG	1	장소	NNG
+재미/NNG	2	재미	NNG
+저녁/NNG	1	저녁	NNG
+전망대/NNG	6	전망대	NNG
+전시장/NNG	4	전시장	NNG
+주말/NNG	1	주말	NNG
+즐거움/NNG	3	즐거움	NNG
+최초/NNG	4	최초	NNG
+추억/NNG	3	추억	NNG
+축제/NNG	3	축제	NNG
+축제/NNG	3	축제	NNG
+카메라/NNG	1	카메라	NNG
+토요일/NNG	1	토요일	NNG
+피로/NNG	3	피로	NNG
+하늘/NNG	2	하늘	NNG
+하늘/NNG	2	하늘	NNG
+환상적/NNG	3	환상적	NNG
+휴식/NNG	3	휴식	NNG
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+내내/MAG	3	내내	MA
+더/MAG	1	더	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+잘/MAG	1	잘	MA
+잠시/MAG	1	잠시	MA
+잠시/MAG	1	잠시	MA
+제일/MAG	1	제일	MA
+탁/MAG	6	탁	MA
+특히/MAG	1	특히	MA
+함께/MAG	1	함께	MA

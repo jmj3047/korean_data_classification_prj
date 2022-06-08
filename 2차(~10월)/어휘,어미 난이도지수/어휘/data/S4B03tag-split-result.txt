@@ -1,0 +1,219 @@
+1
+5
+2
+1
+1
+3
+1
+2
+3
+1
+1
+4
+1
+1
+2
+1
+3
+2
+1
+4
+4
+4
+1
+1
+2
+1
+1
+1
+1
+1
+가/VV	1	가다	VV
+계시/VV	1	계시다	VV
+기다리/VV	1	기다리다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+도와주/VV	1	도와주다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+드리/VV	1	드리다	VV
+떠나/VV	2	떠나다	VV
+떠오르/VV	3	떠오르다	VV
+만나/VV	1	만나다	VV
+맞추/VV	2	맞추다	VV
+바라/VV	2	바라다	VV
+보내/VV	1	보내다	VV
+뵙/VV	2	뵙다	VV
+뵙/VV	2	뵙다	VV
+뵙/VV	2	뵙다	VV
+뵙/VV	2	뵙다	VV
+생기/VV	2	생기다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알리/VV	1	알리다	VV
+잡/VV	2	잡다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+지내/VV	1	지내다	VV
+지내/VV	1	지내다	VV
+지내/VV	1	지내다	VV
+찾/VV	1	찾다	VV
+찾아뵙/VV	4	찾아뵙다	VV
+찾아뵙/VV	4	찾아뵙다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+간단하/VA	2	간단하다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+괜찮/VA	1	괜찮다	VA
+하/VA	2	하다	VA
+다르/VA	1	다르다	VA
+다르/VA	1	다르다	VA
+바쁘/VA	1	바쁘다	VA
+바쁘/VA	1	바쁘다	VA
+어떻/VA	1	어떻다	VA
+어떻/VA	1	어떻다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+죄송하/VA	1	죄송하다	VA
+죄송하/VA	1	죄송하다	VA
+즐겁/VA	2	즐겁다	VA
+즐겁/VA	2	즐겁다	VA
+춥/VA	1	춥다	VA
+춥/VA	1	춥다	VA
+크/VA	1	크다	VA
+편하/VA	2	편하다	VA
+가을/NNG	1	가을	NNG
+고민/NNG	2	고민	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+교수/NNG	2	교수	NNG
+귀국/NNG	4	귀국	NNG
+그때/NNG	2	그때	NNG
+그때/NNG	2	그때	NNG
+다음/NNG	1	다음	NNG
+달/NNG	1	달	NNG
+대학원/NNG	2	대학원	NNG
+대학원/NNG	2	대학원	NNG
+도움/NNG	2	도움	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+말씀/NNG	1	말씀	NNG
+말씀/NNG	1	말씀	NNG
+메일/NNG	2	메일	NNG
+메일/NNG	2	메일	NNG
+메일/NNG	2	메일	NNG
+메일/NNG	2	메일	NNG
+부모님/NNG	1	부모님	NNG
+부탁/NNG	1	부탁	NNG
+부탁/NNG	1	부탁	NNG
+부탁/NNG	1	부탁	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+소개서/NNG	5	소개서	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+약속/NNG	1	약속	NNG
+연락/NNG	2	연락	NNG
+연락/NNG	2	연락	NNG
+연락/NNG	2	연락	NNG
+연락/NNG	2	연락	NNG
+연락/NNG	2	연락	NNG
+연수/NNG	5	연수	NNG
+예보/NNG	3	예보	NNG
+오늘/NNG	1	오늘	NNG
+오늘/NNG	1	오늘	NNG
+오늘/NNG	1	오늘	NNG
+오랜만/NNG	2	오랜만	NNG
+요즘/NNG	1	요즘	NNG
+일기/NNG	2	일기	NNG
+일정/NNG	3	일정	NNG
+작년/NNG	1	작년	NNG
+작년/NNG	1	작년	NNG
+정신/NNG	3	정신	NNG
+졸업/NNG	1	졸업	NNG
+주말/NNG	1	주말	NNG
+진로/NNG	4	진로	NNG
+진학/NNG	3	진학	NNG
+추신/NNG	5	추신	NNG
+추억/NNG	3	추억	NNG
+추위/NNG	4	추위	NNG
+추천서/NNG	4	추천서	NNG
+추천서/NNG	4	추천서	NNG
+추천서/NNG	4	추천서	NNG
+추천서/NNG	4	추천서	NNG
+출장/NNG	2	출장	NNG
+학기/NNG	2	학기	NNG
+학기/NNG	2	학기	NNG
+환절기/NNG	5	환절기	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+힘/NNG	2	힘	NNG
+갑자기/MAG	2	갑자기	MA
+계속/MAG	1	계속	MA
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+그럼/MAG	1	그럼	MA
+그럼/MAJ	1	그럼	MA
+다시/MAG	1	다시	MA
+다시/MAG	1	다시	MA
+많이/MAG	1	많이	MA
+먼저/MAG	1	먼저	MA
+못/MAG	1	못	MA
+못/MAG	1	못	MA
+바로/MAG	1	바로	MA
+안녕히/MAG	1	안녕히	MA
+언제/MAG	1	언제	MA
+언제/MAG	1	언제	MA
+없이/MAG	3	없이	MA
+자주/MAG	1	자주	MA
+잘/MAG	1	잘	MA
+잘/MAG	1	잘	MA
+정말/MAG	1	정말	MA
+조만간/MAG	6	조만간	MA
+직접/MAG	2	직접	MA
+참/MAG	1	참	MA
+항상/MAG	2	항상	MA
+혹시/MAG	2	혹시	MA

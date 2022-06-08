@@ -1,0 +1,13 @@
+민호	NNP
+서울	NNP
+수진	NNP
+민호	NNP
+민호	NNP
+민호	NNP
+민호	NNP
+민호	NNP
+익숙	NNG
+궁금	NNG
+민호	NNP
+서울	NNP
+이소라	NNP

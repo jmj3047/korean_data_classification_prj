@@ -1,0 +1,208 @@
+1
+3
+2
+2
+3
+3
+3
+1
+1
+4
+1
+2
+4
+4
+1
+5
+1
+1
+4
+4
+7
+1
+3
+4
+1
+1
+3
+1
+1
+1
+3
+1
+2
+2
+4
+7
+2
+3
+1
+4
+1
+4
+3
+1
+1
+3
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+4
+1
+3
+1
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+그러/VV	3	그러다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+알아보/VV	2	알아보다	VV
+움직이/VV	2	움직이다	VV
+위하/VV	3	위하다	VV
+읽/VV	1	읽다	VV
+정하/VV	2	정하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+강하/VA	2	강하다	VA
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+쉽/VA	1	쉽다	VA
+쉽/VA	1	쉽다	VA
+쉽/VA	1	쉽다	VA
+어렵/VA	1	어렵다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자연스럽/VA	4	자연스럽다	VA
+재미있/VA	1	재미있다	VA
+재미있/VA	1	재미있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+결론/NNG	4	결론	NNG
+결론/NNG	4	결론	NNG
+경험/NNG	2	경험	NNG
+관심/NNG	2	관심	NNG
+관심/NNG	2	관심	NNG
+관심/NNG	2	관심	NNG
+그림/NNG	1	그림	NNG
+나이/NNG	2	나이	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+다음/NNG	1	다음	NNG
+다음/NNG	1	다음	NNG
+도서관/NNG	1	도서관	NNG
+동영상/NNG	4	동영상	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+마지막/NNG	2	마지막	NNG
+몸/NNG	1	몸	NNG
+발표/NNG	3	발표	NNG
+발표/NNG	3	발표	NNG
+발표/NNG	3	발표	NNG
+발표/NNG	3	발표	NNG
+발표/NNG	3	발표	NNG
+발표/NNG	3	발표	NNG
+발표/NNG	3	발표	NNG
+발표자/NNG	5	발표자	NNG
+본론/NNG	5	본론	NNG
+본론/NNG	5	본론	NNG
+부분/NNG	2	부분	NNG
+부분/NNG	2	부분	NNG
+분야/NNG	4	분야	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사진/NNG	1	사진	NNG
+서론/NNG	5	서론	NNG
+서론/NNG	5	서론	NNG
+설문/NNG	3	설문	NNG
+성별/NNG	3	성별	NNG
+순서/NNG	2	순서	NNG
+앞/NNG	1	앞	NNG
+이야기/NNG	1	이야기	NNG
+이야기/NNG	1	이야기	NNG
+인터넷/NNG	1	인터넷	NNG
+자료/NNG	3	자료	NNG
+자료/NNG	3	자료	NNG
+자료/NNG	3	자료	NNG
+자료/NNG	3	자료	NNG
+자료/NNG	3	자료	NNG
+자료/NNG	3	자료	NNG
+자료/NNG	3	자료	NNG
+주제/NNG	3	주제	NNG
+주제/NNG	3	주제	NNG
+주제/NNG	3	주제	NNG
+주제/NNG	3	주제	NNG
+주제/NNG	3	주제	NNG
+주제/NNG	3	주제	NNG
+중심/NNG	2	중심	NNG
+직업/NNG	1	직업	NNG
+효과적/NNG	4	효과적	NNG
+효과적/NNG	4	효과적	NNG
+가장/MAG	1	가장	MA
+그러나/MAJ	2	그러나	MA
+그러나/MAJ	2	그러나	MA
+그러므로/MAJ	2	그러므로	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+먼저/MAG	1	먼저	MA
+미리/MAG	2	미리	MA
+없이/MAG	3	없이	MA
+자주/MAG	1	자주	MA
+잘/MAG	1	잘	MA
+천천히/MAG	1	천천히	MA
+충분히/MAG	3	충분히	MA

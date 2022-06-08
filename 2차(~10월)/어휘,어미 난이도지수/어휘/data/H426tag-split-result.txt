@@ -1,0 +1,229 @@
+4
+2
+5
+4
+7
+6
+5
+2
+7
+4
+3
+2
+5
+7
+7
+3
+1
+1
+4
+3
+4
+7
+7
+3
+7
+1
+4
+7
+3
+1
+2
+7
+4
+7
+7
+4
+4
+3
+4
+1
+5
+2
+2
+4
+2
+4
+3
+3
+1
+3
+3
+3
+3
+1
+2
+2
+3
+1
+3
+3
+1
+1
+늘/VV	2	늘다	VV
+늘어나/VV	3	늘어나다	VV
+달라지/VV	3	달라지다	VV
+대하/VV	3	대하다	VV
+돕/VV	1	돕다	VV
+들/VV	1	들다	VV
+떠오르/VV	3	떠오르다	VV
+만들/VV	1	만들다	VV
+먹이/VV	4	먹이다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+불구하/VV	4	불구하다	VV
+사라지/VV	3	사라지다	VV
+살/VV	1	살다	VV
+살펴보/VV	3	살펴보다	VV
+생겨나/VV	4	생겨나다	VV
+생겨나/VV	4	생겨나다	VV
+생겨나/VV	4	생겨나다	VV
+생기/VV	2	생기다	VV
+생기/VV	2	생기다	VV
+알/VV	1	알다	VV
+원하/VV	2	원하다	VV
+위하/VV	3	위하다	VV
+의하/VV	5	의하다	VV
+자라나/VV	4	자라나다	VV
+찾/VV	1	찾다	VV
+찾/VV	1	찾다	VV
+찾아가/VV	2	찾아가다	VV
+찾아내/VV	4	찾아내다	VV
+키우/VV	2	키우다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+수많/VA	4	수많다	VA
+쉽/VA	1	쉽다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+크/VA	1	크다	VA
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+건강/NNG	1	건강	NNG
+고/NNG	4	고	NNG
+고용/NNG	6	고용	NNG
+관련/NNG	3	관련	NNG
+관심/NNG	2	관심	NNG
+교사/NNG	2	교사	NNG
+기업/NNG	3	기업	NNG
+기업/NNG	3	기업	NNG
+만족/NNG	3	만족	NNG
+맛/NNG	1	맛	NNG
+모유/NNG	6	모유	NNG
+모유/NNG	6	모유	NNG
+모유/NNG	6	모유	NNG
+모유/NNG	6	모유	NNG
+모유/NNG	6	모유	NNG
+목표/NNG	3	목표	NNG
+문제/NNG	2	문제	NNG
+문제점/NNG	4	문제점	NNG
+물/NNG	1	물	NNG
+물/NNG	1	물	NNG
+물/NNG	1	물	NNG
+물건/NNG	1	물건	NNG
+미래/NNG	2	미래	NNG
+변화/NNG	3	변화	NNG
+부모/NNG	3	부모	NNG
+브랜드/NNG	5	브랜드	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+삶/NNG	3	삶	NNG
+삶/NNG	3	삶	NNG
+상담/NNG	3	상담	NNG
+상담/NNG	3	상담	NNG
+선택/NNG	2	선택	NNG
+성분/NNG	5	성분	NNG
+세계/NNG	2	세계	NNG
+세상/NNG	2	세상	NNG
+세상/NNG	2	세상	NNG
+세상/NNG	2	세상	NNG
+세상/NNG	2	세상	NNG
+소문/NNG	3	소문	NNG
+소비자/NNG	4	소비자	NNG
+아기/NNG	1	아기	NNG
+애완동물/NNG	3	애완동물	NNG
+애완동물/NNG	3	애완동물	NNG
+애완동물/NNG	3	애완동물	NNG
+애완동물/NNG	3	애완동물	NNG
+애완동물/NNG	3	애완동물	NNG
+양/NNG	3	양	NNG
+여유/NNG	3	여유	NNG
+역할/NNG	3	역할	NNG
+영양/NNG	3	영양	NNG
+온라인/NNG	4	온라인	NNG
+요구/NNG	4	요구	NNG
+욕구/NNG	5	욕구	NNG
+우리나라/NNG	2	우리나라	NNG
+유치원/NNG	2	유치원	NNG
+이미지/NNG	3	이미지	NNG
+입/NNG	1	입	NNG
+입맛/NNG	3	입맛	NNG
+자료/NNG	3	자료	NNG
+적성/NNG	4	적성	NNG
+적성/NNG	4	적성	NNG
+전문가/NNG	3	전문가	NNG
+전문가/NNG	3	전문가	NNG
+전문가/NNG	3	전문가	NNG
+전문적/NNG	4	전문적	NNG
+정리/NNG	2	정리	NNG
+정리/NNG	2	정리	NNG
+정리/NNG	2	정리	NNG
+정보/NNG	3	정보	NNG
+종류/NNG	2	종류	NNG
+종류/NNG	2	종류	NNG
+주목/NNG	4	주목	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+질/NNG	3	질	NNG
+청소년/NNG	2	청소년	NNG
+체크/NNG	5	체크	NNG
+최근/NNG	2	최근	NNG
+취직/NNG	2	취직	NNG
+활동/NNG	3	활동	NNG
+회사/NNG	1	회사	NNG
+흥미/NNG	4	흥미	NNG
+흥미/NNG	4	흥미	NNG
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+매우/MAG	2	매우	MA
+새로/MAG	2	새로	MA
+새로/MAG	2	새로	MA
+새로/MAG	2	새로	MA
+아주/MAG	1	아주	MA
+여전히/MAG	4	여전히	MA
+잘/MAG	1	잘	MA
+주로/MAG	1	주로	MA
+함께/MAG	1	함께	MA

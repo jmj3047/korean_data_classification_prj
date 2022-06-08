@@ -1,0 +1,98 @@
+2
+3
+4
+2
+2
+2
+1
+3
+1
+1
+2
+3
+2
+3
+3
+7
+3
+3
+3
+1
+1
+3
+3
+1
+3
+담기/VV	3	담기다	VV
+들어가/VV	1	들어가다	VV
+들이/VV	4	들이다	VV
+모르/VV	1	모르다	VV
+바꾸/VV	1	바꾸다	VV
+받/VV	1	받다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+위하/VV	3	위하다	VV
+주/VV	1	주다	VV
+틀리/VV	2	틀리다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+값지/VA	5	값지다	VA
+많/VA	1	많다	VA
+아깝/VA	4	아깝다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+좋/VA	1	좋다	VA
+초라하/VA	5	초라하다	VA
+크/VA	1	크다	VA
+화려하/VA	2	화려하다	VA
+화려하/VA	2	화려하다	VA
+결국/NNG	3	결국	NNG
+경우/NNG	3	경우	NNG
+내용/NNG	2	내용	NNG
+내용물/NNG	5	내용물	NNG
+때/NNG	4	때	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+배꼽/NNG	4	배꼽	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+생각/NNG	1	생각	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+선물/NNG	1	선물	NNG
+소비자/NNG	4	소비자	NNG
+신경/NNG	3	신경	NNG
+실제/NNG	4	실제	NNG
+심리/NNG	3	심리	NNG
+쓰레기통/NNG	2	쓰레기통	NNG
+요즘/NNG	1	요즘	NNG
+의미/NNG	2	의미	NNG
+정도/NNG	2	정도	NNG
+정성/NNG	4	정성	NNG
+정성/NNG	4	정성	NNG
+제품/NNG	3	제품	NNG
+포장지/NNG	4	포장지	NNG
+포장지/NNG	4	포장지	NNG
+그런데/MAJ	1	그런데	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더욱/MAG	2	더욱	MA
+더욱/MAG	2	더욱	MA
+물론/MAG	2	물론	MA
+아무리/MAG	2	아무리	MA
+왜/MAG	1	왜	MA
+제대로/MAG	3	제대로	MA
+제대로/MAG	3	제대로	MA
+제대로/MAG	3	제대로	MA
+제일/MAG	1	제일	MA

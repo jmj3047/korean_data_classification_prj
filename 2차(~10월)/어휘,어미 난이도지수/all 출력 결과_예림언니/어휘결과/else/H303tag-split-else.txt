@@ -1,0 +1,15 @@
+거절하	VV
+구경하	VV
+유명하	VA
+전시하	VV
+다양하	VA
+생각하	VV
+다정하	VA
+모성애	NNG
+표현하	VV
+촬영하	VV
+촬영기	NNG
+금지되	VV
+기념하	VV
+생각하	VV
+행복하	VA

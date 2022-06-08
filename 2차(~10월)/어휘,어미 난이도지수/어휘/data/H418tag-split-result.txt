@@ -1,0 +1,226 @@
+1
+1
+1
+1
+7
+7
+3
+7
+5
+7
+3
+1
+1
+7
+7
+7
+7
+1
+5
+1
+7
+2
+1
+3
+3
+3
+1
+3
+2
+1
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+나타나/VV	2	나타나다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+담기/VV	3	담기다	VV
+담/VV	3	담다	VV
+되/VV	1	되다	VV
+드러나/VV	4	드러나다	VV
+들/VV	1	들다	VV
+들어가/VV	1	들어가다	VV
+마시/VV	1	마시다	VV
+막/VV	3	막다	VV
+만들/VV	1	만들다	VV
+많아지/VV	3	많아지다	VV
+머무르/VV	4	머무르다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+벗어나/VV	4	벗어나다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+사로잡/VV	4	사로잡다	VV
+세우/VV	2	세우다	VV
+식히/VV	3	식히다	VV
+여기/VV	3	여기다	VV
+이기/VV	2	이기다	VV
+자/VV	1	자다	VV
+즐기/VV	2	즐기다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+높/VA	1	높다	VA
+많/VA	1	많다	VA
+부드럽/VA	2	부드럽다	VA
+빠르/VA	1	빠르다	VA
+쉽/VA	1	쉽다	VA
+쉽/VA	1	쉽다	VA
+어떻/VA	1	어떻다	VA
+여유롭/VA	3	여유롭다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+특별하/VA	1	특별하다	VA
+특별하/VA	1	특별하다	VA
+가까이/NNG	2	가까이	NNG
+각종/NNG	4	각종	NNG
+간직/NNG	5	간직	NNG
+거주/NNG	5	거주	NNG
+겉/NNG	2	겉	NNG
+겨울/NNG	1	겨울	NNG
+결과/NNG	2	결과	NNG
+결과/NNG	2	결과	NNG
+계절/NNG	1	계절	NNG
+계획/NNG	1	계획	NNG
+고유/NNG	4	고유	NNG
+곡선/NNG	5	곡선	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+공간/NNG	3	공간	NNG
+공존/NNG	6	공존	NNG
+과거/NNG	2	과거	NNG
+관계자/NNG	4	관계자	NNG
+관광/NNG	2	관광	NNG
+구분/NNG	4	구분	NNG
+그늘/NNG	4	그늘	NNG
+근본적/NNG	4	근본적	NNG
+남녀/NNG	2	남녀	NNG
+남자/NNG	1	남자	NNG
+내부/NNG	4	내부	NNG
+눈/NNG	1	눈	NNG
+대문/NNG	3	대문	NNG
+더위/NNG	4	더위	NNG
+도시/NNG	2	도시	NNG
+마련/NNG	4	마련	NNG
+마루/NNG	4	마루	NNG
+마루/NNG	4	마루	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+매력/NNG	4	매력	NNG
+매력/NNG	4	매력	NNG
+문화/NNG	1	문화	NNG
+밖/NNG	1	밖	NNG
+밥/NNG	1	밥	NNG
+변화/NNG	3	변화	NNG
+비빔밥/NNG	1	비빔밥	NNG
+사용/NNG	1	사용	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+속/NNG	2	속	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+안쪽/NNG	2	안쪽	NNG
+여름/NNG	1	여름	NNG
+여성/NNG	2	여성	NNG
+여행/NNG	1	여행	NNG
+여행/NNG	1	여행	NNG
+여행/NNG	1	여행	NNG
+여행지/NNG	2	여행지	NNG
+여행지/NNG	2	여행지	NNG
+여행지/NNG	2	여행지	NNG
+여행지/NNG	2	여행지	NNG
+온돌/NNG	5	온돌	NNG
+온돌/NNG	5	온돌	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+요구/NNG	4	요구	NNG
+의/NNG	6	의	NNG
+의/NNG	6	의	NNG
+의외/NNG	4	의외	NNG
+이유/NNG	1	이유	NNG
+이유/NNG	1	이유	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+일상/NNG	4	일상	NNG
+자연/NNG	2	자연	NNG
+잠/NNG	1	잠	NNG
+적응/NNG	3	적응	NNG
+전통/NNG	3	전통	NNG
+전통/NNG	3	전통	NNG
+정/NNG	3	정	NNG
+조상/NNG	3	조상	NNG
+주간/NNG	3	주간	NNG
+지금/NNG	1	지금	NNG
+지붕/NNG	3	지붕	NNG
+지붕/NNG	3	지붕	NNG
+지역/NNG	3	지역	NNG
+지혜/NNG	4	지혜	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+차지/NNG	5	차지	NNG
+차지/NNG	5	차지	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+최근/NNG	2	최근	NNG
+추위/NNG	4	추위	NNG
+판매/NNG	3	판매	NNG
+하늘/NNG	2	하늘	NNG
+하루/NNG	1	하루	NNG
+한여름/NNG	4	한여름	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+해변/NNG	3	해변	NNG
+해수욕/NNG	5	해수욕	NNG
+햇빛/NNG	2	햇빛	NNG
+향/NNG	4	향	NNG
+현대/NNG	3	현대	NNG
+홍보/NNG	4	홍보	NNG
+홍보/NNG	4	홍보	NNG
+환경/NNG	4	환경	NNG
+활동/NNG	3	활동	NNG
+효과/NNG	3	효과	NNG
+휴식/NNG	3	휴식	NNG
+가장/MAG	1	가장	MA
+그대로/MAG	2	그대로	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+매우/MAG	2	매우	MA
+왜/MAG	1	왜	MA
+왜냐하면/MAG	2	왜냐하면	MA
+특히/MAG	1	특히	MA
+하지만/MAJ	1	하지만	MA
+함께/MAG	1	함께	MA
+혹시/MAG	2	혹시	MA

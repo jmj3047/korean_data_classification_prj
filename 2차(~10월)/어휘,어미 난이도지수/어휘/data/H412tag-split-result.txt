@@ -1,0 +1,223 @@
+7
+2
+4
+1
+1
+5
+1
+7
+5
+1
+3
+7
+1
+4
+1
+1
+7
+1
+4
+1
+1
+3
+1
+5
+4
+2
+4
+1
+2
+2
+3
+3
+3
+3
+1
+3
+끝내/VV	2	끝내다	VV
+나누/VV	2	나누다	VV
+나누/VV	2	나누다	VV
+나누/VV	2	나누다	VV
+나누/VV	2	나누다	VV
+나누/VV	2	나누다	VV
+느끼/VV	2	느끼다	VV
+담그/VV	3	담그다	VV
+담그/VV	3	담그다	VV
+담그/VV	3	담그다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+맞이하/VV	3	맞이하다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+모이/VV	2	모이다	VV
+모이/VV	2	모이다	VV
+모이/VV	2	모이다	VV
+바르/VV	2	바르다	VV
+밝히/VV	3	밝히다	VV
+배우/VV	1	배우다	VV
+보내/VV	1	보내다	VV
+보/VV	1	보다	VV
+빼놓/VV	4	빼놓다	VV
+사/VV	1	사다	VV
+여기/VV	3	여기다	VV
+인정받/VV	4	인정받다	VV
+인하/VV	4	인하다	VV
+잇/VV	3	잇다	VV
+자라/VV	2	자라다	VV
+주/VV	1	주다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+합치/VV	3	합치다	VV
+바쁘/VA	1	바쁘다	VA
+복잡하/VA	2	복잡하다	VA
+어떻/VA	1	어떻다	VA
+어렵/VA	1	어렵다	VA
+어렵/VA	1	어렵다	VA
+어리/VA	2	어리다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+재미있/VA	1	재미있다	VA
+크/VA	1	크다	VA
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+걱정/NNG	2	걱정	NNG
+걱정/NNG	2	걱정	NNG
+겨울/NNG	1	겨울	NNG
+겨울/NNG	1	겨울	NNG
+겨울/NNG	1	겨울	NNG
+공감대/NNG	5	공감대	NNG
+공동체/NNG	4	공동체	NNG
+기억/NNG	2	기억	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김장/NNG	5	김장	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+김치/NNG	1	김치	NNG
+늦가을/NNG	4	늦가을	NNG
+대화/NNG	1	대화	NNG
+동안/NNG	1	동안	NNG
+맛/NNG	1	맛	NNG
+명칭/NNG	6	명칭	NNG
+무형/NNG	6	무형	NNG
+무형/NNG	6	무형	NNG
+무형/NNG	6	무형	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화유산/NNG	5	문화유산	NNG
+문화유산/NNG	5	문화유산	NNG
+문화유산/NNG	5	문화유산	NNG
+반면/NNG	3	반면	NNG
+반찬/NNG	2	반찬	NNG
+배추/NNG	2	배추	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+세계적/NNG	4	세계적	NNG
+속/NNG	2	속	NNG
+손맛/NNG	6	손맛	NNG
+시절/NNG	4	시절	NNG
+안부/NNG	3	안부	NNG
+양념/NNG	3	양념	NNG
+어머니/NNG	1	어머니	NNG
+어머니/NNG	1	어머니	NNG
+어머니/NNG	1	어머니	NNG
+역할/NNG	3	역할	NNG
+영양/NNG	3	영양	NNG
+영향/NNG	3	영향	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+유산/NNG	4	유산	NNG
+유산/NNG	4	유산	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+이웃/NNG	2	이웃	NNG
+이웃/NNG	2	이웃	NNG
+인류/NNG	4	인류	NNG
+인류/NNG	4	인류	NNG
+인류/NNG	4	인류	NNG
+잎/NNG	2	잎	NNG
+자식/NNG	2	자식	NNG
+자체/NNG	5	자체	NNG
+재료/NNG	2	재료	NNG
+전통/NNG	3	전통	NNG
+정/NNG	3	정	NNG
+정식/NNG	4	정식	NNG
+정신/NNG	3	정신	NNG
+정체성/NNG	6	정체성	NNG
+준비/NNG	1	준비	NNG
+체험/NNG	3	체험	NNG
+최종/NNG	4	최종	NNG
+하나하나/NNG	3	하나하나	NNG
+하루아침/NNG	5	하루아침	NNG
+한국인/NNG	3	한국인	NNG
+한국인/NNG	3	한국인	NNG
+현대/NNG	3	현대	NNG
+단순히/MAG	4	단순히	MA
+단순히/MAG	4	단순히	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+서로/MAG	2	서로	MA
+얼마나/MAG	1	얼마나	MA
+없이/MAG	3	없이	MA
+잘/MAG	1	잘	MA
+정성껏/MAG	5	정성껏	MA
+직접/MAG	2	직접	MA
+직접/MAG	2	직접	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA

@@ -1,0 +1,74 @@
+1
+3
+3
+3
+3
+7
+1
+3
+3
+3
+3
+1
+2
+3
+2
+4
+6
+3
+1
+1
+2
+3
+3
+1
+가르치/VV	1	가르치다	VV
+가르치/VV	1	가르치다	VV
+바라/VV	2	바라다	VV
+배우/VV	1	배우다	VV
+배우/VV	1	배우다	VV
+하/VV	1	하다	VV
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+개인/NNG	3	개인	NNG
+결정/NNG	2	결정	NNG
+경험/NNG	2	경험	NNG
+고/NNG	4	고	NNG
+과외/NNG	4	과외	NNG
+과외/NNG	4	과외	NNG
+관심/NNG	2	관심	NNG
+관심/NNG	2	관심	NNG
+그룹/NNG	3	그룹	NNG
+근무/NNG	3	근무	NNG
+근무/NNG	3	근무	NNG
+여/NNG	5	여	NNG
+기초/NNG	3	기초	NNG
+동안/NNG	1	동안	NNG
+모집/NNG	3	모집	NNG
+서비스/NNG	2	서비스	NNG
+성격/NNG	2	성격	NNG
+손님/NNG	1	손님	NNG
+수준/NNG	4	수준	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+아르바이트/NNG	1	아르바이트	NNG
+연락/NNG	2	연락	NNG
+연락처/NNG	2	연락처	NNG
+오후/NNG	1	오후	NNG
+외국인/NNG	1	외국인	NNG
+위치/NNG	2	위치	NNG
+인원/NNG	3	인원	NNG
+일본인/NNG	3	일본인	NNG
+초등학생/NNG	2	초등학생	NNG
+통역/NNG	3	통역	NNG
+판매/NNG	3	판매	NNG
+학생/NNG	1	학생	NNG
+학원/NNG	2	학원	NNG
+화장품/NNG	2	화장품	NNG
+화장품/NNG	2	화장품	NNG
+후/NNG	1	후	NNG
+또는/MAG	2	또는	MA
+모두/MAG	1	모두	MA
+모두/MAG	1	모두	MA
+바로/MAG	1	바로	MA

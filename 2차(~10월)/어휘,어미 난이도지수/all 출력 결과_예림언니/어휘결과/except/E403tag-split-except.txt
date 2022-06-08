@@ -1,0 +1,11 @@
+점	NNG
+면	NNG
+예	NNG
+점	NNG
+이상	NNG
+점	NNG
+말	NNG
+말	NNG
+말	NNG
+채우	VV
+바람	NNG

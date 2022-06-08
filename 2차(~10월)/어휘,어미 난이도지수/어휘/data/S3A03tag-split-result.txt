@@ -1,0 +1,190 @@
+1
+1
+3
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+4
+1
+3
+3
+3
+3
+1
+2
+1
+1
+1
+1
+3
+3
+2
+2
+1
+1
+2
+3
+3
+3
+2
+1
+기다리/VV	1	기다리다	VV
+나오/VV	1	나오다	VV
+내/VV	2	내다	VV
+내/VV	2	내다	VV
+내/VV	2	내다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+들어가/VV	1	들어가다	VV
+들어가/VV	1	들어가다	VV
+떨어지/VV	2	떨어지다	VV
+모이/VV	2	모이다	VV
+바라/VV	2	바라다	VV
+배우/VV	1	배우다	VV
+배우/VV	1	배우다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+알리/VV	1	알리다	VV
+알아보/VV	2	알아보다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+위하/VV	3	위하다	VV
+일어나/VV	1	일어나다	VV
+찾/VV	1	찾다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+비슷하/VA	2	비슷하다	VA
+비싸/VA	1	비싸다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+작/VA	1	작다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+가격/NNG	1	가격	NNG
+가스/NNG	3	가스	NNG
+개인/NNG	3	개인	NNG
+거실/NNG	1	거실	NNG
+거실/NNG	1	거실	NNG
+걱정/NNG	2	걱정	NNG
+경험/NNG	2	경험	NNG
+고민/NNG	2	고민	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+대학교/NNG	1	대학교	NNG
+대학교/NNG	1	대학교	NNG
+대학교/NNG	1	대학교	NNG
+도움/NNG	2	도움	NNG
+동안/NNG	1	동안	NNG
+매점/NNG	3	매점	NNG
+문화/NNG	1	문화	NNG
+방/NNG	1	방	NNG
+보통/NNG	1	보통	NNG
+부엌/NNG	1	부엌	NNG
+분위기/NNG	2	분위기	NNG
+사람/NNG	1	사람	NNG
+생활/NNG	1	생활	NNG
+샤워/NNG	1	샤워	NNG
+시간/NNG	1	시간	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+식당/NNG	1	식당	NNG
+신청/NNG	2	신청	NNG
+실/NNG	3	실	NNG
+실/NNG	3	실	NNG
+실/NNG	3	실	NNG
+아침/NNG	1	아침	NNG
+요금/NNG	2	요금	NNG
+요금/NNG	2	요금	NNG
+요금/NNG	2	요금	NNG
+요금/NNG	2	요금	NNG
+원룸/NNG	3	원룸	NNG
+원룸/NNG	3	원룸	NNG
+원룸/NNG	3	원룸	NNG
+원룸/NNG	3	원룸	NNG
+월세/NNG	3	월세	NNG
+이야기/NNG	1	이야기	NNG
+인/NNG	5	인	NNG
+인/NNG	5	인	NNG
+인/NNG	5	인	NNG
+인터넷/NNG	1	인터넷	NNG
+장단점/NNG	3	장단점	NNG
+전/NNG	1	전	NNG
+전/NNG	1	전	NNG
+전세/NNG	3	전세	NNG
+정도/NNG	2	정도	NNG
+정도/NNG	2	정도	NNG
+지금/NNG	1	지금	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+처음/NNG	1	처음	NNG
+추첨/NNG	5	추첨	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+컴퓨터/NNG	1	컴퓨터	NNG
+텔레비전/NNG	1	텔레비전	NNG
+하숙비/NNG	2	하숙비	NNG
+하숙집/NNG	1	하숙집	NNG
+하숙집/NNG	1	하숙집	NNG
+하숙집/NNG	1	하숙집	NNG
+하숙집/NNG	1	하숙집	NNG
+하숙집/NNG	1	하숙집	NNG
+하숙집/NNG	1	하숙집	NNG
+학기/NNG	2	학기	NNG
+혼자/NNG	1	혼자	NNG
+화장실/NNG	1	화장실	NNG
+화장실/NNG	1	화장실	NNG
+후/NNG	1	후	NNG
+각각/MAG	2	각각	MA
+같이/MAG	1	같이	MA
+같이/MAG	1	같이	MA
+같이/MAG	1	같이	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+따로/MAG	2	따로	MA
+많이/MAG	1	많이	MA
+모두/MAG	1	모두	MA
+모두/MAG	1	모두	MA
+빨리/MAG	1	빨리	MA
+자주/MAG	1	자주	MA
+잘/MAG	1	잘	MA
+특히/MAG	1	특히	MA
+하지만/MAJ	1	하지만	MA

@@ -1,0 +1,11 @@
+지나치	VV
+갈리	VV
+구조대	NNG
+접	NNG
+착	NNG
+사마리아	NNP
+지나치	VV
+사마리아	NNP
+모호	NNG
+착	NNG
+사마리아	NNP

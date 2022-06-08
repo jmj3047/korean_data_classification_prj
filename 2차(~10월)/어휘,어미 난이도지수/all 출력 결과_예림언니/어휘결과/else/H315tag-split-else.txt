@@ -1,0 +1,13 @@
+다양하	VA
+개발되	VV
+일품	NNG
+시작하	VV
+한국	NNP
+조선	NNP
+기원하	VV
+동대문	NNP
+선농단	NNG
+기원하	VV
+소뼈	NNG
+대접하	VV
+뚝배기	NNG

@@ -1,0 +1,9 @@
+깨끗	NNG
+압구정	NNP
+이연경	NNP
+김형준	NNP
+다양하	VA
+깨끗	NNG
+뚝섬	NNP
+벼룩시장	NNG
+벼룩시장	NNG

@@ -1,0 +1,204 @@
+1
+2
+7
+3
+4
+7
+1
+7
+7
+7
+2
+7
+7
+7
+7
+2
+7
+7
+7
+2
+7
+7
+7
+7
+7
+7
+6
+2
+2
+3
+1
+2
+3
+1
+2
+1
+3
+갖추/VV	4	갖추다	VV
+굽/VV	2	굽다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+날아가/VV	3	날아가다	VV
+내려가/VV	2	내려가다	VV
+놀/VV	1	놀다	VV
+놀/VV	1	놀다	VV
+던지/VV	2	던지다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+둘러싸이/VV	4	둘러싸이다	VV
+뚫/VV	3	뚫다	VV
+뛰어들/VV	4	뛰어들다	VV
+먹/VV	1	먹다	VV
+모이/VV	2	모이다	VV
+바르/VV	2	바르다	VV
+보내/VV	1	보내다	VV
+보내/VV	1	보내다	VV
+보내/VV	1	보내다	VV
+보/VV	1	보다	VV
+불/VV	1	불다	VV
+사라지/VV	3	사라지다	VV
+앉/VV	1	앉다	VV
+얼/VV	2	얼다	VV
+얼/VV	2	얼다	VV
+얼/VV	2	얼다	VV
+얼/VV	2	얼다	VV
+오/VV	1	오다	VV
+입/VV	1	입다	VV
+잡/VV	2	잡다	VV
+잡/VV	2	잡다	VV
+즐기/VV	2	즐기다	VV
+즐기/VV	2	즐기다	VV
+즐기/VV	2	즐기다	VV
+즐기/VV	2	즐기다	VV
+쫓아다니/VV	4	쫓아다니다	VV
+펼쳐지/VV	4	펼쳐지다	VV
+피하/VV	3	피하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+흐르/VV	2	흐르다	VV
+가득하/VA	3	가득하다	VA
+같/VA	1	같다	VA
+깨끗하/VA	1	깨끗하다	VA
+깨끗하/VA	1	깨끗하다	VA
+두껍/VA	2	두껍다	VA
+맑/VA	1	맑다	VA
+세/VA	2	세다	VA
+신선하/VA	2	신선하다	VA
+아름답/VA	1	아름답다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+즐겁/VA	2	즐겁다	VA
+차갑/VA	2	차갑다	VA
+춥/VA	1	춥다	VA
+춥/VA	1	춥다	VA
+화려하/VA	2	화려하다	VA
+가수/NNG	1	가수	NNG
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+감옥/NNG	4	감옥	NNG
+걸음/NNG	2	걸음	NNG
+겨울/NNG	1	겨울	NNG
+겨울/NNG	1	겨울	NNG
+겨울/NNG	1	겨울	NNG
+겨울/NNG	1	겨울	NNG
+겨울/NNG	1	겨울	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+곳곳/NNG	3	곳곳	NNG
+공연/NNG	3	공연	NNG
+구멍/NNG	3	구멍	NNG
+길이/NNG	2	길이	NNG
+낚시/NNG	2	낚시	NNG
+낚시/NNG	2	낚시	NNG
+낚시/NNG	2	낚시	NNG
+낚시터/NNG	5	낚시터	NNG
+낚시터/NNG	5	낚시터	NNG
+날/NNG	1	날	NNG
+남녀노소/NNG	5	남녀노소	NNG
+놀이/NNG	2	놀이	NNG
+놀이/NNG	2	놀이	NNG
+놀이/NNG	2	놀이	NNG
+놀이/NNG	2	놀이	NNG
+대형/NNG	3	대형	NNG
+동시/NNG	2	동시	NNG
+맨손/NNG	5	맨손	NNG
+모두/NNG	1	모두	NNG
+모래/NNG	3	모래	NNG
+몸/NNG	1	몸	NNG
+물고기/NNG	2	물고기	NNG
+물속/NNG	4	물속	NNG
+반바지/NNG	2	반바지	NNG
+반팔/NNG	3	반팔	NNG
+불꽃놀이/NNG	5	불꽃놀이	NNG
+산/NNG	1	산	NNG
+스트레스/NNG	2	스트레스	NNG
+시간/NNG	1	시간	NNG
+시설/NNG	3	시설	NNG
+시설/NNG	3	시설	NNG
+썰매/NNG	5	썰매	NNG
+앞/NNG	1	앞	NNG
+얼음/NNG	2	얼음	NNG
+얼음/NNG	2	얼음	NNG
+얼음/NNG	2	얼음	NNG
+얼음/NNG	2	얼음	NNG
+얼음/NNG	2	얼음	NNG
+여름/NNG	1	여름	NNG
+여름/NNG	1	여름	NNG
+옆/NNG	1	옆	NNG
+옆/NNG	1	옆	NNG
+온몸/NNG	3	온몸	NNG
+올/NNG	3	올	NNG
+이번/NNG	1	이번	NNG
+인기/NNG	2	인기	NNG
+일상/NNG	4	일상	NNG
+저녁/NNG	1	저녁	NNG
+주제/NNG	3	주제	NNG
+진흙/NNG	5	진흙	NNG
+진흙/NNG	5	진흙	NNG
+진흙/NNG	5	진흙	NNG
+진흙/NNG	5	진흙	NNG
+진흙/NNG	5	진흙	NNG
+참가자/NNG	5	참가자	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+추위/NNG	4	추위	NNG
+축구/NNG	1	축구	NNG
+축제/NNG	3	축제	NNG
+축제/NNG	3	축제	NNG
+축제/NNG	3	축제	NNG
+축제/NNG	3	축제	NNG
+하루/NNG	1	하루	NNG
+해수욕/NNG	5	해수욕	NNG
+해수욕장/NNG	3	해수욕장	NNG
+행사장/NNG	3	행사장	NNG
+행사장/NNG	3	행사장	NNG
+행사장/NNG	3	행사장	NNG
+휴가/NNG	1	휴가	NNG
+가장/MAG	1	가장	MA
+그리고/MAJ	1	그리고	MA
+금방/MAG	2	금방	MA
+꽁꽁/MAG	5	꽁꽁	MA
+꽁꽁/MAG	5	꽁꽁	MA
+더/MAG	1	더	MA
+마음껏/MAG	4	마음껏	MA
+마음껏/MAG	4	마음껏	MA
+매년/MAG	2	매년	MA
+모두/MAG	1	모두	MA
+바로/MAG	1	바로	MA
+싹/MAG	6	싹	MA
+어느새/MAG	3	어느새	MA
+어느새/MAG	3	어느새	MA
+함께/MAG	1	함께	MA

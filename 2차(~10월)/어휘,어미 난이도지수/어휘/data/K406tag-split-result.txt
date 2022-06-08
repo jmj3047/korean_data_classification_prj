@@ -1,0 +1,236 @@
+4
+3
+4
+3
+4
+3
+4
+2
+4
+3
+4
+4
+3
+1
+1
+1
+4
+2
+4
+3
+1
+1
+3
+5
+7
+2
+3
+7
+2
+4
+7
+3
+7
+7
+7
+7
+7
+4
+4
+7
+7
+7
+4
+7
+가/VV	1	가다	VV
+건네/VV	4	건네다	VV
+겪/VV	4	겪다	VV
+남/VV	2	남다	VV
+놀라/VV	2	놀라다	VV
+누르/VV	2	누르다	VV
+다가오/VV	4	다가오다	VV
+다가오/VV	4	다가오다	VV
+덜/VV	3	덜다	VV
+돌아오/VV	1	돌아오다	VV
+돌아오/VV	1	돌아오다	VV
+되/VV	1	되다	VV
+뛰어넘/VV	3	뛰어넘다	VV
+만나/VV	1	만나다	VV
+받아들이/VV	4	받아들이다	VV
+보이/VV	2	보이다	VV
+살/VV	1	살다	VV
+살펴보/VV	3	살펴보다	VV
+생기/VV	2	생기다	VV
+쓰이/VV	3	쓰이다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알아듣/VV	3	알아듣다	VV
+열/VV	1	열다	VV
+오/VV	1	오다	VV
+이르/VV	4	이르다	VV
+이어지/VV	4	이어지다	VV
+인하/VV	4	인하다	VV
+지나/VV	1	지나다	VV
+커지/VV	3	커지다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+놀랍/VA	4	놀랍다	VA
+빠르/VA	1	빠르다	VA
+빠르/VA	1	빠르다	VA
+빠르/VA	1	빠르다	VA
+어렵/VA	1	어렵다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+가늠/NNG	6	가늠	NNG
+가능/NNG	3	가능	NNG
+가능/NNG	3	가능	NNG
+가능성/NNG	4	가능성	NNG
+가속화/NNG	5	가속화	NNG
+가스/NNG	3	가스	NNG
+가전제품/NNG	3	가전제품	NNG
+가전제품/NNG	3	가전제품	NNG
+걱정/NNG	2	걱정	NNG
+공개/NNG	4	공개	NNG
+과학/NNG	3	과학	NNG
+과학/NNG	3	과학	NNG
+과학/NNG	3	과학	NNG
+과학/NNG	3	과학	NNG
+교통수단/NNG	3	교통수단	NNG
+교통수단/NNG	3	교통수단	NNG
+교통수단/NNG	3	교통수단	NNG
+구매/NNG	4	구매	NNG
+기기/NNG	6	기기	NNG
+기대/NNG	3	기대	NNG
+기사/NNG	3	기사	NNG
+기한/NNG	5	기한	NNG
+낭비/NNG	4	낭비	NNG
+내부/NNG	4	내부	NNG
+냉장고/NNG	2	냉장고	NNG
+대부분/NNG	2	대부분	NNG
+대형/NNG	3	대형	NNG
+두려움/NNG	4	두려움	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+목소리/NNG	2	목소리	NNG
+목소리/NNG	2	목소리	NNG
+문/NNG	1	문	NNG
+문제/NNG	2	문제	NNG
+미래/NNG	2	미래	NNG
+바둑/NNG	3	바둑	NNG
+밖/NNG	1	밖	NNG
+발달/NNG	3	발달	NNG
+발달/NNG	3	발달	NNG
+발달/NNG	3	발달	NNG
+발달/NNG	3	발달	NNG
+발생/NNG	4	발생	NNG
+보관/NNG	3	보관	NNG
+보관/NNG	3	보관	NNG
+불필요/NNG	4	불필요	NNG
+비행기/NNG	1	비행기	NNG
+사람/NNG	1	사람	NNG
+사진/NNG	1	사진	NNG
+삶/NNG	3	삶	NNG
+상황/NNG	3	상황	NNG
+생산/NNG	4	생산	NNG
+설정/NNG	4	설정	NNG
+설치/NNG	4	설치	NNG
+성능/NNG	5	성능	NNG
+세계/NNG	2	세계	NNG
+속도/NNG	2	속도	NNG
+속도/NNG	2	속도	NNG
+속도/NNG	2	속도	NNG
+승리/NNG	4	승리	NNG
+시대/NNG	3	시대	NNG
+시속/NNG	5	시속	NNG
+시일/NNG	4	시일	NNG
+식품/NNG	2	식품	NNG
+식품/NNG	2	식품	NNG
+식품/NNG	2	식품	NNG
+실시간/NNG	5	실시간	NNG
+앞/NNG	1	앞	NNG
+어려움/NNG	3	어려움	NNG
+에너지/NNG	4	에너지	NNG
+예상/NNG	3	예상	NNG
+외출/NNG	2	외출	NNG
+외출/NNG	2	외출	NNG
+외출/NNG	2	외출	NNG
+우려/NNG	4	우려	NNG
+운행/NNG	4	운행	NNG
+유통/NNG	4	유통	NNG
+이유/NNG	1	이유	NNG
+인간/NNG	4	인간	NNG
+인공/NNG	4	인공	NNG
+인공/NNG	4	인공	NNG
+인공/NNG	4	인공	NNG
+인공/NNG	4	인공	NNG
+인공/NNG	4	인공	NNG
+인공/NNG	4	인공	NNG
+인공/NNG	4	인공	NNG
+인명/NNG	5	인명	NNG
+자동/NNG	3	자동	NNG
+전망/NNG	3	전망	NNG
+조명/NNG	4	조명	NNG
+주인/NNG	1	주인	NNG
+주인/NNG	1	주인	NNG
+주인/NNG	1	주인	NNG
+주택/NNG	4	주택	NNG
+지금/NNG	1	지금	NNG
+지능/NNG	4	지능	NNG
+지능/NNG	4	지능	NNG
+지능/NNG	4	지능	NNG
+지능/NNG	4	지능	NNG
+지능/NNG	4	지능	NNG
+지능/NNG	4	지능	NNG
+지능/NNG	4	지능	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집안/NNG	3	집안	NNG
+체감/NNG	5	체감	NNG
+초인종/NNG	5	초인종	NNG
+최고/NNG	2	최고	NNG
+카메라/NNG	1	카메라	NNG
+카메라/NNG	1	카메라	NNG
+탑승/NNG	3	탑승	NNG
+태양열/NNG	5	태양열	NNG
+편리/NNG	2	편리	NNG
+프로그램/NNG	1	프로그램	NNG
+한계/NNG	4	한계	NNG
+해결/NNG	3	해결	NNG
+향상/NNG	4	향상	NNG
+화제/NNG	4	화제	NNG
+확인/NNG	3	확인	NNG
+확인/NNG	3	확인	NNG
+확인/NNG	3	확인	NNG
+환경/NNG	4	환경	NNG
+활용/NNG	4	활용	NNG
+획기적/NNG	6	획기적	NNG
+후/NNG	1	후	NNG
+게다가/MAG	4	게다가	MA
+게다가/MAG	4	게다가	MA
+그리고/MAJ	1	그리고	MA
+더/MAG	1	더	MA
+더욱/MAG	2	더욱	MA
+또한/MAG	3	또한	MA
+또한/MAG	3	또한	MA
+먼저/MAG	1	먼저	MA
+물론/MAG	2	물론	MA
+물론/MAG	2	물론	MA
+미리/MAG	2	미리	MA
+바로/MAG	1	바로	MA
+부쩍/MAG	5	부쩍	MA
+아직/MAG	1	아직	MA
+언제/MAG	1	언제	MA
+점점/MAG	2	점점	MA
+점점/MAG	2	점점	MA
+점점/MAG	2	점점	MA
+하지만/MAJ	1	하지만	MA
+함께/MAG	1	함께	MA

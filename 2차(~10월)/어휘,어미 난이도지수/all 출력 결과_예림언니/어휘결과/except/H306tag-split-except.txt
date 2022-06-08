@@ -1,0 +1,6 @@
+자신	NNG
+일	NNG
+의사	NNG
+소식	NNG
+말	NNG
+맞	VV

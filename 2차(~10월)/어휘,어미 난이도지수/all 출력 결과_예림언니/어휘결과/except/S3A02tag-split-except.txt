@@ -1,0 +1,7 @@
+점	NNG
+이상	NNG
+대	NNG
+말	NNG
+맞	VV
+점	NNG
+말	NNG

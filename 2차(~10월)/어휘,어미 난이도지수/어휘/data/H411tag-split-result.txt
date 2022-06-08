@@ -1,0 +1,308 @@
+4
+1
+7
+7
+1
+1
+5
+2
+1
+7
+7
+7
+7
+7
+7
+7
+7
+1
+7
+7
+2
+1
+7
+7
+7
+7
+7
+1
+7
+7
+7
+7
+4
+4
+3
+2
+4
+3
+2
+3
+2
+2
+2
+2
+4
+3
+7
+1
+3
+1
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+고마워하/VV	4	고마워하다	VV
+나누/VV	2	나누다	VV
+나누/VV	2	나누다	VV
+나누/VV	2	나누다	VV
+넘/VV	2	넘다	VV
+눕/VV	2	눕다	VV
+담/VV	3	담다	VV
+담/VV	3	담다	VV
+대하/VV	3	대하다	VV
+돌리/VV	2	돌리다	VV
+돌리/VV	2	돌리다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+들/VV	1	들다	VV
+막/VV	3	막다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+비우/VV	4	비우다	VV
+살피/VV	3	살피다	VV
+알아보/VV	2	알아보다	VV
+엿보/VV	4	엿보다	VV
+오/VV	1	오다	VV
+이기/VV	2	이기다	VV
+자라/VV	2	자라다	VV
+자라/VV	2	자라다	VV
+잡아먹/VV	3	잡아먹다	VV
+좋아하/VV	1	좋아하다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+짓/VV	2	짓다	VV
+쫓아내/VV	4	쫓아내다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+길/VA	1	길다	VA
+깨끗하/VA	1	깨끗하다	VA
+깨끗하/VA	1	깨끗하다	VA
+무섭/VA	2	무섭다	VA
+밉/VA	3	밉다	VA
+비슷하/VA	2	비슷하다	VA
+새롭/VA	2	새롭다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+특별하/VA	1	특별하다	VA
+특별하/VA	1	특별하다	VA
+특별하/VA	1	특별하다	VA
+하얗/VA	2	하얗다	VA
+희/VA	3	희다	VA
+가루/NNG	3	가루	NNG
+가족/NNG	1	가족	NNG
+개업/NNG	5	개업	NNG
+건강/NNG	1	건강	NNG
+고유/NNG	4	고유	NNG
+곡식/NNG	4	곡식	NNG
+그릇/NNG	1	그릇	NNG
+그림/NNG	1	그림	NNG
+기운/NNG	4	기운	NNG
+나라/NNG	1	나라	NNG
+나이/NNG	2	나이	NNG
+나이/NNG	2	나이	NNG
+나이/NNG	2	나이	NNG
+날/NNG	1	날	NNG
+날/NNG	1	날	NNG
+날/NNG	1	날	NNG
+날/NNG	1	날	NNG
+남녀노소/NNG	5	남녀노소	NNG
+농사/NNG	3	농사	NNG
+농사/NNG	3	농사	NNG
+다음/NNG	1	다음	NNG
+더위/NNG	4	더위	NNG
+더위/NNG	4	더위	NNG
+동네/NNG	2	동네	NNG
+동안/NNG	1	동안	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡/NNG	2	떡	NNG
+떡국/NNG	2	떡국	NNG
+떡국/NNG	2	떡국	NNG
+떡국/NNG	2	떡국	NNG
+떡국/NNG	2	떡국	NNG
+뜻/NNG	2	뜻	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+명절/NNG	2	명절	NNG
+명절/NNG	2	명절	NNG
+명절/NNG	2	명절	NNG
+명절/NNG	2	명절	NNG
+문화/NNG	1	문화	NNG
+본격적/NNG	5	본격적	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+새해/NNG	2	새해	NNG
+색깔/NNG	2	색깔	NNG
+색깔/NNG	2	색깔	NNG
+생활/NNG	1	생활	NNG
+설날/NNG	2	설날	NNG
+설날/NNG	2	설날	NNG
+속/NNG	2	속	NNG
+속담/NNG	3	속담	NNG
+속담/NNG	3	속담	NNG
+속담/NNG	3	속담	NNG
+송편/NNG	2	송편	NNG
+송편/NNG	2	송편	NNG
+송편/NNG	2	송편	NNG
+수고/NNG	2	수고	NNG
+시대/NNG	3	시대	NNG
+아침/NNG	1	아침	NNG
+어린이/NNG	2	어린이	NNG
+얼굴/NNG	1	얼굴	NNG
+역사적/NNG	3	역사적	NNG
+옛날/NNG	2	옛날	NNG
+옛날/NNG	2	옛날	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+의미/NNG	2	의미	NNG
+의미/NNG	2	의미	NNG
+이때/NNG	2	이때	NNG
+이사/NNG	2	이사	NNG
+이웃/NNG	2	이웃	NNG
+이웃/NNG	2	이웃	NNG
+이웃/NNG	2	이웃	NNG
+일석이조/NNG	4	일석이조	NNG
+전래/NNG	6	전래	NNG
+전래/NNG	6	전래	NNG
+조상/NNG	3	조상	NNG
+조상/NNG	3	조상	NNG
+조상/NNG	3	조상	NNG
+종류/NNG	2	종류	NNG
+종류/NNG	2	종류	NNG
+주제/NNG	3	주제	NNG
+추석/NNG	2	추석	NNG
+추석/NNG	2	추석	NNG
+티/NNG	5	티	NNG
+하늘/NNG	2	하늘	NNG
+하얀색/NNG	2	하얀색	NNG
+호랑이/NNG	2	호랑이	NNG
+혼자/NNG	1	혼자	NNG
+화합/NNG	5	화합	NNG
+효과/NNG	3	효과	NNG
+흰색/NNG	2	흰색	NNG
+가장/MAG	1	가장	MA
+각각/MAG	2	각각	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+늘/MAG	2	늘	MA
+늘/MAG	2	늘	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+따라서/MAJ	3	따라서	MA
+또/MAG	1	또	MA
+또/MAG	1	또	MA
+또는/MAG	2	또는	MA
+또는/MAG	2	또는	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+먼저/MAG	1	먼저	MA
+모두/MAG	1	모두	MA
+모두/MAG	1	모두	MA
+안/MAG	1	안	MA
+없이/MAG	3	없이	MA
+열심히/MAG	1	열심히	MA
+자주/MAG	1	자주	MA
+자주/MAG	1	자주	MA
+잘/MAG	1	잘	MA
+절대로/MAG	3	절대로	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA

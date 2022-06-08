@@ -1,0 +1,209 @@
+1
+3
+7
+4
+7
+4
+7
+3
+7
+5
+7
+1
+7
+2
+4
+2
+4
+7
+1
+2
+7
+3
+3
+3
+5
+4
+1
+1
+3
+3
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+갖추/VV	4	갖추다	VV
+끌/VV	3	끌다	VV
+나오/VV	1	나오다	VV
+넘/VV	2	넘다	VV
+느끼/VV	2	느끼다	VV
+다루/VV	4	다루다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+두/VV	2	두다	VV
+들/VV	1	들다	VV
+만나/VV	1	만나다	VV
+만들/VV	1	만들다	VV
+머물/VV	4	머물다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+부르/VV	1	부르다	VV
+생겨나/VV	4	생겨나다	VV
+생겨나/VV	4	생겨나다	VV
+생겨나/VV	4	생겨나다	VV
+알아보/VV	2	알아보다	VV
+열/VV	1	열다	VV
+위하/VV	3	위하다	VV
+찾/VV	1	찾다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+낫/VA	2	낫다	VA
+높/VA	1	높다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+바르/VA	4	바르다	VA
+새롭/VA	2	새롭다	VA
+수많/VA	4	수많다	VA
+어리/VA	2	어리다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자유롭/VA	3	자유롭다	VA
+젊/VA	2	젊다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+참신하/VA	5	참신하다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+개념/NNG	4	개념	NNG
+개성/NNG	4	개성	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+개인/NNG	3	개인	NNG
+관심/NNG	2	관심	NNG
+긍정적/NNG	3	긍정적	NNG
+날/NNG	1	날	NNG
+내용/NNG	2	내용	NNG
+노래/NNG	1	노래	NNG
+다음/NNG	1	다음	NNG
+대중/NNG	3	대중	NNG
+대중화/NNG	5	대중화	NNG
+매력/NNG	4	매력	NNG
+목소리/NNG	2	목소리	NNG
+문제점/NNG	4	문제점	NNG
+문화/NNG	1	문화	NNG
+미디어/NNG	4	미디어	NNG
+미디어/NNG	4	미디어	NNG
+미디어/NNG	4	미디어	NNG
+바탕/NNG	3	바탕	NNG
+발달/NNG	3	발달	NNG
+발달/NNG	3	발달	NNG
+방법/NNG	2	방법	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방향/NNG	2	방향	NNG
+보/NNG	4	보	NNG
+보편화/NNG	5	보편화	NNG
+비용/NNG	3	비용	NNG
+비판/NNG	4	비판	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+상류층/NNG	5	상류층	NNG
+서비스/NNG	2	서비스	NNG
+선두/NNG	5	선두	NNG
+선택/NNG	2	선택	NNG
+소비자/NNG	4	소비자	NNG
+시대/NNG	3	시대	NNG
+시대/NNG	3	시대	NNG
+시절/NNG	4	시절	NNG
+시절/NNG	4	시절	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+실시간/NNG	5	실시간	NNG
+아이디어/NNG	3	아이디어	NNG
+역할/NNG	3	역할	NNG
+연봉/NNG	4	연봉	NNG
+염두/NNG	6	염두	NNG
+요구/NNG	4	요구	NNG
+우후죽순/NNG	6	우후죽순	NNG
+위험성/NNG	4	위험성	NNG
+의식/NNG	4	의식	NNG
+이때/NNG	2	이때	NNG
+인/NNG	5	인	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인터넷/NNG	1	인터넷	NNG
+장비/NNG	5	장비	NNG
+전유물/NNG	6	전유물	NNG
+정도/NNG	2	정도	NNG
+정보/NNG	3	정보	NNG
+정보/NNG	3	정보	NNG
+정보/NNG	3	정보	NNG
+제공/NNG	3	제공	NNG
+제작/NNG	4	제작	NNG
+제작/NNG	4	제작	NNG
+제작자/NNG	5	제작자	NNG
+제작자/NNG	5	제작자	NNG
+주관/NNG	5	주관	NNG
+주제/NNG	3	주제	NNG
+지혜/NNG	4	지혜	NNG
+진행자/NNG	3	진행자	NNG
+채팅/NNG	5	채팅	NNG
+책임/NNG	4	책임	NNG
+층/NNG	1	층	NNG
+컴퓨터/NNG	1	컴퓨터	NNG
+텔레비전/NNG	1	텔레비전	NNG
+특징/NNG	3	특징	NNG
+폭력/NNG	4	폭력	NNG
+확대/NNG	4	확대	NNG
+가장/MAG	1	가장	MA
+그러나/MAJ	2	그러나	MA
+더/MAG	1	더	MA
+더욱/MAG	2	더욱	MA
+또한/MAG	3	또한	MA
+또한/MAG	3	또한	MA
+없이/MAG	3	없이	MA
+잘/MAG	1	잘	MA
+점차/MAG	3	점차	MA
+정말/MAG	1	정말	MA

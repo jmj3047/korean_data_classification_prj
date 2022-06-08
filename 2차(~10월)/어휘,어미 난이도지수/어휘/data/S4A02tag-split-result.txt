@@ -1,0 +1,263 @@
+2
+1
+1
+1
+3
+1
+1
+1
+3
+1
+1
+2
+1
+3
+1
+3
+1
+3
+1
+2
+1
+2
+1
+2
+2
+1
+1
+1
+1
+2
+4
+4
+2
+1
+1
+1
+1
+4
+3
+1
+1
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+고치/VV	2	고치다	VV
+고치/VV	2	고치다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+두려워하/VV	4	두려워하다	VV
+두려워하/VV	4	두려워하다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+모르/VV	1	모르다	VV
+배우/VV	1	배우다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+생각나/VV	2	생각나다	VV
+생각나/VV	2	생각나다	VV
+생각나/VV	2	생각나다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알아보/VV	2	알아보다	VV
+알아보/VV	2	알아보다	VV
+읽/VV	1	읽다	VV
+읽/VV	1	읽다	VV
+읽/VV	1	읽다	VV
+읽/VV	1	읽다	VV
+읽/VV	1	읽다	VV
+읽/VV	1	읽다	VV
+좋아하/VV	1	좋아하다	VV
+좋아하/VV	1	좋아하다	VV
+좋아하/VV	1	좋아하다	VV
+좋아하/VV	1	좋아하다	VV
+좋아하/VV	1	좋아하다	VV
+좋아하/VV	1	좋아하다	VV
+좋아하/VV	1	좋아하다	VV
+찾/VV	1	찾다	VV
+찾/VV	1	찾다	VV
+찾아보/VV	1	찾아보다	VV
+틀리/VV	2	틀리다	VV
+틀리/VV	2	틀리다	VV
+틀리/VV	2	틀리다	VV
+틀리/VV	2	틀리다	VV
+틀리/VV	2	틀리다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+간단하/VA	2	간단하다	VA
+간단하/VA	2	간단하다	VA
+괜찮/VA	1	괜찮다	VA
+답답하/VA	2	답답하다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+부끄럽/VA	2	부끄럽다	VA
+부끄럽/VA	2	부끄럽다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자세하/VA	3	자세하다	VA
+자세하/VA	3	자세하다	VA
+자세하/VA	3	자세하다	VA
+자세하/VA	3	자세하다	VA
+자세하/VA	3	자세하다	VA
+자세하/VA	3	자세하다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+관심/NNG	2	관심	NNG
+관심/NNG	2	관심	NNG
+글/NNG	1	글	NNG
+글/NNG	1	글	NNG
+글/NNG	1	글	NNG
+글/NNG	1	글	NNG
+나중/NNG	1	나중	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+단어/NNG	1	단어	NNG
+단어/NNG	1	단어	NNG
+단어/NNG	1	단어	NNG
+단어/NNG	1	단어	NNG
+단어/NNG	1	단어	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+뜻/NNG	2	뜻	NNG
+머리/NNG	1	머리	NNG
+머리/NNG	1	머리	NNG
+문법/NNG	3	문법	NNG
+문법/NNG	3	문법	NNG
+문장/NNG	3	문장	NNG
+문장/NNG	3	문장	NNG
+문장/NNG	3	문장	NNG
+부분/NNG	2	부분	NNG
+부분/NNG	2	부분	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+선생님/NNG	1	선생님	NNG
+속/NNG	2	속	NNG
+속/NNG	2	속	NNG
+순서/NNG	2	순서	NNG
+순서/NNG	2	순서	NNG
+외국어/NNG	1	외국어	NNG
+요약/NNG	4	요약	NNG
+요약/NNG	4	요약	NNG
+유형/NNG	4	유형	NNG
+유형/NNG	4	유형	NNG
+유형/NNG	4	유형	NNG
+유형/NNG	4	유형	NNG
+전/NNG	1	전	NNG
+전/NNG	1	전	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+줄거리/NNG	4	줄거리	NNG
+짝수/NNG	4	짝수	NNG
+책/NNG	1	책	NNG
+책/NNG	1	책	NNG
+책/NNG	1	책	NNG
+책/NNG	1	책	NNG
+책/NNG	1	책	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+하나하나/NNG	3	하나하나	NNG
+행동/NNG	2	행동	NNG
+행동/NNG	2	행동	NNG
+혼자/NNG	1	혼자	NNG
+혼자/NNG	1	혼자	NNG
+홀수/NNG	4	홀수	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+같이/MAG	1	같이	MA
+그냥/MAG	2	그냥	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+깊이/MAG	2	깊이	MA
+깊이/MAG	2	깊이	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+먼저/MAG	1	먼저	MA
+바로/MAG	1	바로	MA
+바로/MAG	1	바로	MA
+함께/MAG	1	함께	MA

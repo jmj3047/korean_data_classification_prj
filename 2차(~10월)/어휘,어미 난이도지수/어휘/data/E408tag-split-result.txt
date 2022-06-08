@@ -1,0 +1,231 @@
+명확	4
+순	2
+한국	1
+이러	2
+한국	1
+한국	1	
+대	5
+일	1	
+대상	3
+조사	3	
+조사	3
+수	2
+묻	1
+이상	2
+수	2
+이상	2
+성	3
+묻	1
+사상	5
+묻	1
+조사	3
+일	1
+일	1
+사회	2
+조사	3
+갖/VV	2	갖다	VV
+그치/VV	2	그치다	VV
+깨지/VV	3	깨지다	VV
+나타나/VV	2	나타나다	VV
+나타나/VV	2	나타나다	VV
+나타나/VV	2	나타나다	VV
+남/VV	2	남다	VV
+남/VV	2	남다	VV
+낳/VV	3	낳다	VV
+낳/VV	3	낳다	VV
+낳/VV	3	낳다	VV
+낳/VV	3	낳다	VV
+낳/VV	3	낳다	VV
+넘/VV	2	넘다	VV
+받아들이/VV	4	받아들이다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+사라지/VV	3	사라지다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알아보/VV	2	알아보다	VV
+여기/VV	3	여기다	VV
+인하/VV	4	인하다	VV
+잇/VV	3	잇다	VV
+잇/VV	3	잇다	VV
+통하/VV	3	통하다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+그렇/VA	1	그렇다	VA
+그렇/VA	1	그렇다	VA
+낮/VA	1	낮다	VA
+높/VA	1	높다	VA
+다르/VA	1	다르다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+상관없/VA	3	상관없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+적/VA	1	적다	VA
+젊/VA	2	젊다	VA
+좋/VA	1	좋다	VA
+가부장적/NNG	5	가부장적	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+감소/NNG	4	감소	NNG
+개인주의/NNG	5	개인주의	NNG
+결과/NNG	2	결과	NNG
+결과/NNG	2	결과	NNG
+결과/NNG	2	결과	NNG
+결과/NNG	2	결과	NNG
+결혼/NNG	2	결혼	NNG
+결혼/NNG	2	결혼	NNG
+결혼/NNG	2	결혼	NNG
+계획/NNG	1	계획	NNG
+고정/NNG	4	고정	NNG
+공동/NNG	3	공동	NNG
+공동/NNG	3	공동	NNG
+과거/NNG	2	과거	NNG
+과거/NNG	2	과거	NNG
+과거/NNG	2	과거	NNG
+관념/NNG	6	관념	NNG
+교육비/NNG	4	교육비	NNG
+교육비/NNG	4	교육비	NNG
+구분/NNG	4	구분	NNG
+그중/NNG	3	그중	NNG
+남녀/NNG	2	남녀	NNG
+남성/NNG	2	남성	NNG
+남성/NNG	2	남성	NNG
+남성/NNG	2	남성	NNG
+남성/NNG	2	남성	NNG
+남성/NNG	2	남성	NNG
+남편/NNG	1	남편	NNG
+다음/NNG	1	다음	NNG
+담당/NNG	4	담당	NNG
+담당/NNG	4	담당	NNG
+답/NNG	2	답	NNG
+답/NNG	2	답	NNG
+답/NNG	2	답	NNG
+대부분/NNG	2	대부분	NNG
+뒤/NNG	1	뒤	NNG
+딸/NNG	1	딸	NNG
+딸/NNG	1	딸	NNG
+딸/NNG	1	딸	NNG
+마지막/NNG	2	마지막	NNG
+먼저/NNG	1	먼저	NNG
+몫/NNG	4	몫	NNG
+미혼/NNG	4	미혼	NNG
+미혼/NNG	4	미혼	NNG
+미혼/NNG	4	미혼	NNG
+바깥일/NNG	5	바깥일	NNG
+반면/NNG	3	반면	NNG
+변화/NNG	3	변화	NNG
+부담/NNG	3	부담	NNG
+부담감/NNG	5	부담감	NNG
+부부/NNG	2	부부	NNG
+부부/NNG	2	부부	NNG
+비율/NNG	4	비율	NNG
+비율/NNG	4	비율	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사항/NNG	3	사항	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+선호/NNG	4	선호	NNG
+선호/NNG	4	선호	NNG
+선호/NNG	4	선호	NNG
+선호/NNG	4	선호	NNG
+선호/NNG	4	선호	NNG
+설문/NNG	3	설문	NNG
+설문/NNG	3	설문	NNG
+실시/NNG	4	실시	NNG
+아내/NNG	1	아내	NNG
+아들/NNG	2	아들	NNG
+아들/NNG	2	아들	NNG
+아들/NNG	2	아들	NNG
+아들/NNG	2	아들	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+양육/NNG	5	양육	NNG
+여성/NNG	2	여성	NNG
+여성/NNG	2	여성	NNG
+여성/NNG	2	여성	NNG
+예상/NNG	3	예상	NNG
+요즘/NNG	1	요즘	NNG
+요즘/NNG	1	요즘	NNG
+육아/NNG	5	육아	NNG
+육아/NNG	5	육아	NNG
+육아/NNG	5	육아	NNG
+육아/NNG	5	육아	NNG
+육아/NNG	5	육아	NNG
+육아/NNG	5	육아	NNG
+응답/NNG	4	응답	NNG
+응답/NNG	4	응답	NNG
+응답/NNG	4	응답	NNG
+응답/NNG	4	응답	NNG
+응답/NNG	4	응답	NNG
+응답/NNG	4	응답	NNG
+응답/NNG	4	응답	NNG
+이번/NNG	1	이번	NNG
+이상적/NNG	4	이상적	NNG
+이상적/NNG	4	이상적	NNG
+이유/NNG	1	이유	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+자녀/NNG	3	자녀	NNG
+정리/NNG	2	정리	NNG
+중심/NNG	2	중심	NNG
+중요/NNG	2	중요	NNG
+질문/NNG	1	질문	NNG
+질문/NNG	1	질문	NNG
+질문/NNG	1	질문	NNG
+질문/NNG	1	질문	NNG
+집안일/NNG	2	집안일	NNG
+차지/NNG	5	차지	NNG
+최근/NNG	2	최근	NNG
+추측/NNG	3	추측	NNG
+출산율/NNG	5	출산율	NNG
+필수/NNG	4	필수	NNG
+필요/NNG	1	필요	NNG
+한국인/NNG	3	한국인	NNG
+한국인/NNG	3	한국인	NNG
+확산/NNG	4	확산	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+가장/MAG	1	가장	MA
+가장/MAG	1	가장	MA
+그러나/MAJ	2	그러나	MA
+그러나/MAJ	2	그러나	MA
+그리고/MAG	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+꾸준히/MAG	3	꾸준히	MA
+따라서/MAJ	3	따라서	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+여전히/MAG	4	여전히	MA
+여전히/MAG	4	여전히	MA
+의외로/MAG	5	의외로	MA
+특히/MAG	1	특히	MA
+특히/MAG	1	특히	MA

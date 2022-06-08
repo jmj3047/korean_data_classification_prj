@@ -1,0 +1,105 @@
+1
+1
+4
+4
+2
+1
+1
+4
+3
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+3
+2
+가지/VV	1	가지다	VV
+견디/VV	4	견디다	VV
+느끼/VV	2	느끼다	VV
+다니/VV	1	다니다	VV
+돌아오/VV	1	돌아오다	VV
+듣/VV	1	듣다	VV
+맞추/VV	2	맞추다	VV
+바라/VV	2	바라다	VV
+보내/VV	1	보내다	VV
+시키/VV	1	시키다	VV
+오르/VV	2	오르다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+길/VA	1	길다	VA
+딱딱하/VA	3	딱딱하다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+무겁/VA	1	무겁다	VA
+새롭/VA	2	새롭다	VA
+쉽/VA	1	쉽다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자유롭/VA	3	자유롭다	VA
+자유롭/VA	3	자유롭다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+건강/NNG	1	건강	NNG
+곳/NNG	1	곳	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+능률/NNG	5	능률	NNG
+다음/NNG	1	다음	NNG
+달/NNG	1	달	NNG
+대가/NNG	4	대가	NNG
+덕분/NNG	2	덕분	NNG
+마지막/NNG	2	마지막	NNG
+보람/NNG	3	보람	NNG
+복지/NNG	5	복지	NNG
+부하/NNG	5	부하	NNG
+분위기/NNG	2	분위기	NNG
+분위기/NNG	2	분위기	NNG
+사람/NNG	1	사람	NNG
+생각/NNG	1	생각	NNG
+생활/NNG	1	생활	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+업무/NNG	3	업무	NNG
+의견/NNG	3	의견	NNG
+정도/NNG	2	정도	NNG
+준비/NNG	1	준비	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+출퇴근/NNG	2	출퇴근	NNG
+취업/NNG	4	취업	NNG
+취직/NNG	2	취직	NNG
+하루/NNG	1	하루	NNG
+혜택/NNG	4	혜택	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+휴가/NNG	1	휴가	NNG
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+열심히/MAG	1	열심히	MA
+잘/MAG	1	잘	MA
+특히/MAG	1	특히	MA
+함께/MAG	1	함께	MA

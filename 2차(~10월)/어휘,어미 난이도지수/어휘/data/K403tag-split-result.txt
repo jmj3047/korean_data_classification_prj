@@ -1,0 +1,153 @@
+3
+3
+3
+2
+5
+5
+2
+4
+3
+5
+2
+7
+7
+7
+6
+7
+7
+7
+6
+1
+3
+5
+5
+7
+7
+3
+7
+7
+7
+2
+7
+나누/VV	2	나누다	VV
+내리/VV	1	내리다	VV
+느끼/VV	2	느끼다	VV
+늘어나/VV	3	늘어나다	VV
+다녀오/VV	1	다녀오다	VV
+달하/VV	4	달하다	VV
+대하/VV	3	대하다	VV
+덮이/VV	4	덮이다	VV
+듣/VV	1	듣다	VV
+떠나/VV	2	떠나다	VV
+떠오르/VV	3	떠오르다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+배우/VV	1	배우다	VV
+벗어나/VV	4	벗어나다	VV
+변하/VV	2	변하다	VV
+보/VV	1	보다	VV
+비하/VV	3	비하다	VV
+뻗/VV	4	뻗다	VV
+세우/VV	2	세우다	VV
+어울리/VV	2	어울리다	VV
+의하/VV	5	의하다	VV
+짓/VV	2	짓다	VV
+펼쳐지/VV	4	펼쳐지다	VV
+펼쳐지/VV	4	펼쳐지다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+높/VA	1	높다	VA
+많/VA	1	많다	VA
+아름답/VA	1	아름답다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+가까이/NNG	2	가까이	NNG
+각도/NNG	6	각도	NNG
+갈래/NNG	6	갈래	NNG
+강/NNG	2	강	NNG
+거리/NNG	2	거리	NNG
+건물/NNG	1	건물	NNG
+건물/NNG	1	건물	NNG
+건축/NNG	4	건축	NNG
+공원/NNG	1	공원	NNG
+공중/NNG	5	공중	NNG
+국내/NNG	2	국내	NNG
+기간/NNG	1	기간	NNG
+길이/NNG	2	길이	NNG
+끝/NNG	2	끝	NNG
+남부/NNG	3	남부	NNG
+노랑/NNG	3	노랑	NNG
+높이/NNG	2	높이	NNG
+높이/NNG	2	높이	NNG
+당시/NNG	4	당시	NNG
+당시/NNG	4	당시	NNG
+도시/NNG	2	도시	NNG
+동물/NNG	2	동물	NNG
+동물/NNG	2	동물	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+명소/NNG	5	명소	NNG
+모습/NNG	2	모습	NNG
+묘지/NNG	6	묘지	NNG
+봉우리/NNG	6	봉우리	NNG
+북부/NNG	3	북부	NNG
+비난/NNG	4	비난	NNG
+비중/NNG	4	비중	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사랑/NNG	1	사랑	NNG
+사랑/NNG	1	사랑	NNG
+사자/NNG	3	사자	NNG
+산/NNG	1	산	NNG
+색깔/NNG	2	색깔	NNG
+서쪽/NNG	2	서쪽	NNG
+설계/NNG	5	설계	NNG
+세계/NNG	2	세계	NNG
+세계/NNG	2	세계	NNG
+소리/NNG	2	소리	NNG
+소음/NNG	4	소음	NNG
+야경/NNG	3	야경	NNG
+야생/NNG	5	야생	NNG
+여름/NNG	1	여름	NNG
+여름휴가/NNG	3	여름휴가	NNG
+여행/NNG	1	여행	NNG
+여행/NNG	1	여행	NNG
+여행사/NNG	1	여행사	NNG
+여행지/NNG	2	여행지	NNG
+올/NNG	3	올	NNG
+이미지/NNG	3	이미지	NNG
+자연/NNG	2	자연	NNG
+자연/NNG	2	자연	NNG
+자연/NNG	2	자연	NNG
+작년/NNG	1	작년	NNG
+전망대/NNG	6	전망대	NNG
+죽음/NNG	3	죽음	NNG
+지붕/NNG	3	지붕	NNG
+지지/NNG	5	지지	NNG
+질서/NNG	4	질서	NNG
+최고/NNG	2	최고	NNG
+코끼리/NNG	2	코끼리	NNG
+탑/NNG	4	탑	NNG
+태양/NNG	4	태양	NNG
+풍선/NNG	3	풍선	NNG
+하루/NNG	1	하루	NNG
+한국인/NNG	3	한국인	NNG
+해발/NNG	6	해발	NNG
+해외/NNG	2	해외	NNG
+해외/NNG	2	해외	NNG
+해외여행/NNG	2	해외여행	NNG
+혁명/NNG	5	혁명	NNG
+형식/NNG	4	형식	NNG
+황제/NNG	6	황제	NNG
+후/NNG	1	후	NNG
+가장/MAG	1	가장	MA
+그대로/MAG	2	그대로	MA
+먼저/MAG	1	먼저	MA
+아주/MAG	1	아주	MA
+해마다/MAG	2	해마다	MA

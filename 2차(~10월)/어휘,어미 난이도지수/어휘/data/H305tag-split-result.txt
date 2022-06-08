@@ -1,0 +1,58 @@
+4
+4
+7
+7
+7
+3
+3
+3
+2
+2
+2
+2
+가지/VV	1	가지다	VV
+끝나/VV	1	끝나다	VV
+바라/VV	2	바라다	VV
+오/VV	1	오다	VV
+건강/NNG	1	건강	NNG
+건강/NNG	1	건강	NNG
+검진/NNG	5	검진	NNG
+검진/NNG	5	검진	NNG
+결과/NNG	2	결과	NNG
+교내/NNG	4	교내	NNG
+기간/NNG	1	기간	NNG
+기숙사/NNG	1	기숙사	NNG
+대학/NNG	1	대학	NNG
+무료/NNG	2	무료	NNG
+문의/NNG	3	문의	NNG
+보건/NNG	6	보건	NNG
+보건/NNG	6	보건	NNG
+비용/NNG	3	비용	NNG
+사항/NNG	3	사항	NNG
+소변/NNG	3	소변	NNG
+시력/NNG	4	시력	NNG
+식사/NNG	1	식사	NNG
+신분/NNG	3	신분	NNG
+신분증/NNG	2	신분증	NNG
+신입생/NNG	3	신입생	NNG
+신입생/NNG	3	신입생	NNG
+신입생/NNG	3	신입생	NNG
+신장/NNG	5	신장	NNG
+아래/NNG	1	아래	NNG
+아침/NNG	1	아침	NNG
+안내/NNG	1	안내	NNG
+예정/NNG	3	예정	NNG
+이메일/NNG	3	이메일	NNG
+장소/NNG	1	장소	NNG
+저녁/NNG	1	저녁	NNG
+전날/NNG	3	전날	NNG
+체중/NNG	4	체중	NNG
+층/NNG	1	층	NNG
+항목/NNG	5	항목	NNG
+혈압/NNG	5	혈압	NNG
+확인/NNG	3	확인	NNG
+확인/NNG	3	확인	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+같이/MAG	1	같이	MA
+반드시/MAG	2	반드시	MA

@@ -1,0 +1,216 @@
+3
+1
+2
+1
+5
+3
+3
+3
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+3
+4
+7
+2
+7
+7
+3
+6
+1
+2
+7
+4
+3
+4
+1
+7
+1
+3
+4
+1
+2
+4
+5
+1
+3
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가지/VV	1	가지다	VV
+기다리/VV	1	기다리다	VV
+기울이/VV	4	기울이다	VV
+꿈꾸/VV	4	꿈꾸다	VV
+나타나/VV	2	나타나다	VV
+나타나/VV	2	나타나다	VV
+느끼/VV	2	느끼다	VV
+다가가/VV	4	다가가다	VV
+다하/VV	2	다하다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+둘러보/VV	4	둘러보다	VV
+몰두하/VV	5	몰두하다	VV
+받/VV	1	받다	VV
+벗어나/VV	4	벗어나다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+비하/VV	3	비하다	VV
+얻/VV	2	얻다	VV
+오/VV	1	오다	VV
+옮기/VV	3	옮기다	VV
+원하/VV	2	원하다	VV
+위하/VV	3	위하다	VV
+인하/VV	4	인하다	VV
+인하/VV	4	인하다	VV
+인하/VV	4	인하다	VV
+자라나/VV	4	자라나다	VV
+지치/VV	4	지치다	VV
+펼쳐지/VV	4	펼쳐지다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+길/VA	1	길다	VA
+깊/VA	2	깊다	VA
+높/VA	1	높다	VA
+다르/VA	1	다르다	VA
+많/VA	1	많다	VA
+빠르/VA	1	빠르다	VA
+새롭/VA	2	새롭다	VA
+어둡/VA	2	어둡다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자연스럽/VA	4	자연스럽다	VA
+조하/VA	6	조하다	VA
+좋/VA	1	좋다	VA
+짧/VA	2	짧다	VA
+가운데/NNG	1	가운데	NNG
+거짓/NNG	4	거짓	NNG
+결과/NNG	2	결과	NNG
+결과/NNG	2	결과	NNG
+결혼/NNG	2	결혼	NNG
+경쟁/NNG	4	경쟁	NNG
+계발/NNG	5	계발	NNG
+곳/NNG	1	곳	NNG
+공부/NNG	1	공부	NNG
+구속/NNG	4	구속	NNG
+귀/NNG	1	귀	NNG
+극도/NNG	6	극도	NNG
+글/NNG	1	글	NNG
+글씨/NNG	2	글씨	NNG
+글자/NNG	2	글자	NNG
+글자/NNG	2	글자	NNG
+기회/NNG	2	기회	NNG
+길/NNG	1	길	NNG
+남녀/NNG	2	남녀	NNG
+남녀/NNG	2	남녀	NNG
+노동/NNG	4	노동	NNG
+노동/NNG	4	노동	NNG
+눈앞/NNG	4	눈앞	NNG
+단적/NNG	6	단적	NNG
+대부분/NNG	2	대부분	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+뜻/NNG	2	뜻	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음속/NNG	4	마음속	NNG
+만남/NNG	3	만남	NNG
+무기력/NNG	6	무기력	NNG
+무한/NNG	6	무한	NNG
+미덕/NNG	6	미덕	NNG
+미래/NNG	2	미래	NNG
+미래/NNG	2	미래	NNG
+미혼/NNG	4	미혼	NNG
+미혼/NNG	4	미혼	NNG
+발/NNG	1	발	NNG
+발길/NNG	4	발길	NNG
+분야/NNG	4	분야	NNG
+분위기/NNG	2	분위기	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사회적/NNG	3	사회적	NNG
+상당수/NNG	5	상당수	NNG
+설문/NNG	3	설문	NNG
+소리/NNG	2	소리	NNG
+소리/NNG	2	소리	NNG
+속도/NNG	2	속도	NNG
+속도/NNG	2	속도	NNG
+손/NNG	1	손	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+신체/NNG	3	신체	NNG
+압박감/NNG	6	압박감	NNG
+애인/NNG	2	애인	NNG
+어려움/NNG	3	어려움	NNG
+에너지/NNG	4	에너지	NNG
+여유/NNG	3	여유	NNG
+여유/NNG	3	여유	NNG
+연애/NNG	4	연애	NNG
+연애/NNG	4	연애	NNG
+외국어/NNG	1	외국어	NNG
+요즘/NNG	1	요즘	NNG
+의욕적/NNG	6	의욕적	NNG
+이야기/NNG	1	이야기	NNG
+자격증/NNG	4	자격증	NNG
+전문가/NNG	3	전문가	NNG
+정보/NNG	3	정보	NNG
+정신적/NNG	4	정신적	NNG
+정신적/NNG	4	정신적	NNG
+조금/NNG	1	조금	NNG
+주변/NNG	2	주변	NNG
+증후군/NNG	6	증후군	NNG
+증후군/NNG	6	증후군	NNG
+증후군/NNG	6	증후군	NNG
+직장인/NNG	3	직장인	NNG
+직장인/NNG	3	직장인	NNG
+직장인/NNG	3	직장인	NNG
+진실/NNG	4	진실	NNG
+집/NNG	1	집	NNG
+최선/NNG	3	최선	NNG
+취득/NNG	5	취득	NNG
+측면/NNG	4	측면	NNG
+친구/NNG	1	친구	NNG
+퇴근/NNG	1	퇴근	NNG
+평소/NNG	2	평소	NNG
+현상/NNG	4	현상	NNG
+현상/NNG	4	현상	NNG
+회사/NNG	1	회사	NNG
+휴식/NNG	3	휴식	NNG
+휴식/NNG	3	휴식	NNG
+휴식/NNG	3	휴식	NNG
+가까이/MAG	2	가까이	MA
+굳이/MAG	4	굳이	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+늘/MAG	2	늘	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+멀리/MAG	2	멀리	MA
+스스로/MAG	2	스스로	MA
+언젠가/MAG	4	언젠가	MA
+천천히/MAG	1	천천히	MA
+천천히/MAG	1	천천히	MA
+활짝/MAG	3	활짝	MA

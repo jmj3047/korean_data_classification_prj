@@ -1,0 +1,142 @@
+난타	7
+난타	7
+한국	1
+물놀이	7
+진출하	4
+성공하	2
+준비하	1
+이용하	2
+난타	7
+이해하	2
+난타	7
+생각하	1
+과정	3
+일	1
+그리	1
+치	1
+튀기	5
+신	3
+북	5
+신	3
+신	3
+가/VV	1	가다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나오/VV	1	나오다	VV
+놀라/VV	2	놀라다	VV
+느끼/VV	2	느끼다	VV
+다물/VV	4	다물다	VV
+더하/VV	3	더하다	VV
+두근거리/VV	5	두근거리다	VV
+두드리/VV	4	두드리다	VV
+듣/VV	1	듣다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+맞추/VV	2	맞추다	VV
+벌어지/VV	4	벌어지다	VV
+벗어나/VV	4	벗어나다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+사/VV	1	사다	VV
+살/VV	1	살다	VV
+올리/VV	2	올리다	VV
+입히/VV	4	입히다	VV
+하/VV	1	하다	VV
+향하/VV	3	향하다	VV
+가득하/VA	3	가득하다	VA
+경쾌하/VA	5	경쾌하다	VA
+그렇/VA	1	그렇다	VA
+멋지/VA	3	멋지다	VA
+밝/VA	2	밝다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+재미있/VA	1	재미있다	VA
+충분하/VA	2	충분하다	VA
+가슴/NNG	2	가슴	NNG
+감동/NNG	3	감동	NNG
+감동/NNG	3	감동	NNG
+결혼식/NNG	2	결혼식	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+관객/NNG	3	관객	NNG
+관객/NNG	3	관객	NNG
+관객/NNG	3	관객	NNG
+관객/NNG	3	관객	NNG
+길/NNG	1	길	NNG
+대사/NNG	4	대사	NNG
+대사/NNG	4	대사	NNG
+도마/NNG	4	도마	NNG
+동작/NNG	3	동작	NNG
+리듬/NNG	3	리듬	NNG
+리듬/NNG	3	리듬	NNG
+리듬/NNG	3	리듬	NNG
+리듬/NNG	3	리듬	NNG
+마지막/NNG	2	마지막	NNG
+무대/NNG	3	무대	NNG
+물/NNG	1	물	NNG
+박수/NNG	2	박수	NNG
+박수/NNG	2	박수	NNG
+발걸음/NNG	4	발걸음	NNG
+배우/NNG	1	배우	NNG
+배우/NNG	1	배우	NNG
+사람/NNG	1	사람	NNG
+세계적/NNG	4	세계적	NNG
+소리/NNG	2	소리	NNG
+소리/NNG	2	소리	NNG
+속/NNG	2	속	NNG
+시간/NNG	1	시간	NNG
+실수/NNG	2	실수	NNG
+여유/NNG	3	여유	NNG
+연극/NNG	1	연극	NNG
+영화/NNG	1	영화	NNG
+예전/NNG	5	예전	NNG
+오늘/NNG	1	오늘	NNG
+오랜만/NNG	2	오랜만	NNG
+요리사/NNG	2	요리사	NNG
+웃음/NNG	2	웃음	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+의상/NNG	4	의상	NNG
+인상적/NNG	3	인상적	NNG
+일상/NNG	4	일상	NNG
+입/NNG	1	입	NNG
+자체/NNG	5	자체	NNG
+장면/NNG	3	장면	NNG
+장면/NNG	3	장면	NNG
+장면/NNG	3	장면	NNG
+재미/NNG	2	재미	NNG
+재미/NNG	2	재미	NNG
+전통/NNG	3	전통	NNG
+전통/NNG	3	전통	NNG
+주방장/NNG	5	주방장	NNG
+중간/NNG	2	중간	NNG
+중간/NNG	2	중간	NNG
+집/NNG	1	집	NNG
+칼/NNG	2	칼	NNG
+표정/NNG	3	표정	NNG
+표정/NNG	3	표정	NNG
+같이/MAG	1	같이	MA
+그래서/MAJ	1	그래서	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+깜짝/MAG	2	깜짝	MA
+내내/MAG	3	내내	MA
+잠시/MAG	1	잠시	MA
+함께/MAG	1	함께	MA
+함께/MAG	1	함께	MA

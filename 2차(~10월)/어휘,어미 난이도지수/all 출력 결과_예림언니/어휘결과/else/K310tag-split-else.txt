@@ -1,0 +1,8 @@
+우	NNP
+다양하	VA
+업	NNG
+명확	NNG
+성취감	NNG
+안정성	NNG
+사회봉사	NNG
+창의	NNG

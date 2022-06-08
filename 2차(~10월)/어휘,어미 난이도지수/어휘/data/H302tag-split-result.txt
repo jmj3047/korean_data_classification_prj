@@ -1,0 +1,56 @@
+1
+3
+1
+3
+1
+남/VV	2	남다	VV
+느끼/VV	2	느끼다	VV
+되/VV	1	되다	VV
+모르/VV	1	모르다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+좋아하/VV	1	좋아하다	VV
+지나가/VV	2	지나가다	VV
+괜찮/VA	1	괜찮다	VA
+그렇/VA	1	그렇다	VA
+길/VA	1	길다	VA
+어떻/VA	1	어떻다	VA
+재미있/VA	1	재미있다	VA
+지루하/VA	2	지루하다	VA
+풍부하/VA	4	풍부하다	VA
+화려하/VA	2	화려하다	VA
+훌륭하/VA	2	훌륭하다	VA
+기억/NNG	2	기억	NNG
+기회/NNG	2	기회	NNG
+내용/NNG	2	내용	NNG
+마지막/NNG	2	마지막	NNG
+사람/NNG	1	사람	NNG
+상상력/NNG	4	상상력	NNG
+색깔/NNG	2	색깔	NNG
+시간/NNG	1	시간	NNG
+역사적/NNG	3	역사적	NNG
+영화/NNG	1	영화	NNG
+영화/NNG	1	영화	NNG
+영화/NNG	1	영화	NNG
+영화/NNG	1	영화	NNG
+영화/NNG	1	영화	NNG
+영화/NNG	1	영화	NNG
+음악/NNG	1	음악	NNG
+이야기/NNG	1	이야기	NNG
+인상적/NNG	3	인상적	NNG
+작가/NNG	4	작가	NNG
+장면/NNG	3	장면	NNG
+장면/NNG	3	장면	NNG
+정도/NNG	2	정도	NNG
+그저/MAG	3	그저	MA
+또/MAG	1	또	MA
+별로/MAG	1	별로	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+전혀/MAG	2	전혀	MA
+정말/MAG	1	정말	MA
+좀/MAG	1	좀	MA
+특히/MAG	1	특히	MA

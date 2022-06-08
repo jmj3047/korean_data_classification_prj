@@ -1,0 +1,13 @@
+말	NNG
+성적	NNG
+성적	NNG
+일	NNG
+사회	NNG
+사회	NNG
+일	NNG
+대상	NNG
+기타	NNG
+일	NNG
+일	NNG
+일	NNG
+일	NNG

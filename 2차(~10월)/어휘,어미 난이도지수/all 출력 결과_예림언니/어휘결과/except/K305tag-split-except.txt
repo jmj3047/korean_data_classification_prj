@@ -1,0 +1,9 @@
+기구	NNG
+신	NNG
+기구	NNG
+자신	NNG
+기술	NNG
+쓰	VV
+치	VV
+지르	VV
+신	NNG

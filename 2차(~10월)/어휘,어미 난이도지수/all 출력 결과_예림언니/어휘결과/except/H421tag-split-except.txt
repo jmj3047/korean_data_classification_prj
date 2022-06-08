@@ -1,0 +1,14 @@
+정의	NNG
+자신	NNG
+사회	NNG
+일	NNG
+일	NNG
+바람	NNG
+부리	VV
+말	NNG
+말	NNG
+새	NNG
+새	NNG
+새	NNG
+해	NNG
+사회	NNG

@@ -1,0 +1,6 @@
+안녕	NNG
+승우	NNP
+오래되	VV
+이야깃거리	NNG
+심심	NNG
+피노키오	NNP

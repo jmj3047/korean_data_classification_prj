@@ -1,0 +1,132 @@
+ETM 4
+ETM 4
+ETM 4
+EC 5
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+EF 3
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+고/EC	1	고	EC
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+기/ETN	2	기	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ/ETM	2	ㄴ	ET
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다/EF	3	ㄴ다	EF
+ㄴ다면/EC	4	ㄴ다면	EC
+ㄴ다면/EC	4	ㄴ다면	EC
+ㄴ지/EC	4	ㄴ지	EC
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는/ETM	2	는	ET
+는다/EF	3	는다	EF
+는지/EC	4	는지	EC
+더라도/EC	4	더라도	EC
+던/ETM	3	던	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+ㄹ/ETM	2	ㄹ	ET
+라/EC	1	라	EC
+ㅁ/ETN	2	ㅁ	ET
+ㅁ/ETN	2	ㅁ	ET
+며/EC	4	며	EC
+며/EC	4	며	EC
+며/EC	4	며	EC
+며/EC	4	며	EC
+며/EC	4	며	EC
+며/EC	4	며	EC
+면/EC	2	면	EC
+았/EP	1	았	EP
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어/EC	1	어	EC
+어서/EC	1	어서	EC
+어서/EC	1	어서	EC
+어서/EC	1	어서	EC
+었/EP	1	었	EP
+은/ETM	2	은	ET
+은/ETM	2	은	ET
+을/ETM	2	을	ET
+을/ETM	2	을	ET
+을/ETM	2	을	ET
+을/ETM	2	을	ET
+지/EC	5	지	EC
+지만/EC	1	지만	EC

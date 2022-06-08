@@ -1,0 +1,293 @@
+2
+2
+1
+1
+2
+1
+2
+1
+2
+2
+2
+1
+7
+3
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+5
+7
+2
+1
+1
+5
+2
+4
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+3
+가/VV	1	가다	VV
+가지/VV	1	가지다	VV
+가지/VV	1	가지다	VV
+기다리/VV	1	기다리다	VV
+끊이/VV	5	끊이다	VV
+나/VV	1	나다	VV
+넘/VV	2	넘다	VV
+누르/VV	2	누르다	VV
+느끼/VV	2	느끼다	VV
+다녀오/VV	1	다녀오다	VV
+다니/VV	1	다니다	VV
+달려오/VV	4	달려오다	VV
+돌아오/VV	1	돌아오다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+둘러앉/VV	6	둘러앉다	VV
+듣/VV	1	듣다	VV
+마치/VV	2	마치다	VV
+먹/VV	1	먹다	VV
+모르/VV	1	모르다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+벌/VV	2	벌다	VV
+벌/VV	2	벌다	VV
+보/VV	1	보다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+서/VV	2	서다	VV
+안기/VV	4	안기다	VV
+앉/VV	1	앉다	VV
+알아주/VV	4	알아주다	VV
+어기/VV	3	어기다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+이루/VV	3	이루다	VV
+이루/VV	3	이루다	VV
+좋아하/VV	1	좋아하다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+그렇/VA	1	그렇다	VA
+답답하/VA	2	답답하다	VA
+따뜻하/VA	1	따뜻하다	VA
+많/VA	1	많다	VA
+반갑/VA	1	반갑다	VA
+새롭/VA	2	새롭다	VA
+어리/VA	2	어리다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+익숙하/VA	2	익숙하다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자랑스럽/VA	4	자랑스럽다	VA
+재미있/VA	1	재미있다	VA
+좁/VA	2	좁다	VA
+크/VA	1	크다	VA
+편하/VA	2	편하다	VA
+가수/NNG	1	가수	NNG
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+가족/NNG	1	가족	NNG
+경제력/NNG	4	경제력	NNG
+경제적/NNG	3	경제적	NNG
+경제적/NNG	3	경제적	NNG
+길/NNG	1	길	NNG
+노래/NNG	1	노래	NNG
+노래/NNG	1	노래	NNG
+눈/NNG	1	눈	NNG
+다음/NNG	1	다음	NNG
+다음/NNG	1	다음	NNG
+대기업/NNG	4	대기업	NNG
+대기업/NNG	4	대기업	NNG
+대화/NNG	1	대화	NNG
+덕분/NNG	2	덕분	NNG
+돈/NNG	1	돈	NNG
+돈/NNG	1	돈	NNG
+동안/NNG	1	동안	NNG
+된장찌개/NNG	1	된장찌개	NNG
+때/NNG	4	때	NNG
+뜻/NNG	2	뜻	NNG
+마음/NNG	1	마음	NNG
+모습/NNG	2	모습	NNG
+무대/NNG	3	무대	NNG
+문/NNG	1	문	NNG
+밥/NNG	1	밥	NNG
+보람/NNG	3	보람	NNG
+보람/NNG	3	보람	NNG
+보통/NNG	1	보통	NNG
+부모님/NNG	1	부모님	NNG
+부모님/NNG	1	부모님	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+삶/NNG	3	삶	NNG
+새벽/NNG	2	새벽	NNG
+성공/NNG	2	성공	NNG
+성공/NNG	2	성공	NNG
+소문/NNG	3	소문	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+식구/NNG	2	식구	NNG
+식사/NNG	1	식사	NNG
+식사/NNG	1	식사	NNG
+식탁/NNG	2	식탁	NNG
+식탁/NNG	2	식탁	NNG
+실력/NNG	3	실력	NNG
+아내/NNG	1	아내	NNG
+아내/NNG	1	아내	NNG
+아내/NNG	1	아내	NNG
+아내/NNG	1	아내	NNG
+아내/NNG	1	아내	NNG
+아내/NNG	1	아내	NNG
+아빠/NNG	2	아빠	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아이/NNG	1	아이	NNG
+아침/NNG	1	아침	NNG
+아침/NNG	1	아침	NNG
+앞/NNG	1	앞	NNG
+여유/NNG	3	여유	NNG
+오랜만/NNG	2	오랜만	NNG
+웃음/NNG	2	웃음	NNG
+의미/NNG	2	의미	NNG
+의미/NNG	2	의미	NNG
+이야기/NNG	1	이야기	NNG
+이야기/NNG	1	이야기	NNG
+이제/NNG	2	이제	NNG
+인간/NNG	4	인간	NNG
+인생/NNG	3	인생	NNG
+인생/NNG	3	인생	NNG
+인생/NNG	3	인생	NNG
+인생/NNG	3	인생	NNG
+인생/NNG	3	인생	NNG
+일과/NNG	5	일과	NNG
+저녁/NNG	1	저녁	NNG
+저녁/NNG	1	저녁	NNG
+정도/NNG	2	정도	NNG
+주말/NNG	1	주말	NNG
+줄/NNG	2	줄	NNG
+중소기업/NNG	4	중소기업	NNG
+진료/NNG	5	진료	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+초인종/NNG	5	초인종	NNG
+출근/NNG	2	출근	NNG
+퇴근/NNG	1	퇴근	NNG
+하루/NNG	1	하루	NNG
+하루/NNG	1	하루	NNG
+하루하루/NNG	5	하루하루	NNG
+한마디/NNG	4	한마디	NNG
+환자/NNG	2	환자	NNG
+환자/NNG	2	환자	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+후회/NNG	3	후회	NNG
+후회/NNG	3	후회	NNG
+후회/NNG	3	후회	NNG
+후회/NNG	3	후회	NNG
+후회/NNG	3	후회	NNG
+가장/MAG	1	가장	MA
+각자/MAG	3	각자	MA
+계속/MAG	1	계속	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+늘/MAG	2	늘	MA
+다/MAG	1	다	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+매일/MAG	1	매일	MA
+모두/MAG	1	모두	MA
+모두/MAG	1	모두	MA
+물론/MAG	2	물론	MA
+서로/MAG	2	서로	MA
+서로/MAG	2	서로	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+없이/MAG	3	없이	MA
+이제/MAG	2	이제	MA
+일찍/MAG	1	일찍	MA
+잠시/MAG	1	잠시	MA
+정성껏/MAG	5	정성껏	MA
+함께/MAG	1	함께	MA
+항상/MAG	2	항상	MA

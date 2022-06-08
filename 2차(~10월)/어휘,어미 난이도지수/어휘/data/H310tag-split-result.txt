@@ -1,0 +1,106 @@
+4
+2
+2
+3
+3
+1
+2
+1
+2
+1
+1
+2
+2
+1
+3
+1
+1
+그러/VV	3	그러다	VV
+돕/VV	1	돕다	VV
+되/VV	1	되다	VV
+믿/VV	2	믿다	VV
+믿/VV	2	믿다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+자/VV	1	자다	VV
+찾아다니/VV	4	찾아다니다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+깨끗하/VA	1	깨끗하다	VA
+깨끗하/VA	1	깨끗하다	VA
+많/VA	1	많다	VA
+멀/VA	1	멀다	VA
+바쁘/VA	1	바쁘다	VA
+쉽/VA	1	쉽다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+크/VA	1	크다	VA
+힘들/VA	1	힘들다	VA
+힘들/VA	1	힘들다	VA
+힘들/VA	1	힘들다	VA
+힘들/VA	1	힘들다	VA
+경험/NNG	2	경험	NNG
+나중/NNG	1	나중	NNG
+달/NNG	1	달	NNG
+때/NNG	4	때	NNG
+며칠/NNG	1	며칠	NNG
+발표/NNG	3	발표	NNG
+부동산/NNG	3	부동산	NNG
+생각/NNG	1	생각	NNG
+수고/NNG	2	수고	NNG
+여기저기/NNG	2	여기저기	NNG
+오랜만/NNG	2	오랜만	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+인터넷/NNG	1	인터넷	NNG
+일주일/NNG	1	일주일	NNG
+전/NNG	1	전	NNG
+정도/NNG	2	정도	NNG
+정신/NNG	3	정신	NNG
+정신/NNG	3	정신	NNG
+준비/NNG	1	준비	NNG
+지난주/NNG	1	지난주	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집들이/NNG	2	집들이	NNG
+집들이/NNG	2	집들이	NNG
+혼자/NNG	1	혼자	NNG
+화요일/NNG	1	화요일	NNG
+게다가/MAG	4	게다가	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+내내/MAG	3	내내	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+다/MAG	1	다	MA
+대충/MAG	4	대충	MA
+못/MAG	1	못	MA
+못/MAG	1	못	MA
+못/MAG	1	못	MA
+아직/MAG	1	아직	MA
+아직/MAG	1	아직	MA
+언제/MAG	1	언제	MA
+왜/MAG	1	왜	MA
+이제/MAG	2	이제	MA
+정말/MAG	1	정말	MA
+정말/MAG	1	정말	MA
+정말/MAG	1	정말	MA
+정말/MAG	1	정말	MA
+정말/MAG	1	정말	MA
+좀/MAG	1	좀	MA
+지금/MAG	1	지금	MA
+하지만/MAJ	1	하지만	MA

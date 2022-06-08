@@ -1,0 +1,119 @@
+7
+4
+3
+2
+3
+4
+5
+2
+3
+7
+4
+4
+3
+5
+4
+3
+4
+3
+4
+5
+2
+2
+2
+4
+1
+3
+3
+끝나/VV	1	끝나다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+있/VA	1	있다	VA
+가능/NNG	3	가능	NNG
+가입/NNG	3	가입	NNG
+강의/NNG	4	강의	NNG
+강의/NNG	4	강의	NNG
+강의/NNG	4	강의	NNG
+강의/NNG	4	강의	NNG
+강의/NNG	4	강의	NNG
+강좌/NNG	5	강좌	NNG
+공지/NNG	4	공지	NNG
+과목/NNG	3	과목	NNG
+과목/NNG	3	과목	NNG
+과목/NNG	3	과목	NNG
+기간/NNG	1	기간	NNG
+기간/NNG	1	기간	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+내용/NNG	2	내용	NNG
+논문/NNG	5	논문	NNG
+로그인/NNG	3	로그인	NNG
+로그인/NNG	3	로그인	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+번호/NNG	1	번호	NNG
+본인/NNG	3	본인	NNG
+본인/NNG	3	본인	NNG
+비밀/NNG	2	비밀	NNG
+사이트/NNG	3	사이트	NNG
+사항/NNG	3	사항	NNG
+사항/NNG	3	사항	NNG
+생활/NNG	1	생활	NNG
+세미나/NNG	4	세미나	NNG
+수강/NNG	5	수강	NNG
+수강/NNG	5	수강	NNG
+수강/NNG	5	수강	NNG
+수강/NNG	5	수강	NNG
+수강/NNG	5	수강	NNG
+수정/NNG	3	수정	NNG
+시간표/NNG	2	시간표	NNG
+신입생/NNG	3	신입생	NNG
+신입생/NNG	3	신입생	NNG
+신청/NNG	2	신청	NNG
+신청/NNG	2	신청	NNG
+신청/NNG	2	신청	NNG
+신청/NNG	2	신청	NNG
+신청/NNG	2	신청	NNG
+신청/NNG	2	신청	NNG
+신청/NNG	2	신청	NNG
+실/NNG	3	실	NNG
+안내/NNG	1	안내	NNG
+온라인/NNG	4	온라인	NNG
+유의/NNG	5	유의	NNG
+인/NNG	5	인	NNG
+인/NNG	5	인	NNG
+인/NNG	5	인	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+전체/NNG	2	전체	NNG
+전체/NNG	2	전체	NNG
+접속/NNG	4	접속	NNG
+접수/NNG	3	접수	NNG
+제외/NNG	4	제외	NNG
+졸업/NNG	1	졸업	NNG
+평가/NNG	3	평가	NNG
+평가/NNG	3	평가	NNG
+평가/NNG	3	평가	NNG
+평가/NNG	3	평가	NNG
+평가/NNG	3	평가	NNG
+평가/NNG	3	평가	NNG
+학기/NNG	2	학기	NNG
+학번/NNG	5	학번	NNG
+학점/NNG	5	학점	NNG
+홈페이지/NNG	3	홈페이지	NNG
+홈페이지/NNG	3	홈페이지	NNG
+회원/NNG	2	회원	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+다시/MAG	1	다시	MA
+단/MAJ	5	단	MA
+및/MAG	3	및	MA
+및/MAG	3	및	MA
+반드시/MAG	2	반드시	MA

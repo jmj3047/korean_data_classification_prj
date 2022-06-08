@@ -1,0 +1,163 @@
+2
+1
+2
+1
+5
+2
+2
+2
+3
+2
+7
+7
+7
+2
+4
+2
+2
+2
+3
+7
+3
+4
+3
+7
+7
+7
+3
+3
+3
+1
+1
+2
+1
+3
+끓이/VV	2	끓이다	VV
+다투/VV	4	다투다	VV
+데려오/VV	2	데려오다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+만들/VV	1	만들다	VV
+모이/VV	2	모이다	VV
+바라/VV	2	바라다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+생기/VV	2	생기다	VV
+어기/VV	3	어기다	VV
+어기/VV	3	어기다	VV
+어기/VV	3	어기다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+재우/VV	4	재우다	VV
+주/VV	1	주다	VV
+지키/VV	2	지키다	VV
+지키/VV	2	지키다	VV
+지키/VV	2	지키다	VV
+피우/VV	1	피우다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+많/VA	1	많다	VA
+쉽/VA	1	쉽다	VA
+어렵/VA	1	어렵다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+곳/NNG	1	곳	NNG
+공간/NNG	3	공간	NNG
+공동/NNG	3	공동	NNG
+규칙/NNG	2	규칙	NNG
+규칙/NNG	2	규칙	NNG
+규칙/NNG	2	규칙	NNG
+규칙/NNG	2	규칙	NNG
+규칙/NNG	2	규칙	NNG
+규칙/NNG	2	규칙	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+담배/NNG	1	담배	NNG
+때/NNG	4	때	NNG
+라면/NNG	1	라면	NNG
+만약/NNG	2	만약	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방해/NNG	3	방해	NNG
+사건/NNG	3	사건	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사무실/NNG	1	사무실	NNG
+새벽/NNG	2	새벽	NNG
+생활/NNG	1	생활	NNG
+소음/NNG	4	소음	NNG
+소음/NNG	4	소음	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+신고/NNG	3	신고	NNG
+앞/NNG	1	앞	NNG
+어젯밤/NNG	2	어젯밤	NNG
+외부/NNG	3	외부	NNG
+요리/NNG	1	요리	NNG
+요리/NNG	1	요리	NNG
+요즘/NNG	1	요즘	NNG
+음주/NNG	3	음주	NNG
+이후/NNG	2	이후	NNG
+저녁/NNG	1	저녁	NNG
+주말/NNG	1	주말	NNG
+출입/NNG	2	출입	NNG
+평일/NNG	2	평일	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+해결/NNG	3	해결	NNG
+화재/NNG	3	화재	NNG
+후/NNG	1	후	NNG
+휴게실/NNG	2	휴게실	NNG
+흡연/NNG	5	흡연	NNG
+가끔/MAG	2	가끔	MA
+그리고/MAJ	1	그리고	MA
+다시/MAG	1	다시	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+모두/MAG	1	모두	MA
+스스로/MAG	2	스스로	MA
+잘/MAG	1	잘	MA
+조금/MAG	1	조금	MA

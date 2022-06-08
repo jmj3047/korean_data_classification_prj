@@ -1,0 +1,231 @@
+7
+7
+7
+7
+2
+2
+3
+4
+2
+3
+7
+7
+7
+7
+7
+7
+7
+7
+3
+7
+7
+3
+7
+7
+1
+1
+3
+1
+3
+1
+3
+1
+1
+1
+3
+3
+1
+1
+1
+1
+나타나/VV	2	나타나다	VV
+다니/VV	1	다니다	VV
+다니/VV	1	다니다	VV
+돌/VV	2	돌다	VV
+되/VV	1	되다	VV
+들/VV	1	들다	VV
+띄/VV	4	띄다	VV
+만들/VV	1	만들다	VV
+많아지/VV	3	많아지다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+바라/VV	2	바라다	VV
+받/VV	1	받다	VV
+세우/VV	2	세우다	VV
+심/VV	2	심다	VV
+쌓/VV	2	쌓다	VV
+쌓/VV	2	쌓다	VV
+쌓/VV	2	쌓다	VV
+쓰이/VV	3	쓰이다	VV
+알아주/VV	4	알아주다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+줄/VV	2	줄다	VV
+지키/VV	2	지키다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+크/VA	1	크다	VA
+가스/NNG	3	가스	NNG
+각자/NNG	3	각자	NNG
+개발/NNG	4	개발	NNG
+거리/NNG	2	거리	NNG
+거리/NNG	2	거리	NNG
+결과/NNG	2	결과	NNG
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+계산/NNG	2	계산	NNG
+공감/NNG	4	공감	NNG
+교통/NNG	1	교통	NNG
+교통/NNG	1	교통	NNG
+교통/NNG	1	교통	NNG
+교환/NNG	2	교환	NNG
+기름/NNG	2	기름	NNG
+녹색/NNG	2	녹색	NNG
+녹색/NNG	2	녹색	NNG
+녹색/NNG	2	녹색	NNG
+눈/NNG	1	눈	NNG
+단체/NNG	3	단체	NNG
+달/NNG	1	달	NNG
+대신/NNG	3	대신	NNG
+대신/NNG	3	대신	NNG
+도심/NNG	3	도심	NNG
+돈/NNG	1	돈	NNG
+동안/NNG	1	동안	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마일리지/NNG	5	마일리지	NNG
+마트/NNG	2	마트	NNG
+모금/NNG	4	모금	NNG
+목적/NNG	2	목적	NNG
+방문/NNG	2	방문	NNG
+버스/NNG	1	버스	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사용/NNG	1	사용	NNG
+생각/NNG	1	생각	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활권/NNG	6	생활권	NNG
+생활권/NNG	6	생활권	NNG
+설치/NNG	4	설치	NNG
+성과/NNG	4	성과	NNG
+소나무/NNG	4	소나무	NNG
+승용차/NNG	4	승용차	NNG
+시민/NNG	2	시민	NNG
+실천/NNG	4	실천	NNG
+아침/NNG	1	아침	NNG
+양/NNG	3	양	NNG
+용품/NNG	3	용품	NNG
+용품/NNG	3	용품	NNG
+운영/NNG	4	운영	NNG
+운영/NNG	4	운영	NNG
+은행/NNG	1	은행	NNG
+의/NNG	6	의	NNG
+이내/NNG	4	이내	NNG
+이동/NNG	3	이동	NNG
+이동/NNG	3	이동	NNG
+이동/NNG	3	이동	NNG
+이용/NNG	2	이용	NNG
+이용/NNG	2	이용	NNG
+이용/NNG	2	이용	NNG
+이용자/NNG	4	이용자	NNG
+이제/NNG	2	이제	NNG
+일정량/NNG	6	일정량	NNG
+자동차/NNG	1	자동차	NNG
+자동차/NNG	1	자동차	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+저장/NNG	4	저장	NNG
+절약/NNG	3	절약	NNG
+제공/NNG	3	제공	NNG
+제도/NNG	4	제도	NNG
+주변/NNG	2	주변	NNG
+지구/NNG	4	지구	NNG
+지금/NNG	1	지금	NNG
+지/NNG	4	지	NNG
+지하철역/NNG	1	지하철역	NNG
+직장인/NNG	3	직장인	NNG
+진행/NNG	3	진행	NNG
+참여/NNG	4	참여	NNG
+참여/NNG	4	참여	NNG
+참여/NNG	4	참여	NNG
+출근/NNG	2	출근	NNG
+취지/NNG	6	취지	NNG
+캠페인/NNG	4	캠페인	NNG
+통학/NNG	5	통학	NNG
+포함/NNG	3	포함	NNG
+학생/NNG	1	학생	NNG
+혜택/NNG	4	혜택	NNG
+혜택/NNG	4	혜택	NNG
+혜택/NNG	4	혜택	NNG
+혜택/NNG	4	혜택	NNG
+혜택/NNG	4	혜택	NNG
+홈페이지/NNG	3	홈페이지	NNG
+확대/NNG	4	확대	NNG
+환경/NNG	4	환경	NNG
+환경/NNG	4	환경	NNG
+환경/NNG	4	환경	NNG
+환경/NNG	4	환경	NNG
+효과/NNG	3	효과	NNG
+후/NNG	1	후	NNG
+그런데/MAJ	1	그런데	MA
+그리고/MAG	1	그리고	MA
+더/MAG	1	더	MA
+또한/MAG	3	또한	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+및/MAJ	3	및	MA
+아무리/MAG	2	아무리	MA
+어쨌든/MAG	4	어쨌든	MA
+열심히/MAG	1	열심히	MA
+열심히/MAG	1	열심히	MA

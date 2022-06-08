@@ -1,0 +1,97 @@
+4
+1
+1
+2
+4
+1
+3
+4
+1
+5
+3
+1
+3
+4
+4
+1
+2
+1
+2
+1
+2
+1
+2
+4
+2
+2
+3
+3
+3
+3
+3
+3
+2
+나오/VV	1	나오다	VV
+나타나/VV	2	나타나다	VV
+대하/VV	3	대하다	VV
+알/VV	1	알다	VV
+위하/VV	3	위하다	VV
+잇/VV	3	잇다	VV
+지나/VV	1	지나다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+다르/VA	1	다르다	VA
+맛있/VA	1	맛있다	VA
+신선하/VA	2	신선하다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+재미있/VA	1	재미있다	VA
+가격/NNG	1	가격	NNG
+갈비/NNG	1	갈비	NNG
+결과/NNG	2	결과	NNG
+관광객/NNG	2	관광객	NNG
+관광객/NNG	2	관광객	NNG
+그래프/NNG	4	그래프	NNG
+나라/NNG	1	나라	NNG
+다양성/NNG	5	다양성	NNG
+뒤/NNG	1	뒤	NNG
+때/NNG	4	때	NNG
+맛/NNG	1	맛	NNG
+메뉴/NNG	1	메뉴	NNG
+문화/NNG	1	문화	NNG
+밖/NNG	1	밖	NNG
+불고기/NNG	1	불고기	NNG
+불고기/NNG	1	불고기	NNG
+비빔밥/NNG	1	비빔밥	NNG
+비빔밥/NNG	1	비빔밥	NNG
+삼겹살/NNG	2	삼겹살	NNG
+삼계탕/NNG	1	삼계탕	NNG
+설문/NNG	3	설문	NNG
+설문/NNG	3	설문	NNG
+세계화/NNG	4	세계화	NNG
+습관/NNG	2	습관	NNG
+식/NNG	5	식	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+외국인/NNG	1	외국인	NNG
+육식/NNG	5	육식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식점/NNG	2	음식점	NNG
+의견/NNG	3	의견	NNG
+이번/NNG	1	이번	NNG
+입맛/NNG	3	입맛	NNG
+재료/NNG	2	재료	NNG
+한국적/NNG	4	한국적	NNG
+한식/NNG	2	한식	NNG
+가장/MAG	1	가장	MA
+가장/MAG	1	가장	MA
+더/MAG	1	더	MA

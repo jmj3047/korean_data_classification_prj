@@ -1,0 +1,6 @@
+기구	NNG
+따르	VV
+과정	NNG
+사고	NNG
+철	NNG
+배출	NNG

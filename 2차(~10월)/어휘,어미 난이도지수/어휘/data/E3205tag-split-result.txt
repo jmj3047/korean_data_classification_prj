@@ -1,0 +1,194 @@
+1
+2
+1
+1
+1
+3
+3
+1
+4
+7
+1
+1
+1
+4
+1
+2
+2
+1
+1
+2
+2
+1
+2
+1
+1
+1
+1
+3
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+감기/VV	5	감기다	VV
+건네/VV	4	건네다	VV
+고르/VV	1	고르다	VV
+기다리/VV	1	기다리다	VV
+깨우/VV	4	깨우다	VV
+깨우/VV	4	깨우다	VV
+꺼내/VV	2	꺼내다	VV
+꽂/VV	3	꽂다	VV
+나오/VV	1	나오다	VV
+내리/VV	1	내리다	VV
+눕/VV	2	눕다	VV
+돌아오/VV	1	돌아오다	VV
+돌아오/VV	1	돌아오다	VV
+듣/VV	1	듣다	VV
+들/VV	1	들다	VV
+들르/VV	2	들르다	VV
+들어가/VV	1	들어가다	VV
+디디/VV	5	디디다	VV
+마시/VV	1	마시다	VV
+마치/VV	2	마치다	VV
+마치/VV	2	마치다	VV
+만들/VV	1	만들다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+부르/VV	1	부르다	VV
+스치/VV	4	스치다	VV
+싣/VV	2	싣다	VV
+쏟아지/VV	3	쏟아지다	VV
+앉/VV	1	앉다	VV
+외치/VV	4	외치다	VV
+울리/VV	3	울리다	VV
+웃/VV	1	웃다	VV
+웃/VV	1	웃다	VV
+위하/VV	3	위하다	VV
+좋아하/VV	1	좋아하다	VV
+참/VV	2	참다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+고프/VA	1	고프다	VA
+많/VA	1	많다	VA
+사랑스럽/VA	4	사랑스럽다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+활기차/VA	5	활기차다	VA
+가게/NNG	1	가게	NNG
+걸음/NNG	2	걸음	NNG
+군인/NNG	2	군인	NNG
+군인/NNG	2	군인	NNG
+귀/NNG	1	귀	NNG
+길/NNG	1	길	NNG
+김밥/NNG	1	김밥	NNG
+김밥/NNG	1	김밥	NNG
+김밥/NNG	1	김밥	NNG
+냉수/NNG	4	냉수	NNG
+노래/NNG	1	노래	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+뉴스/NNG	1	뉴스	NNG
+뉴스/NNG	1	뉴스	NNG
+다음/NNG	1	다음	NNG
+달/NNG	1	달	NNG
+달/NNG	1	달	NNG
+대신/NNG	3	대신	NNG
+때/NNG	4	때	NNG
+면도/NNG	4	면도	NNG
+모양/NNG	2	모양	NNG
+몸/NNG	1	몸	NNG
+미혼/NNG	4	미혼	NNG
+발/NNG	1	발	NNG
+부엌/NNG	1	부엌	NNG
+부장/NNG	2	부장	NNG
+사람/NNG	1	사람	NNG
+사무실/NNG	1	사무실	NNG
+사무실/NNG	1	사무실	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+세상/NNG	2	세상	NNG
+세수/NNG	1	세수	NNG
+스포츠/NNG	2	스포츠	NNG
+시간/NNG	1	시간	NNG
+시계/NNG	2	시계	NNG
+시계/NNG	2	시계	NNG
+식사/NNG	1	식사	NNG
+식사/NNG	1	식사	NNG
+아내/NNG	1	아내	NNG
+아주머니/NNG	1	아주머니	NNG
+아침/NNG	1	아침	NNG
+아침/NNG	1	아침	NNG
+아침/NNG	1	아침	NNG
+아침/NNG	1	아침	NNG
+앞/NNG	1	앞	NNG
+앞/NNG	1	앞	NNG
+야근/NNG	3	야근	NNG
+양치질/NNG	2	양치질	NNG
+어제/NNG	1	어제	NNG
+업무/NNG	3	업무	NNG
+엘리베이터/NNG	2	엘리베이터	NNG
+옆/NNG	1	옆	NNG
+오늘/NNG	1	오늘	NNG
+오늘/NNG	1	오늘	NNG
+옷/NNG	1	옷	NNG
+이메일/NNG	3	이메일	NNG
+이어폰/NNG	5	이어폰	NNG
+잔/NNG	1	잔	NNG
+잔/NNG	1	잔	NNG
+잠/NNG	1	잠	NNG
+잠/NNG	1	잠	NNG
+졸음/NNG	4	졸음	NNG
+줄/NNG	2	줄	NNG
+지하철/NNG	1	지하철	NNG
+지하철/NNG	1	지하철	NNG
+지하철/NNG	1	지하철	NNG
+지하철/NNG	1	지하철	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+책상/NNG	1	책상	NNG
+책상/NNG	1	책상	NNG
+침대/NNG	1	침대	NNG
+커피/NNG	1	커피	NNG
+퇴근/NNG	1	퇴근	NNG
+틈/NNG	4	틈	NNG
+하늘/NNG	2	하늘	NNG
+하루/NNG	1	하루	NNG
+화장실/NNG	1	화장실	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+회사/NNG	1	회사	NNG
+후/NNG	1	후	NNG
+가장/MAG	1	가장	MA
+간단히/MAG	2	간단히	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+다시/MAG	1	다시	MA
+또/MAG	1	또	MA
+막/MAG	3	막	MA
+매일/MAG	1	매일	MA
+매일/MAG	1	매일	MA
+먼저/MAG	1	먼저	MA
+바로/MAG	1	바로	MA
+바로/MAG	1	바로	MA
+벌써/MAG	2	벌써	MA
+아직/MAG	1	아직	MA
+어찌나/MAG	4	어찌나	MA
+잘/MAG	1	잘	MA
+정확히/MAG	3	정확히	MA
+제일/MAG	1	제일	MA
+함께/MAG	1	함께	MA
+혹시/MAG	2	혹시	MA

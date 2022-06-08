@@ -1,0 +1,226 @@
+4
+4
+4
+3
+1
+1
+3
+3
+2
+7
+3
+2
+1
+2
+6
+1
+4
+2
+1
+3
+2
+2
+3
+2
+2
+3
+3
+3
+4
+3
+3
+3
+3
+가지/VV	1	가지다	VV
+내/VV	2	내다	VV
+돌리/VV	2	돌리다	VV
+돌아다니/VV	3	돌아다니다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+들어가/VV	1	들어가다	VV
+들어가/VV	1	들어가다	VV
+모르/VV	1	모르다	VV
+모자라/VV	2	모자라다	VV
+몰려들/VV	4	몰려들다	VV
+몰리/VV	4	몰리다	VV
+바꾸/VV	1	바꾸다	VV
+받/VV	1	받다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+비하/VV	3	비하다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+설레/VV	4	설레다	VV
+얻/VV	2	얻다	VV
+올라오/VV	2	올라오다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+주/VV	1	주다	VV
+줄이/VV	2	줄이다	VV
+줄이/VV	2	줄이다	VV
+줄이/VV	2	줄이다	VV
+지내/VV	1	지내다	VV
+찾/VV	1	찾다	VV
+찾/VV	1	찾다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+향하/VV	3	향하다	VV
+가깝/VA	1	가깝다	VA
+가득하/VA	3	가득하다	VA
+값싸/VA	4	값싸다	VA
+그렇/VA	1	그렇다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+새롭/VA	2	새롭다	VA
+심각하/VA	3	심각하다	VA
+어렵/VA	1	어렵다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+열악하/VA	6	열악하다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+저렴하/VA	3	저렴하다	VA
+적/VA	1	적다	VA
+좋/VA	1	좋다	VA
+친하/VA	1	친하다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+가족/NNG	1	가족	NNG
+값/NNG	1	값	NNG
+개인적/NNG	3	개인적	NNG
+걱정/NNG	2	걱정	NNG
+경우/NNG	3	경우	NNG
+경우/NNG	3	경우	NNG
+계약/NNG	3	계약	NNG
+고생/NNG	3	고생	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+공간/NNG	3	공간	NNG
+관심/NNG	2	관심	NNG
+교통비/NNG	2	교통비	NNG
+근처/NNG	1	근처	NNG
+기간/NNG	1	기간	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+기숙사/NNG	1	기숙사	NNG
+꿈/NNG	2	꿈	NNG
+꿈/NNG	2	꿈	NNG
+눈/NNG	1	눈	NNG
+대부분/NNG	2	대부분	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학가/NNG	6	대학가	NNG
+대학가/NNG	6	대학가	NNG
+대학교/NNG	1	대학교	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+돈/NNG	1	돈	NNG
+동안/NNG	1	동안	NNG
+때/NNG	4	때	NNG
+마음/NNG	1	마음	NNG
+모습/NNG	2	모습	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+보증금/NNG	5	보증금	NNG
+보증금/NNG	5	보증금	NNG
+부담/NNG	3	부담	NNG
+부담/NNG	3	부담	NNG
+부담/NNG	3	부담	NNG
+부모님/NNG	1	부모님	NNG
+비교적/NNG	4	비교적	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+상황/NNG	3	상황	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활비/NNG	3	생활비	NNG
+시작/NNG	1	시작	NNG
+식비/NNG	3	식비	NNG
+신청/NNG	2	신청	NNG
+신혼부부/NNG	3	신혼부부	NNG
+여가/NNG	3	여가	NNG
+여기저기/NNG	2	여기저기	NNG
+운/NNG	3	운	NNG
+월세/NNG	3	월세	NNG
+월세/NNG	3	월세	NNG
+월세/NNG	3	월세	NNG
+월세/NNG	3	월세	NNG
+월세/NNG	3	월세	NNG
+월세/NNG	3	월세	NNG
+이외/NNG	4	이외	NNG
+이제/NNG	2	이제	NNG
+적극적/NNG	4	적극적	NNG
+전세/NNG	3	전세	NNG
+전세/NNG	3	전세	NNG
+전세/NNG	3	전세	NNG
+전세/NNG	3	전세	NNG
+전세/NNG	3	전세	NNG
+전세/NNG	3	전세	NNG
+정도/NNG	2	정도	NNG
+주거/NNG	5	주거	NNG
+주거/NNG	5	주거	NNG
+지역/NNG	3	지역	NNG
+집/NNG	1	집	NNG
+집값/NNG	5	집값	NNG
+집세/NNG	3	집세	NNG
+집세/NNG	3	집세	NNG
+집세/NNG	3	집세	NNG
+친구/NNG	1	친구	NNG
+학기/NNG	2	학기	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+학생/NNG	1	학생	NNG
+현실/NNG	4	현실	NNG
+환경/NNG	4	환경	NNG
+굉장히/MAG	3	굉장히	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그렇지만/MAJ	1	그렇지만	MA
+그렇지만/MAJ	1	그렇지만	MA
+그리고/MAJ	1	그리고	MA
+너무/MAG	1	너무	MA
+더욱/MAG	2	더욱	MA
+또는/MAG	2	또는	MA
+많이/MAG	1	많이	MA
+매달/MAG	2	매달	MA
+매달/MAG	2	매달	MA
+매달/MAG	2	매달	MA
+상관없이/MAG	4	상관없이	MA
+실제로/MAG	3	실제로	MA
+없이/MAG	3	없이	MA
+자주/MAG	1	자주	MA
+하지만/MAJ	1	하지만	MA
+하지만/MAJ	1	하지만	MA
+함께/MAG	1	함께	MA
+현재/MAG	2	현재	MA

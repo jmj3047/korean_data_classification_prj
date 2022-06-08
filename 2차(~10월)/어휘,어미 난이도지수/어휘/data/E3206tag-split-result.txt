@@ -1,0 +1,180 @@
+2
+2
+2
+2
+7
+2
+4
+2
+2
+2
+2
+1
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+3
+그러/VV	3	그러다	VV
+그러/VV	3	그러다	VV
+끝내/VV	2	끝내다	VV
+내/VV	2	내다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+만들/VV	1	만들다	VV
+멀어지/VV	4	멀어지다	VV
+모르/VV	1	모르다	VV
+물어보/VV	2	물어보다	VV
+보/VV	1	보다	VV
+부딪치/VV	4	부딪치다	VV
+살/VV	1	살다	VV
+생기/VV	2	생기다	VV
+시키/VV	1	시키다	VV
+입/VV	1	입다	VV
+잊/VV	2	잊다	VV
+주/VV	1	주다	VV
+참/VV	2	참다	VV
+통하/VV	3	통하다	VV
+풀리/VV	3	풀리다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+가깝/VA	1	가깝다	VA
+그렇/VA	1	그렇다	VA
+그렇/VA	1	그렇다	VA
+그렇/VA	1	그렇다	VA
+나쁘/VA	1	나쁘다	VA
+나쁘/VA	1	나쁘다	VA
+나쁘/VA	1	나쁘다	VA
+나쁘/VA	1	나쁘다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+짧/VA	2	짧다	VA
+감정/NNG	3	감정	NNG
+감정/NNG	3	감정	NNG
+거울/NNG	2	거울	NNG
+관계/NNG	2	관계	NNG
+관계/NNG	2	관계	NNG
+기분/NNG	1	기분	NNG
+기분/NNG	1	기분	NNG
+기분/NNG	1	기분	NNG
+기분/NNG	1	기분	NNG
+기분/NNG	1	기분	NNG
+대화/NNG	1	대화	NNG
+대화/NNG	1	대화	NNG
+대화/NNG	1	대화	NNG
+대화/NNG	1	대화	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+뜻/NNG	2	뜻	NNG
+뜻/NNG	2	뜻	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+머리/NNG	1	머리	NNG
+모양/NNG	2	모양	NNG
+반응/NNG	4	반응	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상대방/NNG	3	상대방	NNG
+상처/NNG	2	상처	NNG
+상처/NNG	2	상처	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+설명/NNG	1	설명	NNG
+설명/NNG	1	설명	NNG
+속/NNG	2	속	NNG
+약/NNG	1	약	NNG
+오늘/NNG	1	오늘	NNG
+오해/NNG	3	오해	NNG
+요구/NNG	4	요구	NNG
+유형/NNG	4	유형	NNG
+유형/NNG	4	유형	NNG
+유형/NNG	4	유형	NNG
+유형/NNG	4	유형	NNG
+의도/NNG	4	의도	NNG
+인정/NNG	4	인정	NNG
+자존심/NNG	4	자존심	NNG
+자존심/NNG	4	자존심	NNG
+중요/NNG	2	중요	NNG
+진심/NNG	3	진심	NNG
+침묵/NNG	4	침묵	NNG
+피/NNG	2	피	NNG
+현대/NNG	3	현대	NNG
+확인/NNG	3	확인	NNG
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+달리/MAG	4	달리	MA
+더/MAG	1	더	MA
+더욱/MAG	2	더욱	MA
+때로/MAG	4	때로	MA
+또/MAG	1	또	MA
+똑같이/MAG	2	똑같이	MA
+똑같이/MAG	2	똑같이	MA
+못/MAG	1	못	MA
+못/MAG	1	못	MA
+무심코/MAG	5	무심코	MA
+분명히/MAG	3	분명히	MA
+아직/MAG	1	아직	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+오히려/MAG	4	오히려	MA
+왜/MAG	1	왜	MA
+잘못/MAG	1	잘못	MA
+정말/MAG	1	정말	MA
+좀/MAG	1	좀	MA
+좀/MAG	1	좀	MA
+항상/MAG	2	항상	MA

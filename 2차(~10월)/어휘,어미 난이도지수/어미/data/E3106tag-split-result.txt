@@ -1,0 +1,89 @@
+EC 2
+EC 2
+EC 2
+EF 2
+EC 3
+EC 3
+EC 3
+EC 3
+EC 3
+EC 3
+EC 3
+거든요/EF	3급	거든요	EF
+게/EC	2급	게	EC
+게/EC	2급	게	EC
+게/EC	2급	게	EC
+게/EC	2급	게	EC
+게/EC	2급	게	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+고/EC	1급	고	EC
+기/ETN	2급	기	ET
+ㄴ/ETM	2급	ㄴ	ET
+ㄴ/ETM	2급	ㄴ	ET
+ㄴ/ETM	2급	ㄴ	ET
+ㄴ/ETM	2급	ㄴ	ET
+ㄴ/ETM	2급	ㄴ	ET
+ㄴ/ETM	2급	ㄴ	ET
+ㄴ데/EC	2급	ㄴ데	EC
+ㄴ지/EC	4급	ㄴ지	EC
+ㄴ지/EC	4급	ㄴ지	EC
+는/ETM	2급	는	ET
+는/ETM	2급	는	ET
+는/ETM	2급	는	ET
+는/ETM	2급	는	ET
+는/ETM	2급	는	ET
+는데/EC	2급	는데	EC
+는데/EC	2급	는데	EC
+는데/EC	2급	는데	EC
+는데/EC	2급	는데	EC
+는데/EC	2급	는데	EC
+니까/EC	1급	니까	EC
+다면서요/EF	4급	다면서요	EF
+던/ETM	3급	던	ET
+던데/EC	4급	던데	EC
+ㄹ/ETM	2급	ㄹ	ET
+ㄹ/ETM	2급	ㄹ	ET
+려고/EC	1급	려고	EC
+ㅁ/ETN	2급	ㅁ	ET
+면서/EC	2급	면서	EC
+면서/EC	2급	면서	EC
+아/EC	1급	아	EC
+아요/EF	1급	아요	EF
+아요/EF	1급	아요	EF
+았/EP	1급	았	EP
+았/EP	1급	았	EP
+어/EC	1급	어	EC
+어/EC	1급	어	EC
+어/EC	1급	어	EC
+어도/EC	3급	어도	EC
+어서/EC	1급	어서	EC
+어서/EC	1급	어서	EC
+어서/EC	1급	어서	EC
+어서/EC	1급	어서	EC
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+어요/EF	1급	어요	EF
+었/EP	1급	었	EP
+었/EP	1급	었	EP
+었/EP	1급	었	EP
+었/EP	1급	었	EP
+었/EP	1급	었	EP
+었/EP	1급	었	EP
+에요/EF	1급	에요	EF
+을/ETM	2급	을	ET
+지요/EF	2급	지요	EF

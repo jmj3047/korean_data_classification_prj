@@ -1,0 +1,6 @@
+명확	NNG
+순	NNG
+한국	NNP
+이러	NNG
+한국	NNP
+한국	NNP

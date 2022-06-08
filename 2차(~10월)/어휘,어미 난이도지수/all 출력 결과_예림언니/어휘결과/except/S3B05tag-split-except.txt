@@ -1,0 +1,12 @@
+차	NNG
+안	NNG
+빠지	VV
+남	NNG
+밤	NNG
+이상	NNG
+이상	NNG
+쓰	VV
+일	NNG
+쓰	VV
+소식	NNG
+일	NNG

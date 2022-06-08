@@ -1,0 +1,75 @@
+1
+1
+4
+3
+3
+7
+2
+2
+1
+4
+7
+1
+3
+3
+가지/VV	1	가지다	VV
+남기/VV	2	남기다	VV
+남기/VV	2	남기다	VV
+남/VV	2	남다	VV
+넘어지/VV	2	넘어지다	VV
+누르/VV	2	누르다	VV
+도와주/VV	1	도와주다	VV
+먹/VV	1	먹다	VV
+버리/VV	2	버리다	VV
+베/VV	5	베다	VV
+열/VV	1	열다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+인하/VV	4	인하다	VV
+일으키/VV	4	일으키다	VV
+줄이/VV	2	줄이다	VV
+지키/VV	2	지키다	VV
+가깝/VA	1	가깝다	VA
+그렇/VA	1	그렇다	VA
+맑/VA	1	맑다	VA
+있/VA	1	있다	VA
+충분하/VA	2	충분하다	VA
+갈등/NNG	4	갈등	NNG
+거리/NNG	2	거리	NNG
+건강/NNG	1	건강	NNG
+결국/NNG	3	결국	NNG
+대신/NNG	3	대신	NNG
+대신/NNG	3	대신	NNG
+돈/NNG	1	돈	NNG
+돈/NNG	1	돈	NNG
+마음/NNG	1	마음	NNG
+만원/NNG	4	만원	NNG
+매연/NNG	5	매연	NNG
+반/NNG	1	반	NNG
+반/NNG	1	반	NNG
+방법/NNG	2	방법	NNG
+버스/NNG	1	버스	NNG
+버스/NNG	1	버스	NNG
+생각/NNG	1	생각	NNG
+소음/NNG	4	소음	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+쓰레기/NNG	2	쓰레기	NNG
+쓰레기/NNG	2	쓰레기	NNG
+아래층/NNG	3	아래층	NNG
+오염/NNG	4	오염	NNG
+음식/NNG	1	음식	NNG
+음식물/NNG	3	음식물	NNG
+음식물/NNG	3	음식물	NNG
+이웃/NNG	2	이웃	NNG
+자동차/NNG	1	자동차	NNG
+자동차/NNG	1	자동차	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+자전거/NNG	1	자전거	NNG
+층/NNG	1	층	NNG
+하루/NNG	1	하루	NNG
+환경/NNG	4	환경	NNG
+환경/NNG	4	환경	NNG

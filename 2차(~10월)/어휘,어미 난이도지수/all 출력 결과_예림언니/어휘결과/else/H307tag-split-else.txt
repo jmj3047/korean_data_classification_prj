@@ -1,0 +1,9 @@
+서울	NNP
+실력자	NNG
+걱정하	VV
+친절하	VA
+가입하	VV
+씌	VV
+가입하	VV
+외대	NNP
+신청하	VV

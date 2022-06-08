@@ -1,0 +1,17 @@
+조사	NNG
+조사	NNG
+군	NNG
+이상	NNG
+군	NNG
+일	NNG
+조사	NNG
+보수	NNG
+구	NNG
+따르	VV
+경기	NNG
+수	NNG
+사상	NNG
+대	NNG
+대	NNG
+목	NNG
+매	VV

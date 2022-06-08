@@ -1,0 +1,12 @@
+난타	NNP
+난타	NNG
+한국	NNP
+물놀이	NNG
+진출하	VV
+성공하	VV
+준비하	VV
+이용하	VV
+난타	NNP
+이해하	VV
+난타	NNG
+생각하	VV

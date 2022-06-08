@@ -1,0 +1,218 @@
+3
+3
+4
+7
+4
+7
+1
+1
+1
+5
+4
+2
+3
+1
+4
+3
+2
+2
+1
+4
+2
+4
+1
+4
+4
+4
+4
+2
+4
+4
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가져가/VV	2	가져가다	VV
+가지/VV	1	가지다	VV
+남기/VV	2	남기다	VV
+남기/VV	2	남기다	VV
+남기/VV	2	남기다	VV
+남기/VV	2	남기다	VV
+넣/VV	1	넣다	VV
+넣/VV	1	넣다	VV
+넣/VV	1	넣다	VV
+넣/VV	1	넣다	VV
+도망치/VV	4	도망치다	VV
+돌려주/VV	2	돌려주다	VV
+되/VV	1	되다	VV
+뒤지/VV	4	뒤지다	VV
+뒤지/VV	4	뒤지다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+들어가/VV	1	들어가다	VV
+들어가/VV	1	들어가다	VV
+들어가/VV	1	들어가다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+붙잡히/VV	4	붙잡히다	VV
+붙잡히/VV	4	붙잡히다	VV
+붙잡히/VV	4	붙잡히다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+잡/VV	2	잡다	VV
+주/VV	1	주다	VV
+찾/VV	1	찾다	VV
+찾아가/VV	2	찾아가다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+가방/NNG	1	가방	NNG
+가방/NNG	1	가방	NNG
+가방/NNG	1	가방	NNG
+가방/NNG	1	가방	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+경찰/NNG	2	경찰	NNG
+공부/NNG	1	공부	NNG
+나이/NNG	2	나이	NNG
+날/NNG	1	날	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+눈앞/NNG	4	눈앞	NNG
+답장/NNG	2	답장	NNG
+당/NNG	6	당	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+도난/NNG	4	도난	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+도둑/NNG	3	도둑	NNG
+돈/NNG	1	돈	NNG
+돈/NNG	1	돈	NNG
+돈/NNG	1	돈	NNG
+돈/NNG	1	돈	NNG
+동안/NNG	1	동안	NNG
+며칠/NNG	1	며칠	NNG
+모습/NNG	2	모습	NNG
+목걸이/NNG	2	목걸이	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+발견/NNG	4	발견	NNG
+발생/NNG	4	발생	NNG
+사건/NNG	3	사건	NNG
+사람/NNG	1	사람	NNG
+사실/NNG	2	사실	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+습관/NNG	2	습관	NNG
+신고/NNG	3	신고	NNG
+신고/NNG	3	신고	NNG
+신분증/NNG	2	신분증	NNG
+신분증/NNG	2	신분증	NNG
+신분증/NNG	2	신분증	NNG
+신분증/NNG	2	신분증	NNG
+신용/NNG	3	신용	NNG
+아무것/NNG	2	아무것	NNG
+얘기/NNG	2	얘기	NNG
+옆집/NNG	2	옆집	NNG
+오전/NNG	1	오전	NNG
+옷장/NNG	2	옷장	NNG
+옷장/NNG	2	옷장	NNG
+외출/NNG	2	외출	NNG
+위협/NNG	4	위협	NNG
+음식/NNG	1	음식	NNG
+잠/NNG	1	잠	NNG
+잠/NNG	1	잠	NNG
+졸음/NNG	4	졸음	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+직원/NNG	1	직원	NNG
+진짜/NNG	2	진짜	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+카드/NNG	1	카드	NNG
+크리스마스/NNG	2	크리스마스	NNG
+편의점/NNG	1	편의점	NNG
+편의점/NNG	1	편의점	NNG
+편의점/NNG	1	편의점	NNG
+편의점/NNG	1	편의점	NNG
+편지/NNG	1	편지	NNG
+편지/NNG	1	편지	NNG
+편지/NNG	1	편지	NNG
+편지/NNG	1	편지	NNG
+화장대/NNG	3	화장대	NNG
+화제/NNG	4	화제	NNG
+확인/NNG	3	확인	NNG
+확인/NNG	3	확인	NNG
+후/NNG	1	후	NNG
+후/NNG	1	후	NNG
+그대로/MAG	2	그대로	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+다시/MAG	1	다시	MA
+다시/MAG	1	다시	MA
+다시/MAG	1	다시	MA
+또/MAG	1	또	MA
+모두/MAG	1	모두	MA
+몰래/MAG	3	몰래	MA
+몰래/MAG	3	몰래	MA
+반드시/MAG	2	반드시	MA
+살짝/MAG	3	살짝	MA
+열심히/MAG	1	열심히	MA
+제발/MAG	4	제발	MA

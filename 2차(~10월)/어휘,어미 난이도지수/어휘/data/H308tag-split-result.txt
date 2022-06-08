@@ -1,0 +1,102 @@
+1
+7
+7
+1
+1
+7
+2
+7
+2
+7
+2
+1
+1
+1
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+기다리/VV	1	기다리다	VV
+끝나/VV	1	끝나다	VV
+놀/VV	1	놀다	VV
+놀/VV	1	놀다	VV
+드리/VV	1	드리다	VV
+먹/VV	1	먹다	VV
+보내/VV	1	보내다	VV
+위하/VV	3	위하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+가깝/VA	1	가깝다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+바쁘/VA	1	바쁘다	VA
+바쁘/VA	1	바쁘다	VA
+없/VA	1	없다	VA
+예쁘/VA	1	예쁘다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+즐겁/VA	2	즐겁다	VA
+곳/NNG	1	곳	NNG
+공부/NNG	1	공부	NNG
+구경/NNG	1	구경	NNG
+금요일/NNG	1	금요일	NNG
+기대/NNG	3	기대	NNG
+기차/NNG	1	기차	NNG
+기회/NNG	2	기회	NNG
+날씨/NNG	1	날씨	NNG
+내용/NNG	2	내용	NNG
+다음/NNG	1	다음	NNG
+메일/NNG	2	메일	NNG
+선배/NNG	2	선배	NNG
+선배/NNG	2	선배	NNG
+선후배/NNG	5	선후배	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시험/NNG	1	시험	NNG
+시험/NNG	1	시험	NNG
+신청/NNG	2	신청	NNG
+아래/NNG	1	아래	NNG
+여행/NNG	1	여행	NNG
+연락/NNG	2	연락	NNG
+예약/NNG	2	예약	NNG
+예정/NNG	3	예정	NNG
+예정/NNG	3	예정	NNG
+오랜만/NNG	2	오랜만	NNG
+요즘/NNG	1	요즘	NNG
+요즘/NNG	1	요즘	NNG
+원/NNG	4	원	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+이번/NNG	1	이번	NNG
+이번/NNG	1	이번	NNG
+이번/NNG	1	이번	NNG
+이번/NNG	1	이번	NNG
+이야기/NNG	1	이야기	NNG
+정도/NNG	2	정도	NNG
+졸업/NNG	1	졸업	NNG
+준비/NNG	1	준비	NNG
+참석/NNG	3	참석	NNG
+참석/NNG	3	참석	NNG
+참석/NNG	3	참석	NNG
+참석/NNG	3	참석	NNG
+취직/NNG	2	취직	NNG
+확인/NNG	3	확인	NNG
+회사/NNG	1	회사	NNG
+회원/NNG	2	회원	NNG
+회원/NNG	2	회원	NNG
+회장/NNG	3	회장	NNG
+그런데/MAJ	1	그런데	MA
+다/MAG	1	다	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+아주/MAG	1	아주	MA
+특별히/MAG	2	특별히	MA
+함께/MAG	1	함께	MA

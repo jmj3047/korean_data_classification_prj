@@ -1,0 +1,221 @@
+5
+2
+4
+7
+3
+1
+2
+2
+4
+2
+3
+4
+5
+4
+3
+6
+2
+4
+2
+4
+4
+5
+4
+2
+1
+4
+3
+3
+3
+갖/VV	2	갖다	VV
+끌/VV	3	끌다	VV
+끌/VV	3	끌다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+먹/VV	1	먹다	VV
+바꾸/VV	1	바꾸다	VV
+바뀌/VV	2	바뀌다	VV
+받/VV	1	받다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+생겨나/VV	4	생겨나다	VV
+얻/VV	2	얻다	VV
+얻/VV	2	얻다	VV
+얻/VV	2	얻다	VV
+원하/VV	2	원하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+이어지/VV	4	이어지다	VV
+잘못되/VV	2	잘못되다	VV
+잘못되/VV	2	잘못되다	VV
+접하/VV	4	접하다	VV
+주고받/VV	3	주고받다	VV
+주/VV	1	주다	VV
+지키/VV	2	지키다	VV
+통하/VV	3	통하다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+멀/VA	1	멀다	VA
+명확하/VA	4	명확하다	VA
+비싸/VA	1	비싸다	VA
+쉽/VA	1	쉽다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+올바르/VA	3	올바르다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+특별하/VA	1	특별하다	VA
+개인/NNG	3	개인	NNG
+게임/NNG	1	게임	NNG
+결과/NNG	2	결과	NNG
+경우/NNG	3	경우	NNG
+경쟁/NNG	4	경쟁	NNG
+관심/NNG	2	관심	NNG
+글/NNG	1	글	NNG
+남녀노소/NNG	5	남녀노소	NNG
+내용/NNG	2	내용	NNG
+내용/NNG	2	내용	NNG
+대중화/NNG	5	대중화	NNG
+대화/NNG	1	대화	NNG
+도구/NNG	3	도구	NNG
+도덕적/NNG	6	도덕적	NNG
+도덕적/NNG	6	도덕적	NNG
+돈/NNG	1	돈	NNG
+동시/NNG	2	동시	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문화/NNG	1	문화	NNG
+미디어/NNG	4	미디어	NNG
+방/NNG	1	방	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송/NNG	2	방송	NNG
+방송인/NNG	5	방송인	NNG
+방송인/NNG	5	방송인	NNG
+방송인/NNG	5	방송인	NNG
+방송인/NNG	5	방송인	NNG
+법/NNG	3	법	NNG
+법/NNG	3	법	NNG
+법적/NNG	4	법적	NNG
+부정적/NNG	4	부정적	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사이버/NNG	4	사이버	NNG
+사이버/NNG	4	사이버	NNG
+생각/NNG	1	생각	NNG
+생방송/NNG	4	생방송	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+시청자/NNG	4	시청자	NNG
+실제/NNG	4	실제	NNG
+영향/NNG	3	영향	NNG
+영향력/NNG	4	영향력	NNG
+온라인/NNG	4	온라인	NNG
+음악/NNG	1	음악	NNG
+이유/NNG	1	이유	NNG
+이유/NNG	1	이유	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인기/NNG	2	인기	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+인터넷/NNG	1	인터넷	NNG
+자극적/NNG	5	자극적	NNG
+자극적/NNG	5	자극적	NNG
+장점/NNG	3	장점	NNG
+종류/NNG	2	종류	NNG
+진행/NNG	3	진행	NNG
+처벌/NNG	4	처벌	NNG
+행동/NNG	2	행동	NNG
+행동/NNG	2	행동	NNG
+현상/NNG	4	현상	NNG
+화폐/NNG	3	화폐	NNG
+그대로/MAG	2	그대로	MA
+그러나/MAJ	2	그러나	MA
+그러므로/MAJ	2	그러므로	MA
+더/MAG	1	더	MA
+더욱/MAG	2	더욱	MA
+또한/MAG	3	또한	MA
+매우/MAG	2	매우	MA
+바로/MAG	1	바로	MA
+사실/MAG	2	사실	MA
+서로/MAG	2	서로	MA
+서로/MAG	2	서로	MA
+서로/MAG	2	서로	MA
+스스로/MAG	2	스스로	MA
+아직/MAG	1	아직	MA
+안/MAG	1	안	MA
+잘/MAG	1	잘	MA
+하지만/MAJ	1	하지만	MA

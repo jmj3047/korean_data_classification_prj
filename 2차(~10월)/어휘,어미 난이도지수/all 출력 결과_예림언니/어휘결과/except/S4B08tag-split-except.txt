@@ -1,0 +1,10 @@
+해	NNG
+열리	VV
+신	NNG
+타	VV
+빠지	VV
+신	NNG
+바람	NNG
+열리	VV
+타	VV
+신	NNG

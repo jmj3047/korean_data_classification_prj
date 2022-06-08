@@ -1,0 +1,12 @@
+전자	NNG
+전자	NNG
+안	NNG
+공기	NNG
+맞	VV
+맞	VV
+켜	VV
+검사	NNG
+검사	NNG
+수	NNG
+의사	NNG
+의사	NNG

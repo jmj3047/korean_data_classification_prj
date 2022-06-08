@@ -1,0 +1,12 @@
+불쾌감	NNG
+불쾌감	NNG
+태국	NNP
+일본	NNP
+중국	NNP
+의미하	VV
+멕시코	NNP
+인디언	NNP
+한국	NNP
+이슬람	NNG
+힌두교	NNG
+하나	NNG

@@ -1,0 +1,130 @@
+한국어	3
+공부하	1	
+한국	1
+베트남	1
+한국어	3
+전공하	1
+한국	1
+한국	1
+공부하	1
+유학하	2
+추천하	3
+준비하	1
+허락하	3
+한국	1
+이해하	2
+설득하	4
+한국	1
+한국어	3
+집중하	3
+한국어	3
+적응되	3
+베트남	1
+한국	1
+베트남	1
+관련되	3
+가/VV	1	가다	VV
+갖/VV	2	갖다	VV
+갖추/VV	4	갖추다	VV
+계시/VV	1	계시다	VV
+느끼/VV	2	느끼다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+돌아가/VV	1	돌아가다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+만나/VV	1	만나다	VV
+설레/VV	4	설레다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+울/VV	1	울다	VV
+잘하/VV	1	잘하다	VV
+찾/VV	1	찾다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+많/VA	1	많다	VA
+밝/VA	2	밝다	VA
+새롭/VA	2	새롭다	VA
+쉽/VA	1	쉽다	VA
+어떻/VA	1	어떻다	VA
+어떻/VA	1	어떻다	VA
+어떻/VA	1	어떻다	VA
+어떻/VA	1	어떻다	VA
+어렵/VA	1	어렵다	VA
+어렵/VA	1	어렵다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+즐겁/VA	2	즐겁다	VA
+계획/NNG	1	계획	NNG
+공부/NNG	1	공부	NNG
+공부/NNG	1	공부	NNG
+관심/NNG	2	관심	NNG
+교류/NNG	4	교류	NNG
+기대감/NNG	5	기대감	NNG
+꿈/NNG	2	꿈	NNG
+꿈/NNG	2	꿈	NNG
+대중문화/NNG	4	대중문화	NNG
+대중문화/NNG	4	대중문화	NNG
+대중문화/NNG	4	대중문화	NNG
+대학원/NNG	2	대학원	NNG
+드라마/NNG	1	드라마	NNG
+미래/NNG	2	미래	NNG
+미소/NNG	3	미소	NNG
+부모님/NNG	1	부모님	NNG
+부모님/NNG	1	부모님	NNG
+부모님/NNG	1	부모님	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+선생님/NNG	1	선생님	NNG
+실력/NNG	3	실력	NNG
+앞/NNG	1	앞	NNG
+얼굴/NNG	1	얼굴	NNG
+영화/NNG	1	영화	NNG
+올해/NNG	1	올해	NNG
+외국인/NNG	1	외국인	NNG
+외동딸/NNG	5	외동딸	NNG
+인터뷰/NNG	3	인터뷰	NNG
+적극적/NNG	4	적극적	NNG
+전공/NNG	1	전공	NNG
+지금/NNG	1	지금	NNG
+질문/NNG	1	질문	NNG
+학교/NNG	1	학교	NNG
+학교/NNG	1	학교	NNG
+학교/NNG	1	학교	NNG
+학생/NNG	1	학생	NNG
+후/NNG	1	후	NNG
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+내내/MAG	3	내내	MA
+마침/MAG	3	마침	MA
+마침내/MAG	4	마침내	MA
+많이/MAG	1	많이	MA
+매일/MAG	1	매일	MA
+매일/MAG	1	매일	MA
+매일/MAG	1	매일	MA
+매일/MAG	1	매일	MA
+못/MAG	1	못	MA
+사실/MAG	2	사실	MA
+아직/MAG	1	아직	MA
+완전히/MAG	2	완전히	MA
+점점/MAG	2	점점	MA
+정말/MAG	1	정말	MA
+제대로/MAG	3	제대로	MA
+지금/MAG	1	지금	MA
+지금/MAG	1	지금	MA
+충분히/MAG	3	충분히	MA
+특별히/MAG	2	특별히	MA
+하지만/MAJ	1	하지만	MA

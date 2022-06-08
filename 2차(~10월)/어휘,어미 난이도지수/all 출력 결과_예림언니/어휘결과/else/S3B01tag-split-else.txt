@@ -1,0 +1,16 @@
+청량리	NNP
+시계탑	NNG
+정동진	NNP
+도착하	VV
+시작하	VV
+아쉽	VA
+삼척	NNP
+환선굴	NNP
+이상하	VA
+어시장	NNG
+구경하	VV
+물오징어	NNG
+유명하	VA
+서울	NNP
+꼭	MAG
+아쉽	VA

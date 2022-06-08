@@ -1,0 +1,175 @@
+4
+1
+1
+3
+2
+7
+1
+3
+1
+1
+1
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+3
+1
+3
+1
+3
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+3
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+기다리/VV	1	기다리다	VV
+기다리/VV	1	기다리다	VV
+기다리/VV	1	기다리다	VV
+나/VV	1	나다	VV
+내리/VV	1	내리다	VV
+내리/VV	1	내리다	VV
+놀/VV	1	놀다	VV
+돌아오/VV	1	돌아오다	VV
+들어가/VV	1	들어가다	VV
+마르/VV	2	마르다	VV
+마시/VV	1	마시다	VV
+만나/VV	1	만나다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+모르/VV	1	모르다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+사/VV	1	사다	VV
+살/VV	1	살다	VV
+생기/VV	2	생기다	VV
+오/VV	1	오다	VV
+올라가/VV	1	올라가다	VV
+위하/VV	3	위하다	VV
+잡/VV	2	잡다	VV
+지나/VV	1	지나다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+깨끗하/VA	1	깨끗하다	VA
+깨끗하/VA	1	깨끗하다	VA
+넓/VA	1	넓다	VA
+덥/VA	1	덥다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+밝/VA	2	밝다	VA
+시원하/VA	1	시원하다	VA
+신선하/VA	2	신선하다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+재미있/VA	1	재미있다	VA
+크/VA	1	크다	VA
+흐리/VA	1	흐리다	VA
+힘들/VA	1	힘들다	VA
+가족/NNG	1	가족	NNG
+걱정/NNG	2	걱정	NNG
+게임/NNG	1	게임	NNG
+경치/NNG	2	경치	NNG
+금요일/NNG	1	금요일	NNG
+기차/NNG	1	기차	NNG
+기차/NNG	1	기차	NNG
+기차/NNG	1	기차	NNG
+기차/NNG	1	기차	NNG
+기차/NNG	1	기차	NNG
+기차/NNG	1	기차	NNG
+기차/NNG	1	기차	NNG
+날씨/NNG	1	날씨	NNG
+냉장고/NNG	2	냉장고	NNG
+다음/NNG	1	다음	NNG
+덕분/NNG	2	덕분	NNG
+동굴/NNG	5	동굴	NNG
+동굴/NNG	5	동굴	NNG
+동굴/NNG	5	동굴	NNG
+땀/NNG	2	땀	NNG
+마음/NNG	1	마음	NNG
+매운탕/NNG	3	매운탕	NNG
+몸/NNG	1	몸	NNG
+바다/NNG	1	바다	NNG
+바닷가/NNG	2	바닷가	NNG
+바닷가/NNG	2	바닷가	NNG
+반/NNG	1	반	NNG
+밤새/NNG	3	밤새	NNG
+버스/NNG	1	버스	NNG
+버스/NNG	1	버스	NNG
+사람/NNG	1	사람	NNG
+사진/NNG	1	사진	NNG
+새벽/NNG	2	새벽	NNG
+생각/NNG	1	생각	NNG
+생선/NNG	2	생선	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+아침/NNG	1	아침	NNG
+안개/NNG	2	안개	NNG
+앞/NNG	1	앞	NNG
+앞/NNG	1	앞	NNG
+오징어/NNG	3	오징어	NNG
+오징어/NNG	3	오징어	NNG
+오후/NNG	1	오후	NNG
+이야기/NNG	1	이야기	NNG
+자연/NNG	2	자연	NNG
+정도/NNG	2	정도	NNG
+조금/NNG	1	조금	NNG
+창밖/NNG	3	창밖	NNG
+커피/NNG	1	커피	NNG
+코스/NNG	3	코스	NNG
+패스트푸드/NNG	4	패스트푸드	NNG
+호수/NNG	2	호수	NNG
+회/NNG	3	회	NNG
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+그리고/MAJ	1	그리고	MA
+너무/MAG	1	너무	MA
+너무/MAG	1	너무	MA
+다시/MAG	1	다시	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+모두/MAG	1	모두	MA
+못/MAG	1	못	MA
+못/MAG	1	못	MA
+방금/MAG	2	방금	MA
+벌써/MAG	2	벌써	MA
+아주/MAG	1	아주	MA
+조금/MAG	1	조금	MA
+조금씩/MAG	2	조금씩	MA
+특히/MAG	1	특히	MA
+하지만/MAJ	1	하지만	MA
+하지만/MAJ	1	하지만	MA
+하지만/MAJ	1	하지만	MA

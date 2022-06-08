@@ -1,0 +1,15 @@
+조사	NNG
+인사	NNG
+일	NNG
+인사	NNG
+인사	NNG
+인사	NNG
+쓰	VV
+시인	NNG
+묻	VV
+일	NNG
+묻	VV
+일	NNG
+자신	NNG
+자리	NNG
+위	NNG

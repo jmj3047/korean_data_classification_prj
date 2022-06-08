@@ -1,0 +1,10 @@
+중국	NNP
+렌핑	NNG
+한국	NNP
+한국	NNP
+두리번	NNG
+한국	NNP
+한국어	NNP
+한국	NNP
+한국어	NNP
+한국	NNP

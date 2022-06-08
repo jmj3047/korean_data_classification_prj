@@ -1,0 +1,208 @@
+4
+7
+2
+2
+1
+4
+4
+1
+1
+2
+4
+7
+1
+1
+7
+4
+2
+2
+1
+4
+2
+4
+5
+2
+2
+3
+2
+4
+2
+3
+2
+2
+1
+2
+1
+3
+1
+2
+2
+걸/VV	1	걸다	VV
+끊/VV	2	끊다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나오/VV	1	나오다	VV
+남기/VV	2	남기다	VV
+내/VV	2	내다	VV
+놀라/VV	2	놀라다	VV
+놀라/VV	2	놀라다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+드리/VV	1	드리다	VV
+들/VV	1	들다	VV
+들어가/VV	1	들어가다	VV
+믿/VV	2	믿다	VV
+받/VV	1	받다	VV
+보내/VV	1	보내다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+살/VV	1	살다	VV
+신/VV	1	신다	VV
+알/VV	1	알다	VV
+알아보/VV	2	알아보다	VV
+열/VV	1	열다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+적히/VV	3	적히다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+지키/VV	2	지키다	VV
+지키/VV	2	지키다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+늦/VA	1	늦다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+예쁘/VA	1	예쁘다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+작/VA	1	작다	VA
+작/VA	1	작다	VA
+작/VA	1	작다	VA
+좋/VA	1	좋다	VA
+죄송하/VA	1	죄송하다	VA
+크/VA	1	크다	VA
+크/VA	1	크다	VA
+게시판/NNG	3	게시판	NNG
+결국/NNG	3	결국	NNG
+고객/NNG	3	고객	NNG
+고객/NNG	3	고객	NNG
+고객/NNG	3	고객	NNG
+교환/NNG	2	교환	NNG
+날/NNG	1	날	NNG
+날짜/NNG	1	날짜	NNG
+내용/NNG	2	내용	NNG
+다음/NNG	1	다음	NNG
+담당자/NNG	4	담당자	NNG
+답변/NNG	4	답변	NNG
+대부분/NNG	2	대부분	NNG
+때/NNG	4	때	NNG
+마음/NNG	1	마음	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+문제/NNG	2	문제	NNG
+물건/NNG	1	물건	NNG
+물건/NNG	1	물건	NNG
+반품/NNG	4	반품	NNG
+배송/NNG	4	배송	NNG
+배송/NNG	4	배송	NNG
+보통/NNG	1	보통	NNG
+보통/NNG	1	보통	NNG
+부탁/NNG	1	부탁	NNG
+비용/NNG	3	비용	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+사이즈/NNG	2	사이즈	NNG
+상담원/NNG	4	상담원	NNG
+상담원/NNG	4	상담원	NNG
+상자/NNG	2	상자	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+상품/NNG	2	상품	NNG
+소비자/NNG	4	소비자	NNG
+소비자/NNG	4	소비자	NNG
+소비자/NNG	4	소비자	NNG
+소비자/NNG	4	소비자	NNG
+소비자/NNG	4	소비자	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+쇼핑몰/NNG	3	쇼핑몰	NNG
+신발/NNG	1	신발	NNG
+신발/NNG	1	신발	NNG
+신발/NNG	1	신발	NNG
+실망/NNG	3	실망	NNG
+실망/NNG	3	실망	NNG
+약속/NNG	1	약속	NNG
+연락/NNG	2	연락	NNG
+오늘/NNG	1	오늘	NNG
+오렌지/NNG	1	오렌지	NNG
+오렌지/NNG	1	오렌지	NNG
+오렌지/NNG	1	오렌지	NNG
+전/NNG	1	전	NNG
+전화/NNG	1	전화	NNG
+전화/NNG	1	전화	NNG
+크기/NNG	2	크기	NNG
+평/NNG	4	평	NNG
+평/NNG	4	평	NNG
+품질/NNG	3	품질	NNG
+홈페이지/NNG	3	홈페이지	NNG
+화면/NNG	3	화면	NNG
+환불/NNG	3	환불	NNG
+환불/NNG	3	환불	NNG
+환불/NNG	3	환불	NNG
+회사/NNG	1	회사	NNG
+후/NNG	1	후	NNG
+갑자기/MAG	2	갑자기	MA
+거의/MAG	2	거의	MA
+게다가/MAG	4	게다가	MA
+그래서/MAJ	1	그래서	MA
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+그런데/MAJ	1	그런데	MA
+깜짝/MAG	2	깜짝	MA
+너무/MAG	1	너무	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+또/MAG	1	또	MA
+먼저/MAG	1	먼저	MA
+바로/MAG	1	바로	MA
+빨리/MAG	1	빨리	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+일일이/MAG	4	일일이	MA
+정말/MAG	1	정말	MA
+정말/MAG	1	정말	MA

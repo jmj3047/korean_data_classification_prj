@@ -1,0 +1,12 @@
+자신	NNG
+조사	NNG
+따르	VV
+지각	NNG
+지각	NNG
+관리	NNG
+이해	NNG
+인상	NNG
+이해	NNG
+자신	NNG
+말	NNG
+점	NNG

@@ -1,0 +1,96 @@
+3
+1
+3
+3
+1
+3
+1
+3
+3
+1
+1
+가/VV	1	가다	VV
+기다리/VV	1	기다리다	VV
+나가/VV	1	나가다	VV
+나오/VV	1	나오다	VV
+나오/VV	1	나오다	VV
+내/VV	2	내다	VV
+놀라/VV	2	놀라다	VV
+도와주/VV	1	도와주다	VV
+돕/VV	1	돕다	VV
+듣/VV	1	듣다	VV
+비/VV	2	비다	VV
+비/VV	2	비다	VV
+살/VV	1	살다	VV
+생기/VV	2	생기다	VV
+알/VV	1	알다	VV
+오르/VV	2	오르다	VV
+올리/VV	2	올리다	VV
+찾아보/VV	1	찾아보다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+무섭/VA	2	무섭다	VA
+비싸/VA	1	비싸다	VA
+어렵/VA	1	어렵다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+가격/NNG	1	가격	NNG
+고민/NNG	2	고민	NNG
+고민/NNG	2	고민	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+다음/NNG	1	다음	NNG
+달/NNG	1	달	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+방/NNG	1	방	NNG
+부동산/NNG	3	부동산	NNG
+부동산/NNG	3	부동산	NNG
+부탁/NNG	1	부탁	NNG
+사람/NNG	1	사람	NNG
+생각/NNG	1	생각	NNG
+요즘/NNG	1	요즘	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이사/NNG	2	이사	NNG
+이야기/NNG	1	이야기	NNG
+전/NNG	1	전	NNG
+제일/NNG	1	제일	NNG
+주인/NNG	1	주인	NNG
+지금/NNG	1	지금	NNG
+집/NNG	1	집	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+한국인/NNG	3	한국인	NNG
+혼자/NNG	1	혼자	NNG
+곧/MAG	2	곧	MA
+그래서/MAJ	1	그래서	MA
+깜짝/MAG	2	깜짝	MA
+너무/MAG	1	너무	MA
+다행히/MAG	3	다행히	MA
+미리/MAG	2	미리	MA
+하지만/MAJ	1	하지만	MA

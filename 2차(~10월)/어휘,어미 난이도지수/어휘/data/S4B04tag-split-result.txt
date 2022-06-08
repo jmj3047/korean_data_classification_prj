@@ -1,0 +1,152 @@
+7
+1
+7
+7
+4
+3
+4
+7
+7
+3
+7
+1
+1
+7
+1
+7
+3
+7
+7
+3
+1
+7
+1
+7
+2
+2
+2
+2
+3
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+나/VV	1	나다	VV
+나오/VV	1	나오다	VV
+떼/VV	4	떼다	VV
+만나/VV	1	만나다	VV
+만들/VV	1	만들다	VV
+만들/VV	1	만들다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+어우러지/VV	5	어우러지다	VV
+주/VV	1	주다	VV
+지나/VV	1	지나다	VV
+추/VV	1	추다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+궁금하/VA	2	궁금하다	VA
+깊/VA	2	깊다	VA
+낯설/VA	3	낯설다	VA
+멋지/VA	3	멋지다	VA
+밝/VA	2	밝다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+참신하/VA	5	참신하다	VA
+풍부하/VA	4	풍부하다	VA
+화려하/VA	2	화려하다	VA
+훌륭하/VA	2	훌륭하다	VA
+감동/NNG	3	감동	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+공연/NNG	3	공연	NNG
+관람/NNG	3	관람	NNG
+교환/NNG	2	교환	NNG
+국립/NNG	3	국립	NNG
+그동안/NNG	2	그동안	NNG
+극장/NNG	1	극장	NNG
+기대/NNG	3	기대	NNG
+기대/NNG	3	기대	NNG
+내용/NNG	2	내용	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+동작/NNG	3	동작	NNG
+마음/NNG	1	마음	NNG
+마지막/NNG	2	마지막	NNG
+만남/NNG	3	만남	NNG
+무대/NNG	3	무대	NNG
+미래/NNG	2	미래	NNG
+바다/NNG	1	바다	NNG
+볼거리/NNG	3	볼거리	NNG
+성공적/NNG	4	성공적	NNG
+실감/NNG	4	실감	NNG
+아버지/NNG	1	아버지	NNG
+아버지/NNG	1	아버지	NNG
+아버지/NNG	1	아버지	NNG
+앞/NNG	1	앞	NNG
+언어/NNG	2	언어	NNG
+역동적/NNG	6	역동적	NNG
+영상/NNG	3	영상	NNG
+옛날/NNG	2	옛날	NNG
+옛날/NNG	2	옛날	NNG
+옛날/NNG	2	옛날	NNG
+외국/NNG	1	외국	NNG
+음악/NNG	1	음악	NNG
+음악/NNG	1	음악	NNG
+음악/NNG	1	음악	NNG
+의상/NNG	4	의상	NNG
+이번/NNG	1	이번	NNG
+이번/NNG	1	이번	NNG
+이벤트/NNG	4	이벤트	NNG
+이야기/NNG	1	이야기	NNG
+이야기/NNG	1	이야기	NNG
+이야기/NNG	1	이야기	NNG
+이야기/NNG	1	이야기	NNG
+인상적/NNG	3	인상적	NNG
+작품/NNG	4	작품	NNG
+장면/NNG	3	장면	NNG
+장면/NNG	3	장면	NNG
+적극/NNG	4	적극	NNG
+처음/NNG	1	처음	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+친구/NNG	1	친구	NNG
+평/NNG	4	평	NNG
+한복/NNG	1	한복	NNG
+효녀/NNG	5	효녀	NNG
+후기/NNG	5	후기	NNG
+같이/MAG	1	같이	MA
+그리고/MAJ	1	그리고	MA
+매우/MAG	2	매우	MA
+못/MAG	1	못	MA
+무척/MAG	2	무척	MA
+솔직히/MAG	4	솔직히	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+얼마나/MAG	1	얼마나	MA
+없이/MAG	3	없이	MA
+잘/MAG	1	잘	MA
+잘/MAG	1	잘	MA
+점점/MAG	2	점점	MA
+정말/MAG	1	정말	MA
+특히/MAG	1	특히	MA
+특히/MAG	1	특히	MA
+함께/MAG	1	함께	MA

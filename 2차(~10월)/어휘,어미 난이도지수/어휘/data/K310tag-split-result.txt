@@ -1,0 +1,207 @@
+1
+2
+1
+4
+6
+3
+4
+5
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+1
+4
+1
+5
+1
+1
+3
+1
+가지/VV	1	가지다	VV
+끼치/VV	4	끼치다	VV
+높아지/VV	3	높아지다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+돕/VV	1	돕다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+만들/VV	1	만들다	VV
+모르/VV	1	모르다	VV
+받/VV	1	받다	VV
+배우/VV	1	배우다	VV
+알/VV	1	알다	VV
+알/VV	1	알다	VV
+알리/VV	1	알리다	VV
+알아보/VV	2	알아보다	VV
+인정받/VV	4	인정받다	VV
+통하/VV	3	통하다	VV
+통하/VV	3	통하다	VV
+통하/VV	3	통하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+낫/VA	2	낫다	VA
+높/VA	1	높다	VA
+다르/VA	1	다르다	VA
+새롭/VA	2	새롭다	VA
+새롭/VA	2	새롭다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+가치/NNG	4	가치	NNG
+가치/NNG	4	가치	NNG
+가치/NNG	4	가치	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+가치관/NNG	4	가치관	NNG
+결정/NNG	2	결정	NNG
+경쟁/NNG	4	경쟁	NNG
+경제적/NNG	3	경제적	NNG
+경험/NNG	2	경험	NNG
+계발/NNG	5	계발	NNG
+계획/NNG	1	계획	NNG
+국가/NNG	3	국가	NNG
+규칙/NNG	2	규칙	NNG
+그중/NNG	3	그중	NNG
+근무/NNG	3	근무	NNG
+기준/NNG	3	기준	NNG
+기준/NNG	3	기준	NNG
+기준/NNG	3	기준	NNG
+나/NNG	1	나	NNG
+능력/NNG	2	능력	NNG
+능력/NNG	2	능력	NNG
+능력/NNG	2	능력	NNG
+다음/NNG	1	다음	NNG
+도움/NNG	2	도움	NNG
+도전/NNG	4	도전	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+마찬가지/NNG	4	마찬가지	NNG
+만족/NNG	3	만족	NNG
+만족/NNG	3	만족	NNG
+만족도/NNG	5	만족도	NNG
+만족도/NNG	5	만족도	NNG
+믿음/NNG	4	믿음	NNG
+발휘/NNG	5	발휘	NNG
+발휘/NNG	5	발휘	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사회적/NNG	3	사회적	NNG
+상대적/NNG	4	상대적	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+생각/NNG	1	생각	NNG
+선택/NNG	2	선택	NNG
+선택/NNG	2	선택	NNG
+선택/NNG	2	선택	NNG
+선택/NNG	2	선택	NNG
+선택/NNG	2	선택	NNG
+선택/NNG	2	선택	NNG
+성격/NNG	2	성격	NNG
+세상/NNG	2	세상	NNG
+시간/NNG	1	시간	NNG
+신념/NNG	4	신념	NNG
+심리/NNG	3	심리	NNG
+아래/NNG	1	아래	NNG
+안정적/NNG	5	안정적	NNG
+어려움/NNG	3	어려움	NNG
+영향/NNG	3	영향	NNG
+예전/NNG	5	예전	NNG
+원/NNG	4	원	NNG
+유지/NNG	4	유지	NNG
+이유/NNG	1	이유	NNG
+인류/NNG	4	인류	NNG
+인정/NNG	4	인정	NNG
+자율성/NNG	5	자율성	NNG
+적성/NNG	4	적성	NNG
+적성/NNG	4	적성	NNG
+절차/NNG	4	절차	NNG
+조직/NNG	5	조직	NNG
+주목/NNG	4	주목	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+중요/NNG	2	중요	NNG
+직/NNG	5	직	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직업/NNG	1	직업	NNG
+직장/NNG	2	직장	NNG
+창조적/NNG	5	창조적	NNG
+충족/NNG	5	충족	NNG
+충족/NNG	5	충족	NNG
+판단/NNG	4	판단	NNG
+필요/NNG	1	필요	NNG
+학자/NNG	3	학자	NNG
+해결/NNG	3	해결	NNG
+환경/NNG	4	환경	NNG
+흥미/NNG	4	흥미	NNG
+흥미/NNG	4	흥미	NNG
+가장/MAG	1	가장	MA
+그리고/MAJ	1	그리고	MA
+늘/MAG	2	늘	MA
+더/MAG	1	더	MA
+더욱/MAG	2	더욱	MA
+따라서/MAJ	3	따라서	MA
+매우/MAG	2	매우	MA
+스스로/MAG	2	스스로	MA
+스스로/MAG	2	스스로	MA
+오래/MAG	2	오래	MA
+잘/MAG	1	잘	MA
+잘/MAG	1	잘	MA
+잘/MAG	1	잘	MA
+항상/MAG	2	항상	MA

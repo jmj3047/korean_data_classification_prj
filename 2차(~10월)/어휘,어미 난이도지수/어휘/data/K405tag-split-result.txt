@@ -1,0 +1,329 @@
+1
+1
+1
+1
+3
+1
+1
+1
+1
+3
+2
+1
+2
+1
+1
+1
+1
+3
+1
+1
+4
+1
+1
+1
+4
+1
+2
+1
+1
+1
+1
+1
+1
+1
+5
+7
+7
+7
+1
+4
+7
+1
+7
+1
+7
+7
+4
+2
+7
+7
+7
+5
+7
+4
+7
+7
+7
+1
+7
+7
+7
+1
+7
+7
+7
+7
+5
+7
+7
+7
+7
+가/VV	1	가다	VV
+굽히/VV	4	굽히다	VV
+그러/VV	3	그러다	VV
+그러/VV	3	그러다	VV
+깨닫/VV	4	깨닫다	VV
+끌/VV	3	끌다	VV
+끌/VV	3	끌다	VV
+나가/VV	1	나가다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나/VV	1	나다	VV
+나오/VV	1	나오다	VV
+내리/VV	1	내리다	VV
+넘/VV	2	넘다	VV
+노려보/VV	4	노려보다	VV
+놀라/VV	2	놀라다	VV
+놓/VV	2	놓다	VV
+놓/VV	2	놓다	VV
+놓치/VV	3	놓치다	VV
+놓치/VV	3	놓치다	VV
+누르/VV	2	누르다	VV
+눕/VV	2	눕다	VV
+눕/VV	2	눕다	VV
+다다르/VV	5	다다르다	VV
+달려가/VV	4	달려가다	VV
+대하/VV	3	대하다	VV
+돌/VV	2	돌다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+들어가/VV	1	들어가다	VV
+들어서/VV	3	들어서다	VV
+들어오/VV	1	들어오다	VV
+떠오르/VV	3	떠오르다	VV
+떨어지/VV	2	떨어지다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+멈추/VV	2	멈추다	VV
+모르/VV	1	모르다	VV
+미끄러지/VV	2	미끄러지다	VV
+미치/VV	4	미치다	VV
+바라보/VV	2	바라보다	VV
+벌/VV	2	벌다	VV
+보/VV	1	보다	VV
+부르/VV	1	부르다	VV
+부르/VV	1	부르다	VV
+부르짖/VV	6	부르짖다	VV
+부르짖/VV	6	부르짖다	VV
+붙/VV	2	붙다	VV
+비비/VV	3	비비다	VV
+빼/VV	2	빼다	VV
+사/VV	1	사다	VV
+사라지/VV	3	사라지다	VV
+생기/VV	2	생기다	VV
+숨기/VV	4	숨기다	VV
+얻/VV	2	얻다	VV
+얼/VV	2	얼다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+울/VV	1	울다	VV
+울/VV	1	울다	VV
+울/VV	1	울다	VV
+울/VV	1	울다	VV
+울리/VV	3	울리다	VV
+움직이/VV	2	움직이다	VV
+웃/VV	1	웃다	VV
+이러/VV	3	이러다	VV
+일어나/VV	1	일어나다	VV
+잊/VV	2	잊다	VV
+적시/VV	5	적시다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+죽/VV	2	죽다	VV
+죽/VV	2	죽다	VV
+죽/VV	2	죽다	VV
+중얼거리/VV	4	중얼거리다	VV
+쥐/VV	4	쥐다	VV
+쥐/VV	4	쥐다	VV
+지치/VV	4	지치다	VV
+지치/VV	4	지치다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+흔들/VV	2	흔들다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+고맙/VA	1	고맙다	VA
+과하/VA	5	과하다	VA
+관대하/VA	5	관대하다	VA
+기쁘/VA	1	기쁘다	VA
+멀/VA	1	멀다	VA
+무겁/VA	1	무겁다	VA
+새삼스럽/VA	6	새삼스럽다	VA
+아프/VA	1	아프다	VA
+어리/VA	2	어리다	VA
+어리/VA	2	어리다	VA
+엄청나/VA	4	엄청나다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+차/VA	2	차다	VA
+흐리/VA	1	흐리다	VA
+가격/NNG	1	가격	NNG
+가슴/NNG	2	가슴	NNG
+거의/NNG	2	거의	NNG
+걱정/NNG	2	걱정	NNG
+걸음/NNG	2	걸음	NNG
+구경/NNG	1	구경	NNG
+귀/NNG	1	귀	NNG
+귀/NNG	1	귀	NNG
+근심/NNG	4	근심	NNG
+금액/NNG	3	금액	NNG
+기쁨/NNG	2	기쁨	NNG
+기운/NNG	4	기운	NNG
+기차/NNG	1	기차	NNG
+길/NNG	1	길	NNG
+길/NNG	1	길	NNG
+까닭/NNG	4	까닭	NNG
+나이/NNG	2	나이	NNG
+날/NNG	1	날	NNG
+날/NNG	1	날	NNG
+날/NNG	1	날	NNG
+날씨/NNG	1	날씨	NNG
+남편/NNG	1	남편	NNG
+남편/NNG	1	남편	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+눈/NNG	1	눈	NNG
+눈물/NNG	2	눈물	NNG
+느낌/NNG	2	느낌	NNG
+대답/NNG	1	대답	NNG
+돈/NNG	1	돈	NNG
+돈/NNG	1	돈	NNG
+동안/NNG	1	동안	NNG
+말끝/NNG	5	말끝	NNG
+머리/NNG	1	머리	NNG
+머리/NNG	1	머리	NNG
+머리맡/NNG	6	머리맡	NNG
+바퀴/NNG	3	바퀴	NNG
+반응/NNG	4	반응	NNG
+발/NNG	1	발	NNG
+발길/NNG	4	발길	NNG
+방/NNG	1	방	NNG
+뱃속/NNG	3	뱃속	NNG
+비/NNG	1	비	NNG
+비/NNG	1	비	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사이/NNG	1	사이	NNG
+사이/NNG	1	사이	NNG
+산/NNG	1	산	NNG
+살/NNG	2	살	NNG
+생각/NNG	1	생각	NNG
+설렁탕/NNG	2	설렁탕	NNG
+설렁탕/NNG	2	설렁탕	NNG
+소리/NNG	2	소리	NNG
+소리/NNG	2	소리	NNG
+손/NNG	1	손	NNG
+손님/NNG	1	손님	NNG
+손님/NNG	1	손님	NNG
+손님/NNG	1	손님	NNG
+스케이트/NNG	2	스케이트	NNG
+아내/NNG	1	아내	NNG
+액수/NNG	4	액수	NNG
+얼굴/NNG	1	얼굴	NNG
+얼굴/NNG	1	얼굴	NNG
+얼굴/NNG	1	얼굴	NNG
+얼굴/NNG	1	얼굴	NNG
+얼굴/NNG	1	얼굴	NNG
+얼마/NNG	1	얼마	NNG
+얼마/NNG	1	얼마	NNG
+얼음/NNG	2	얼음	NNG
+열흘/NNG	2	열흘	NNG
+염려/NNG	6	염려	NNG
+염려/NNG	6	염려	NNG
+오늘/NNG	1	오늘	NNG
+오늘/NNG	1	오늘	NNG
+오늘/NNG	1	오늘	NNG
+오랜만/NNG	2	오랜만	NNG
+이날/NNG	2	이날	NNG
+입/NNG	1	입	NNG
+입/NNG	1	입	NNG
+입/NNG	1	입	NNG
+입/NNG	1	입	NNG
+자식/NNG	2	자식	NNG
+정거장/NNG	2	정거장	NNG
+정거장/NNG	2	정거장	NNG
+젖/NNG	4	젖	NNG
+제일/NNG	1	제일	NNG
+집/NNG	1	집	NNG
+집/NNG	1	집	NNG
+차이/NNG	3	차이	NNG
+학생/NNG	1	학생	NNG
+한복판/NNG	5	한복판	NNG
+행운/NNG	3	행운	NNG
+허리/NNG	2	허리	NNG
+환자/NNG	2	환자	NNG
+가까이/MAG	2	가까이	MA
+간신히/MAG	4	간신히	MA
+거의/MAG	2	거의	MA
+그래서/MAJ	1	그래서	MA
+그러나/MAJ	2	그러나	MA
+그러면/MAJ	1	그러면	MA
+그리고/MAJ	1	그리고	MA
+너무/MAG	1	너무	MA
+다시/MAG	1	다시	MA
+더/MAG	1	더	MA
+또/MAG	1	또	MA
+또/MAG	1	또	MA
+또다시/MAG	4	또다시	MA
+마치/MAG	4	마치	MA
+마치/MAG	4	마치	MA
+몹시/MAG	4	몹시	MA
+못/MAG	1	못	MA
+불쑥/MAG	6	불쑥	MA
+빨리/MAG	1	빨리	MA
+빨리/MAG	1	빨리	MA
+빨리/MAG	1	빨리	MA
+설마/MAG	4	설마	MA
+스스로/MAG	2	스스로	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+어서/MAG	1	어서	MA
+언뜻/MAG	6	언뜻	MA
+얼마나/MAG	1	얼마나	MA
+없이/MAG	3	없이	MA
+없이/MAG	3	없이	MA
+왜/MAG	1	왜	MA
+왜/MAG	1	왜	MA
+왜/MAG	1	왜	MA
+왜/MAG	1	왜	MA
+왜/MAG	1	왜	MA
+이윽고/MAG	4	이윽고	MA
+정말/MAG	1	정말	MA
+좀/MAG	1	좀	MA
+차차/MAG	4	차차	MA
+푹/MAG	2	푹	MA
+한꺼번에/MAG	4	한꺼번에	MA

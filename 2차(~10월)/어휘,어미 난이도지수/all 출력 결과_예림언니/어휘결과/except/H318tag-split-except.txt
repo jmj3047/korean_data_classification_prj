@@ -1,0 +1,12 @@
+유학	NNG
+점	NNG
+조사	NNG
+의사	NNG
+부족	NNG
+의사	NNG
+점	NNG
+대상	NNG
+조사	NNG
+유학	NNG
+기타	NNG
+구하	VV

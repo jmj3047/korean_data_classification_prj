@@ -1,0 +1,169 @@
+1
+1
+1
+1
+3
+1
+3
+4
+1
+7
+7
+7
+2
+2
+1
+1
+2
+2
+3
+3
+2
+3
+2
+3
+1
+2
+1
+끌/VV	3	끌다	VV
+나/VV	1	나다	VV
+대하/VV	3	대하다	VV
+대하/VV	3	대하다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+바라/VV	2	바라다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+살/VV	1	살다	VV
+쌓이/VV	3	쌓이다	VV
+쌓이/VV	3	쌓이다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+자/VV	1	자다	VV
+지키/VV	2	지키다	VV
+풀/VV	2	풀다	VV
+풀/VV	2	풀다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+높/VA	1	높다	VA
+다르/VA	1	다르다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+맛있/VA	1	맛있다	VA
+아깝/VA	4	아깝다	VA
+어떻/VA	1	어떻다	VA
+어떻/VA	1	어떻다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+좋/VA	1	좋다	VA
+크/VA	1	크다	VA
+건강/NNG	1	건강	NNG
+건강/NNG	1	건강	NNG
+건강/NNG	1	건강	NNG
+건강/NNG	1	건강	NNG
+건강/NNG	1	건강	NNG
+게임/NNG	1	게임	NNG
+결과/NNG	2	결과	NNG
+공원/NNG	1	공원	NNG
+관심/NNG	2	관심	NNG
+관심/NNG	2	관심	NNG
+나이/NNG	2	나이	NNG
+나이/NNG	2	나이	NNG
+남녀/NNG	2	남녀	NNG
+남성/NNG	2	남성	NNG
+남자/NNG	1	남자	NNG
+다음/NNG	1	다음	NNG
+달리기/NNG	2	달리기	NNG
+돈/NNG	1	돈	NNG
+동네/NNG	2	동네	NNG
+마음/NNG	1	마음	NNG
+마찬가지/NNG	4	마찬가지	NNG
+목욕/NNG	2	목욕	NNG
+문화/NNG	1	문화	NNG
+방법/NNG	2	방법	NNG
+방법/NNG	2	방법	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사우나/NNG	3	사우나	NNG
+사이트/NNG	3	사이트	NNG
+산책/NNG	1	산책	NNG
+생활/NNG	1	생활	NNG
+생활/NNG	1	생활	NNG
+성별/NNG	3	성별	NNG
+수영장/NNG	1	수영장	NNG
+술자리/NNG	4	술자리	NNG
+스트레스/NNG	2	스트레스	NNG
+스트레스/NNG	2	스트레스	NNG
+스트레스/NNG	2	스트레스	NNG
+스트레스/NNG	2	스트레스	NNG
+스트레스/NNG	2	스트레스	NNG
+스트레스/NNG	2	스트레스	NNG
+식품/NNG	2	식품	NNG
+여성/NNG	2	여성	NNG
+여자/NNG	1	여자	NNG
+영양제/NNG	3	영양제	NNG
+요가/NNG	3	요가	NNG
+운동/NNG	1	운동	NNG
+운동/NNG	1	운동	NNG
+운동/NNG	1	운동	NNG
+운동/NNG	1	운동	NNG
+운동/NNG	1	운동	NNG
+운동장/NNG	1	운동장	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식점/NNG	2	음식점	NNG
+인기/NNG	2	인기	NNG
+인삼/NNG	2	인삼	NNG
+인터넷/NNG	1	인터넷	NNG
+잠/NNG	1	잠	NNG
+전/NNG	1	전	NNG
+전부/NNG	2	전부	NNG
+직장/NNG	2	직장	NNG
+최근/NNG	2	최근	NNG
+최근/NNG	2	최근	NNG
+취미/NNG	1	취미	NNG
+텔레비전/NNG	1	텔레비전	NNG
+프로그램/NNG	1	프로그램	NNG
+프로그램/NNG	1	프로그램	NNG
+학교/NNG	1	학교	NNG
+한국인/NNG	3	한국인	NNG
+한국인/NNG	3	한국인	NNG
+한국인/NNG	3	한국인	NNG
+한약/NNG	5	한약	NNG
+해소/NNG	4	해소	NNG
+헬스클럽/NNG	2	헬스클럽	NNG
+흡연/NNG	5	흡연	NNG
+그러면/MAJ	1	그러면	MA
+그러면/MAJ	1	그러면	MA
+다/MAG	1	다	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+또한/MAG	3	또한	MA
+많이/MAG	1	많이	MA
+많이/MAG	1	많이	MA
+못/MAG	1	못	MA
+오래/MAG	2	오래	MA
+우선/MAG	2	우선	MA
+자주/MAG	1	자주	MA
+잘/MAG	1	잘	MA
+점점/MAG	2	점점	MA
+조금/MAG	1	조금	MA

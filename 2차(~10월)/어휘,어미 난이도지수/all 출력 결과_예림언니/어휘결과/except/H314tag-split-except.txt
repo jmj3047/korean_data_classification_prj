@@ -1,0 +1,8 @@
+이상	NNG
+대상	NNG
+조사	NNG
+따르	VV
+점	NNG
+따르	VV
+조사	NNG
+맞	VV

@@ -1,0 +1,10 @@
+이상	NNG
+과정	NNG
+싸	VV
+묻	VV
+통화	NNG
+쓰	VV
+포장	NNG
+쓰	VV
+전자	NNG
+일	NNG

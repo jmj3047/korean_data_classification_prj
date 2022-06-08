@@ -1,0 +1,234 @@
+1
+1
+2
+1
+1
+5
+2
+7
+7
+7
+2
+1
+1
+1
+7
+6
+1
+1
+1
+3
+3
+4
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+2
+1
+2
+3
+1
+1
+3
+가/VV	1	가다	VV
+가/VV	1	가다	VV
+넣/VV	1	넣다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+듣/VV	1	듣다	VV
+듣/VV	1	듣다	VV
+들/VV	1	들다	VV
+들/VV	1	들다	VV
+떠오르/VV	3	떠오르다	VV
+마시/VV	1	마시다	VV
+마시/VV	1	마시다	VV
+마시/VV	1	마시다	VV
+마시/VV	1	마시다	VV
+마시/VV	1	마시다	VV
+맞추/VV	2	맞추다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+먹/VV	1	먹다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+비/VV	2	비다	VV
+비/VV	2	비다	VV
+비치/VV	4	비치다	VV
+알/VV	1	알다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+오/VV	1	오다	VV
+원하/VV	2	원하다	VV
+자/VV	1	자다	VV
+자/VV	1	자다	VV
+주/VV	1	주다	VV
+주/VV	1	주다	VV
+지나/VV	1	지나다	VV
+지나/VV	1	지나다	VV
+차리/VV	3	차리다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+그렇/VA	1	그렇다	VA
+넉넉하/VA	4	넉넉하다	VA
+다르/VA	1	다르다	VA
+따뜻하/VA	1	따뜻하다	VA
+따뜻하/VA	1	따뜻하다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+많/VA	1	많다	VA
+맛있/VA	1	맛있다	VA
+색다르/VA	4	색다르다	VA
+아름답/VA	1	아름답다	VA
+아프/VA	1	아프다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+자랑스럽/VA	4	자랑스럽다	VA
+재미있/VA	1	재미있다	VA
+좋/VA	1	좋다	VA
+좋/VA	1	좋다	VA
+특별하/VA	1	특별하다	VA
+힘들/VA	1	힘들다	VA
+힘들/VA	1	힘들다	VA
+겨울/NNG	1	겨울	NNG
+경험/NNG	2	경험	NNG
+기회/NNG	2	기회	NNG
+낭만적/NNG	5	낭만적	NNG
+달빛/NNG	4	달빛	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+마을/NNG	2	마을	NNG
+마음/NNG	1	마음	NNG
+마음/NNG	1	마음	NNG
+만약/NNG	2	만약	NNG
+머릿속/NNG	4	머릿속	NNG
+모습/NNG	2	모습	NNG
+모습/NNG	2	모습	NNG
+몸/NNG	1	몸	NNG
+무료/NNG	2	무료	NNG
+문/NNG	1	문	NNG
+문/NNG	1	문	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+문화/NNG	1	문화	NNG
+바닥/NNG	2	바닥	NNG
+반찬/NNG	2	반찬	NNG
+반찬/NNG	2	반찬	NNG
+밥/NNG	1	밥	NNG
+방/NNG	1	방	NNG
+방학/NNG	1	방학	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+생활/NNG	1	생활	NNG
+세계/NNG	2	세계	NNG
+속도/NNG	2	속도	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+술/NNG	1	술	NNG
+술잔/NNG	3	술잔	NNG
+술잔/NNG	3	술잔	NNG
+시간/NNG	1	시간	NNG
+식당/NNG	1	식당	NNG
+아주머니/NNG	1	아주머니	NNG
+아파트/NNG	1	아파트	NNG
+옆/NNG	1	옆	NNG
+요리/NNG	1	요리	NNG
+요리/NNG	1	요리	NNG
+우리나라/NNG	2	우리나라	NNG
+유학생/NNG	2	유학생	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+음식/NNG	1	음식	NNG
+이야기/NNG	1	이야기	NNG
+인심/NNG	3	인심	NNG
+잠/NNG	1	잠	NNG
+전체/NNG	2	전체	NNG
+전통/NNG	3	전통	NNG
+정/NNG	3	정	NNG
+정도/NNG	2	정도	NNG
+정도/NNG	2	정도	NNG
+종류/NNG	2	종류	NNG
+주인/NNG	1	주인	NNG
+지붕/NNG	3	지붕	NNG
+집/NNG	1	집	NNG
+처음/NNG	1	처음	NNG
+처음/NNG	1	처음	NNG
+체험/NNG	3	체험	NNG
+체험/NNG	3	체험	NNG
+친구/NNG	1	친구	NNG
+침대/NNG	1	침대	NNG
+평소/NNG	2	평소	NNG
+한국인/NNG	3	한국인	NNG
+한국인/NNG	3	한국인	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+한옥/NNG	2	한옥	NNG
+가득/MAG	2	가득	MA
+가장/MAG	1	가장	MA
+같이/MAG	1	같이	MA
+같이/MAG	1	같이	MA
+게다가/MAG	4	게다가	MA
+계속/MAG	1	계속	MA
+계속/MAG	1	계속	MA
+그래서/MAJ	1	그래서	MA
+그런데/MAJ	1	그런데	MA
+그리고/MAJ	1	그리고	MA
+늘/MAG	2	늘	MA
+더/MAG	1	더	MA
+많이/MAG	1	많이	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+아주/MAG	1	아주	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+안/MAG	1	안	MA
+완전히/MAG	2	완전히	MA
+정말/MAG	1	정말	MA
+정말/MAG	1	정말	MA
+직접/MAG	2	직접	MA
+하지만/MAJ	1	하지만	MA
+함께/MAG	1	함께	MA
+항상/MAG	2	항상	MA
+항상/MAG	2	항상	MA

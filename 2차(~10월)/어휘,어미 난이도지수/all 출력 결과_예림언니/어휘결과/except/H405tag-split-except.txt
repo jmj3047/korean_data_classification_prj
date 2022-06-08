@@ -1,0 +1,12 @@
+수	NNG
+정원	NNG
+배	NNG
+지방	NNG
+구하	VV
+구하	VV
+구하	VV
+꾸	VV
+시기	NNG
+구하	VV
+구하	VV
+사회	NNG

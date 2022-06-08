@@ -1,0 +1,241 @@
+1
+3
+3
+2
+1
+4
+3
+7
+1
+6
+1
+5
+1
+7
+1
+1
+2
+6
+1
+1
+6
+7
+1
+4
+2
+1
+4
+1
+3
+1
+1
+1
+3
+1
+1
+2
+2
+2
+2
+3
+걸/VV	1	걸다	VV
+그러/VV	3	그러다	VV
+나누/VV	2	나누다	VV
+나아지/VV	3	나아지다	VV
+남/VV	2	남다	VV
+누리/VV	5	누리다	VV
+누리/VV	5	누리다	VV
+느끼/VV	2	느끼다	VV
+느끼/VV	2	느끼다	VV
+다가오/VV	4	다가오다	VV
+대하/VV	3	대하다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+되/VV	1	되다	VV
+드리/VV	1	드리다	VV
+떠오르/VV	3	떠오르다	VV
+떠올리/VV	3	떠올리다	VV
+먹/VV	1	먹다	VV
+묶/VV	3	묶다	VV
+밤새/VV	4	밤새다	VV
+보/VV	1	보다	VV
+보이/VV	2	보이다	VV
+보이/VV	2	보이다	VV
+부추기/VV	6	부추기다	VV
+불어오/VV	4	불어오다	VV
+사라지/VV	3	사라지다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살/VV	1	살다	VV
+살아가/VV	4	살아가다	VV
+속하/VV	4	속하다	VV
+스치/VV	4	스치다	VV
+쌓/VV	2	쌓다	VV
+앉/VV	1	앉다	VV
+움직이/VV	2	움직이다	VV
+위하/VV	3	위하다	VV
+위하/VV	3	위하다	VV
+일어나/VV	1	일어나다	VV
+찾/VV	1	찾다	VV
+찾아보/VV	1	찾아보다	VV
+틀/VV	2	틀다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+하/VV	1	하다	VV
+가득하/VA	3	가득하다	VA
+같/VA	1	같다	VA
+같/VA	1	같다	VA
+드물/VA	4	드물다	VA
+바쁘/VA	1	바쁘다	VA
+부지런하/VA	2	부지런하다	VA
+아름답/VA	1	아름답다	VA
+아름답/VA	1	아름답다	VA
+어렵/VA	1	어렵다	VA
+어색하/VA	4	어색하다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+없/VA	1	없다	VA
+이렇/VA	2	이렇다	VA
+이렇/VA	2	이렇다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+있/VA	1	있다	VA
+적/VA	1	적다	VA
+크/VA	1	크다	VA
+한심하/VA	6	한심하다	VA
+힘들/VA	1	힘들다	VA
+걱정/NNG	2	걱정	NNG
+경쟁/NNG	4	경쟁	NNG
+경쟁/NNG	4	경쟁	NNG
+고민/NNG	2	고민	NNG
+고민/NNG	2	고민	NNG
+고민/NNG	2	고민	NNG
+고생/NNG	3	고생	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+곳/NNG	1	곳	NNG
+관련/NNG	3	관련	NNG
+교수/NNG	2	교수	NNG
+국어/NNG	3	국어	NNG
+나무/NNG	1	나무	NNG
+날/NNG	1	날	NNG
+낭만/NNG	5	낭만	NNG
+낭만/NNG	5	낭만	NNG
+낭만/NNG	5	낭만	NNG
+낭만/NNG	5	낭만	NNG
+낭만/NNG	5	낭만	NNG
+낭만/NNG	5	낭만	NNG
+낭만/NNG	5	낭만	NNG
+뇌/NNG	4	뇌	NNG
+단어/NNG	1	단어	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학/NNG	1	대학	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+대학생/NNG	1	대학생	NNG
+둥지/NNG	4	둥지	NNG
+둥지/NNG	4	둥지	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+때/NNG	4	때	NNG
+며칠/NNG	1	며칠	NNG
+모두/NNG	1	모두	NNG
+무한/NNG	6	무한	NNG
+문/NNG	1	문	NNG
+문제/NNG	2	문제	NNG
+반/NNG	1	반	NNG
+밤새/NNG	3	밤새	NNG
+백수/NNG	6	백수	NNG
+부담/NNG	3	부담	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사람/NNG	1	사람	NNG
+사이버/NNG	4	사이버	NNG
+새벽/NNG	2	새벽	NNG
+생활/NNG	1	생활	NNG
+선배/NNG	2	선배	NNG
+세상/NNG	2	세상	NNG
+세상/NNG	2	세상	NNG
+시간/NNG	1	시간	NNG
+시간/NNG	1	시간	NNG
+시대/NNG	3	시대	NNG
+시대/NNG	3	시대	NNG
+시절/NNG	4	시절	NNG
+얼굴/NNG	1	얼굴	NNG
+여유/NNG	3	여유	NNG
+여유/NNG	3	여유	NNG
+예비/NNG	4	예비	NNG
+옛날/NNG	2	옛날	NNG
+오늘/NNG	1	오늘	NNG
+욕심/NNG	4	욕심	NNG
+이야기/NNG	1	이야기	NNG
+인문학/NNG	6	인문학	NNG
+인적/NNG	6	인적	NNG
+잔디밭/NNG	3	잔디밭	NNG
+적극적/NNG	4	적극적	NNG
+전/NNG	1	전	NNG
+전/NNG	1	전	NNG
+정답/NNG	3	정답	NNG
+주제/NNG	3	주제	NNG
+준비/NNG	1	준비	NNG
+지구/NNG	4	지구	NNG
+청년/NNG	2	청년	NNG
+청년/NNG	2	청년	NNG
+취업/NNG	4	취업	NNG
+취업/NNG	4	취업	NNG
+친구/NNG	1	친구	NNG
+캠퍼스/NNG	5	캠퍼스	NNG
+캠퍼스/NNG	5	캠퍼스	NNG
+캠퍼스/NNG	5	캠퍼스	NNG
+캠퍼스/NNG	5	캠퍼스	NNG
+커플/NNG	5	커플	NNG
+특권/NNG	6	특권	NNG
+학과/NNG	3	학과	NNG
+학생/NNG	1	학생	NNG
+한마디/NNG	4	한마디	NNG
+한참/NNG	3	한참	NNG
+현실/NNG	4	현실	NNG
+현재/NNG	2	현재	NNG
+훗날/NNG	5	훗날	NNG
+다/MAG	1	다	MA
+달리/MAG	4	달리	MA
+더/MAG	1	더	MA
+더/MAG	1	더	MA
+먼저/MAG	1	먼저	MA
+멀리/MAG	2	멀리	MA
+물론/MAG	2	물론	MA
+물론/MAG	2	물론	MA
+바로/MAG	1	바로	MA
+아무리/MAG	2	아무리	MA
+언젠가/MAG	4	언젠가	MA
+얼마나/MAG	1	얼마나	MA
+열심히/MAG	1	열심히	MA
+열심히/MAG	1	열심히	MA
+즉/MAG	3	즉	MA
+하지만/MAJ	1	하지만	MA
+하지만/MAJ	1	하지만	MA
+흔히/MAG	4	흔히	MA
